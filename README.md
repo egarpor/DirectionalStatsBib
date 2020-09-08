@@ -2,7 +2,7 @@ DirectionalStats.bib
 ====================
 [![License](https://img.shields.io/badge/license-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-`DirectionalStats.bib` is a curated BibTeX file with the details of virtually all publications on Directional Statistics published to date (as of 2020-05-14). It was compiled by Arthur Pewsey and Eduardo García-Portugués to accompany the review paper *Recent advances in directional statistics* ([arXiv:2005.06889](https://arxiv.org/abs/2005.06889)).
+`DirectionalStats.bib` is a curated BibTeX file with the details of virtually all publications on Directional Statistics published to date. It was compiled by Arthur Pewsey and Eduardo García-Portugués to accompany the review paper *Recent advances in directional statistics* ([arXiv:2005.06889](https://arxiv.org/abs/2005.06889)).
 
 ## Usage
 
