@@ -16,14 +16,16 @@ You are most welcome to contribute the details of any paper related to Direction
 
 ## Citation
 
-If you found `DirectionalStats.bib` useful, you may consider citing the paper:
+If you found `DirectionalStats.bib` useful, you may consider citing the forthcoming *TEST* paper:
 
 ```
 @article{Pewsey2020,
 	title        = {Recent advances in directional statistics},
 	author       = {Pewsey, A. and Garc\'ia-Portugu\'es, E.},
 	year         = {2020},
-	journal      = {arXiv:2005.06889},
+	journal      = {TEST},
+	fjournal     = {TEST},
+	volume       = {to appear},
 	url          = {https://arxiv.org/abs/2005.06889}
 }
 ```
