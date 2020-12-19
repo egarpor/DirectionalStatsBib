@@ -24,6 +24,7 @@ If you found `DirectionalStats.bib` useful, you may consider citing the forthcom
 	author       = {Pewsey, A. and Garc\'ia-Portugu\'es, E.},
 	year         = {2020},
 	journal      = {TEST},
+	fjournal     = {TEST},
 	volume       = {to appear},
 	url          = {https://arxiv.org/abs/2005.06889}
 }
