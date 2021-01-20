@@ -19,10 +19,10 @@ You are most welcome to contribute the details of any paper related to Direction
 If you found `DirectionalStats.bib` useful, you may consider citing the forthcoming *TEST* paper:
 
 ```
-@article{Pewsey2020,
+@article{Pewsey2021,
 	title        = {Recent advances in directional statistics},
 	author       = {Pewsey, A. and Garc\'ia-Portugu\'es, E.},
-	year         = {2020},
+	year         = {2021},
 	journal      = {TEST},
 	fjournal     = {TEST},
 	volume       = {to appear},
