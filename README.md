@@ -26,7 +26,8 @@ If you found `DirectionalStats.bib` useful, you may consider citing the forthcom
 	journal      = {TEST},
 	fjournal     = {TEST},
 	volume       = {to appear},
-	url          = {https://arxiv.org/abs/2005.06889}
+	url          = {https://arxiv.org/abs/2005.06889},
+	doi          = {10.1007/s11749-021-00759-x}
 }
 ```
 
