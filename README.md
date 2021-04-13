@@ -25,9 +25,9 @@ If you found `DirectionalStats.bib` useful, you may consider citing the forthcom
 	year         = {2021},
 	journal      = {TEST},
 	fjournal     = {TEST},
-	volume       = {to appear},
-	number       = {},
-	pages        = {},
+	volume       = {30},
+	number       = {1},
+	pages        = {1--58},
 	doi          = {10.1007/s11749-021-00759-x}
 }
 ```
