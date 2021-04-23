@@ -2,7 +2,7 @@ DirectionalStats.bib
 ====================
 [![License](https://img.shields.io/badge/license-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-`DirectionalStats.bib` is a curated BibTeX file with the details of virtually all publications on Directional Statistics published to date. It was compiled by Arthur Pewsey and Eduardo García-Portugués to accompany the invited discussion paper *Recent advances in directional statistics* ([doi:10.1007/s11749-021-00759-x](https://doi.org/10.1007/s11749-021-00759-x)), to appear in *TEST*.
+`DirectionalStats.bib` is a curated BibTeX file with the details of virtually all publications on Directional Statistics published to date. It was compiled by Arthur Pewsey and Eduardo García-Portugués to accompany the invited discussion paper *Recent advances in directional statistics* ([doi:10.1007/s11749-021-00759-x](https://doi.org/10.1007/s11749-021-00759-x)), published in *Test*.
 
 ## Usage
 
@@ -16,15 +16,15 @@ You are most welcome to contribute the details of any paper related to Direction
 
 ## Citation
 
-If you found `DirectionalStats.bib` useful, you may consider citing the forthcoming *TEST* paper:
+If you found `DirectionalStats.bib` useful, you may consider citing the forthcoming *Test* paper:
 
 ```
 @article{Pewsey2021,
 	title        = {Recent advances in directional statistics},
 	author       = {Pewsey, A. and Garc\'ia-Portugu\'es, E.},
 	year         = {2021},
-	journal      = {TEST},
-	fjournal     = {TEST},
+	journal      = {Test},
+	fjournal     = {Test},
 	volume       = {30},
 	number       = {1},
 	pages        = {1--58},
