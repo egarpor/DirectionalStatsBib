@@ -11,3 +11,6 @@
 *.log
 *.out
 *.gz
+all-references.fls
+all-references.fdb_latexmk
+other-bibs/*
