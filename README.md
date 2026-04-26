@@ -10,7 +10,7 @@ DirectionalStats.bib
 
 The entries are sorted alphabetically by their type (first `@article`s, second `@book`s, etc), then inverse chronological order, then alphabetical order from the author's surname. The fields of each entry are sorted according to the following order: title, subtitle, author, year, journal, fjournal, booktitle, booksubtitle, publisher, address, series, volume, number, pages, editor, edition, note, url, doi.
 
-## Contribution
+## Contributions
 
 You are most welcome to contribute the details of any paper related to Directional Statistics (or relevant to the field) and report typos. Please contribute new entries following the template style and with full publishing information. The simplest way to do so is to search previous entries (`@article`, `@book`, `@collection`, `@incollection`, `@inproceedings`, `@manual`, etc.) and imitate as close as possible. To contribute entries, either open a pull request or reach out by email.
 

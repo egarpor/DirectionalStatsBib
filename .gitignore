@@ -6,7 +6,6 @@
 *.txt
 *.R
 *.aux
-*.bbl
 *.blg
 *.log
 *.out
