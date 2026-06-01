@@ -360,7 +360,7 @@ def check_page_format(entries: list[dict]) -> list[dict]:
         if not pages or "--" in pages:
             continue
         if _SINGLE_DASH_RANGE.search(pages):
-            fixed = _SINGLE_DASH_RANGE.sub(r"\1--\2", pages)
+            fixed = _SINGLE_DASH_RANGE.sub("--", pages)
             issues.append(
                 _fixable("W5", e, f"pages = {{{pages}}}  →  {{{fixed}}}",
                          "pages", pages, fixed,
