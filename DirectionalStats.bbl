@@ -7871,10 +7871,6 @@ Pramesti, G. and Jin, Y. (2016).
 \newblock Exponential circular distribution motivated by inverse stereographic projection.
 \newblock {\em International Journal of Applied Mathematics and Statistics}, 54(2):114--122.
 
-\bibitem[Preamble, 3000]{preamble}
-Preamble, A. (3000).
-\newblock This is the preamble entry, used to keep the preamble always at the beginning of the bibliography.
-
 \bibitem[Prentice, 1978]{Prentice1978}
 Prentice, M.~J. (1978).
 \newblock On invariant tests of uniformity for directions and orientations.
@@ -10409,5 +10405,9 @@ Zuo, Y. and Serfling, R. (2000).
 \newblock General notions of statistical depth function.
 \newblock {\em The Annals of Statistics}, 28(2):461--482.
 \newblock \href {http://dx.doi.org/10.1214/aos/1016218226} {\path{doi:10.1214/aos/1016218226}}.
+
+\bibitem[ZZZ, 3000]{preamble}
+ZZZ, Z. (3000).
+\newblock Preamble entry, used to keep the preamble always at the beginning of the bibliography when sorting.
 
 \end{thebibliography}
