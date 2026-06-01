@@ -10,7 +10,7 @@
 *.log
 *.out
 *.gz
-all-references.fls
-all-references.fdb_latexmk
+DirectionalStats.fls
+DirectionalStats.fdb_latexmk
 other-bibs/*
 DirectionalStatsBib.code-workspace

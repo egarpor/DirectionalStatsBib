@@ -32,13 +32,7 @@ Auto-fixable issues (E4, W5) are always safe to apply without human review.
 ### After fixing, re-tidy formatting
 
 ```bash
-./bibtex-tidy-master/bin/bibtex-tidy \
-  --sort=type,-year,author,key \
-  --no-escape --align=13 --curly --tab \
-  --duplicates=citation \
-  --sort-fields=title,subtitle,author,year,journal,fjournal,booktitle,booksubtitle,publisher,address,series,volume,number,pages,editor,edition,note,url,doi \
-  --no-remove-dupe-fields \
-  DirectionalStats.bib
+./bibclean.sh
 ```
 
 ---
@@ -70,7 +64,7 @@ Auto-fixable issues (E4, W5) are always safe to apply without human review.
 
 ### Entry field order
 
-All entries must use this exact field order (bibtex-tidy enforces it):
+All entries must use this exact field order (bibclean.sh enforces it):
 
 ```
 title, subtitle, author, year, journal, fjournal, booktitle, booksubtitle,
