@@ -349,7 +349,7 @@ def check_missing_fjournal(entries: list[dict]) -> list[dict]:
     return issues
 
 
-_SINGLE_DASH_RANGE = re.compile(r"(\d)\s*-\s*(\d)")
+_SINGLE_DASH_RANGE = re.compile(r"(?<!-)\s*-\s*(?!-)")
 
 
 def check_page_format(entries: list[dict]) -> list[dict]:
