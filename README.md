@@ -8,9 +8,11 @@ DirectionalStats.bib
 
 [Retrieve the most updated version](https://raw.githubusercontent.com/egarpor/DirectionalStatsBib/master/DirectionalStats.bib) (right click and "Save as") and use it with `\bibliography{DirectionalStats}` in your LaTeX document. For the compatibility of certain characters, consider adding `\usepackage[T1]{fontenc}` in your LaTeX preamble.
 
+A human-readable rendering of all the entries is available in [`DirectionalStats.pdf`](https://github.com/egarpor/DirectionalStatsBib/blob/master/DirectionalStats.pdf), compiled from [`DirectionalStats.tex`](https://github.com/egarpor/DirectionalStatsBib/blob/master/DirectionalStats.tex).
+
 The entries are sorted alphabetically by their type (first `@article`s, second `@book`s, etc), then inverse chronological order, then alphabetical order from the author's surname. The fields of each entry are sorted according to the following order: title, subtitle, author, year, journal, fjournal, booktitle, booksubtitle, publisher, address, series, volume, number, pages, editor, edition, note, url, doi.
 
-## Contribution
+## Contributions
 
 You are most welcome to contribute the details of any paper related to Directional Statistics (or relevant to the field) and report typos. Please contribute new entries following the template style and with full publishing information. The simplest way to do so is to search previous entries (`@article`, `@book`, `@collection`, `@incollection`, `@inproceedings`, `@manual`, etc.) and imitate as close as possible. To contribute entries, either open a pull request or reach out by email.
 

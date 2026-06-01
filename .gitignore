@@ -6,8 +6,11 @@
 *.txt
 *.R
 *.aux
-*.bbl
 *.blg
 *.log
 *.out
 *.gz
+DirectionalStats.fls
+DirectionalStats.fdb_latexmk
+other-bibs/*
+DirectionalStatsBib.code-workspace
