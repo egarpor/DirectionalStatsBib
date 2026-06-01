@@ -1,9 +1,6 @@
 % DirectionalStats.bib v1.27
 \begin{thebibliography}{}
 
-\bibitem[pre, 3000]{preamble}
- (3000).
-
 \bibitem[Aakala et~al., 2016]{Aakala2016}
 Aakala, T., Shimatani, K., Abe, T., Kubota, Y., and Kuuluvainen, T. (2016).
 \newblock Crown asymmetry in high latitude forests: disentangling the directional effects of tree competition and solar radiation.
@@ -7873,6 +7870,10 @@ Potgieter, C.~J. (2019).
 Pramesti, G. and Jin, Y. (2016).
 \newblock Exponential circular distribution motivated by inverse stereographic projection.
 \newblock {\em International Journal of Applied Mathematics and Statistics}, 54(2):114--122.
+
+\bibitem[Preamble, 3000]{preamble}
+Preamble, A. (3000).
+\newblock This is the preamble entry, used to keep the preamble always at the beginning of the bibliography.
 
 \bibitem[Prentice, 1978]{Prentice1978}
 Prentice, M.~J. (1978).
