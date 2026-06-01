@@ -1,6 +1,9 @@
 % DirectionalStats.bib v1.27
 \begin{thebibliography}{}
 
+\bibitem[pre, 3000]{preamble}
+ (3000).
+
 \bibitem[Aakala et~al., 2016]{Aakala2016}
 Aakala, T., Shimatani, K., Abe, T., Kubota, Y., and Kuuluvainen, T. (2016).
 \newblock Crown asymmetry in high latitude forests: disentangling the directional effects of tree competition and solar radiation.
