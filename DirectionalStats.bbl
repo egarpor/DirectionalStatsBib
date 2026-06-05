@@ -2246,11 +2246,11 @@ Dimroth, E. (1963).
 \newblock Fortschritte der {G}ef\"ugestatistik.
 \newblock {\em Neues Jahrbuch f\"ur Mineralogie}, 13:186--192.
 
-\bibitem[{DLMF}, 2020]{NIST:DLMF}
-{DLMF} (2020).
+\bibitem[{DLMF}, 2026]{NIST:DLMF}
+{DLMF} (2026).
 \newblock {\it NIST Digital Library of Mathematical Functions}.
-\newblock https://dlmf.nist.gov/, Release 1.0.27 of 2020-06-15.
-\newblock F. W. J. Olver, A. B. {Olde Daalhuis}, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Miller and B. V. Saunders, eds.
+\newblock http://dlmf.nist.gov/, Release 1.2.6 of 2026-03-15.
+\newblock F.~W.~J. Olver, A.~B. {Olde Daalhuis}, D.~W. Lozier, B.~I. Schneider, R.~F. Boisvert, C.~W. Clark, B.~R. Miller, B.~V. Saunders, H.~S. Cohl, and M.~A. McClain, eds.
 \newblock URL: \url{https://dlmf.nist.gov/}.
 
 \bibitem[Dobson, 1978]{Dobson1978}
