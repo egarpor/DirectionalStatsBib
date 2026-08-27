@@ -1,4 +1,4 @@
-% DirectionalStats.bib v1.28
+% DirectionalStats.bib v1.30
 \begin{thebibliography}{}
 
 \bibitem[Aakala et~al., 2016]{Aakala2016}
@@ -606,6 +606,7 @@ Banerjee, A., Dhillon, I., Ghosh, J., and Sra, S. (2003).
 Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2005a).
 \newblock Clustering on the unit hypersphere using von {M}ises-{F}isher distributions.
 \newblock {\em Journal of Machine Learning Research}, 6(Sep):1345--1382.
+\newblock URL: \url{https://jmlr.org/papers/v6/banerjee05a.html}.
 
 \bibitem[Banerjee et~al., 2009]{Banerjee2009}
 Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2009).
@@ -860,7 +861,7 @@ Beran, R. (2016).
 Beran, R.~J. (1968).
 \newblock Testing for uniformity on a compact homogeneous space.
 \newblock {\em Journal of Applied Probability}, 5(1):177--195.
-\newblock \href {http://dx.doi.org/10.1017/s002190020003237x} {\path{doi:10.1017/s002190020003237x}}.
+\newblock \href {http://dx.doi.org/10.2307/3212085} {\path{doi:10.2307/3212085}}.
 
 \bibitem[Beran, 1969a]{Beran1969}
 Beran, R.~J. (1969a).
@@ -1369,6 +1370,7 @@ Cagnacci, F., Boitani, L., Powell, R.~A., and Boyce, M.~S. (2010).
 Cai, T., Fan, J., and Jiang, T. (2013).
 \newblock Distributions of angles in random packing on spheres.
 \newblock {\em Journal of Machine Learning Research}, 14(21):1837--1864.
+\newblock URL: \url{https://jmlr.org/papers/v14/cai13a.html}.
 
 \bibitem[Cai and Jiang, 2012]{Cai2012}
 Cai, T. and Jiang, T. (2012).
@@ -3238,10 +3240,10 @@ Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2021b).
 \newblock {\em arXiv:2108.09874}.
 \newblock \href {http://dx.doi.org/10.48550/arXiv.2108.09874} {\path{doi:10.48550/arXiv.2108.09874}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2022]{Garcia-Portugues2020e}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2022).
+\bibitem[Garc\'ia-Portugu\'es et~al., 2026]{Garcia-Portugues2020e}
+Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026).
 \newblock {\em {rotasym}: Tests for Rotational Symmetry on the Hypersphere}.
-\newblock {R} package version 1.1.4.
+\newblock {R} package version 1.3.1.
 \newblock URL: \url{https://CRAN.R-project.org/package=rotasym}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2019]{Garcia-Portugues2019}
@@ -3262,10 +3264,10 @@ Garc\'ia-Portugu\'es, E. and Verdebout, T. (2018).
 \newblock {\em arXiv:1804.00286}.
 \newblock \href {http://dx.doi.org/10.48550/arXiv.1804.00286} {\path{doi:10.48550/arXiv.1804.00286}}.
 
-\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2021]{Garcia-Portugues2020c}
-Garc\'ia-Portugu\'es, E. and Verdebout, T. (2021).
+\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2026]{Garcia-Portugues2020c}
+Garc\'ia-Portugu\'es, E. and Verdebout, T. (2026).
 \newblock {\em {sphunif}: Uniformity Tests on the Circle, Sphere, and Hypersphere}.
-\newblock {R} package version 1.0.1.
+\newblock {R} package version 1.5.0.
 \newblock URL: \url{https://CRAN.R-project.org/package=sphunif}.
 
 \bibitem[Garner, 1968]{Garner1968}
@@ -3669,8 +3671,8 @@ Guttorp, P. and Lockhart, R.~A. (1988).
 \newblock {\em Journal of the American Statistical Association}, 83(402):322--330.
 \newblock \href {http://dx.doi.org/10.1080/01621459.1988.10478601} {\path{doi:10.1080/01621459.1988.10478601}}.
 
-\bibitem[Gy\H{o}ri et~al., 2016]{Gyoeri2016}
-Gy\H{o}ri, L., Baranyi, T., and Ludm\'any, A. (2016).
+\bibitem[Gy\H{o}ri et~al., 2017]{Gyoeri2016}
+Gy\H{o}ri, L., Ludm\'any, A., and Baranyi, T. (2017).
 \newblock Comparative analysis of {D}ebrecen sunspot catalogues.
 \newblock {\em Monthly Notices of the Royal Astronomical Society}, 465(2):1259--1273.
 \newblock \href {http://dx.doi.org/10.1093/mnras/stw2667} {\path{doi:10.1093/mnras/stw2667}}.
@@ -3726,6 +3728,7 @@ Hamelryck, T., Mardia, K., and Ferkinghoff-Borg, J. (Eds.) (2012).
 Hamsici, O.~C. and Martinez, A.~M. (2007).
 \newblock Spherical-homoscedastic distributions: the equivalency of spherical and normal distributions in classification.
 \newblock {\em Journal of Machine Learning Research}, 8(Jul):1583--1623.
+\newblock URL: \url{https://jmlr.org/papers/v8/hamsici07a.html}.
 
 \bibitem[Hanbury and Serra, 2001]{Hanbury2001}
 Hanbury, A.~G. and Serra, J. (2001).
@@ -4342,6 +4345,7 @@ Hussain, I., Ali, S.~M., Khan, B., Ullah, Z., Mehmood, C.~A., Jawad, M., Farid, 
 Hyv\"arinen, A. (2005).
 \newblock Estimation of non-normalized statistical models by score matching.
 \newblock {\em Journal of Machine Learning Research}, 6(Apr):695--709.
+\newblock URL: \url{https://jmlr.org/papers/v6/hyvarinen05a.html}.
 
 \bibitem[Ibero, 1975]{Ibero1975}
 Ibero, M. (1975).
@@ -10358,6 +10362,7 @@ Zhang, M. and Fletcher, T. (2013).
 Zhang, Y. and Chen, Y.-C. (2021).
 \newblock Kernel smoothing, mean shift, and their learning theory with directional data.
 \newblock {\em Journal of Machine Learning Research}, 22(154):1--92.
+\newblock URL: \url{https://jmlr.org/papers/v22/20-1194.html}.
 
 \bibitem[Zhang et~al., 2018b]{Zhang2018a}
 Zhang, Z., Klassen, E., and Srivastava, A. (2018b).
