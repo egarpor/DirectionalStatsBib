@@ -1159,6 +1159,12 @@ Boomsma, W., Mardia, K.~V., Taylor, C.~C., Ferkinghoff-Borg, J., Krogh, A., and 
 \newblock {\em Proceedings of the National Academy of Sciences of the United States of America}, 105(26):8932--8937.
 \newblock \href {http://dx.doi.org/10.1073/pnas.0801715105} {\path{doi:10.1073/pnas.0801715105}}.
 
+\bibitem[Borodavka and Ebner, 2023]{Borodavka2023}
+Borodavka, J. and Ebner, B. (2023).
+\newblock A general maximal projection approach to uniformity testing on the hypersphere.
+\newblock {\em Bernoulli}, 32(2):996--1019.
+\newblock \href {http://dx.doi.org/10.3150/25-BEJ1889} {\path{doi:10.3150/25-BEJ1889}}.
+
 \bibitem[Boulerice and Ducharme, 1994]{Boulerice1994}
 Boulerice, B. and Ducharme, G.~R. (1994).
 \newblock Decentered directional data.
@@ -2449,6 +2455,12 @@ Eben, K. (1983).
 \newblock Classification into two von {M}ises distributions with unknown mean directions.
 \newblock {\em Aplikace Matematiky}, 28(3):230--237.
 \newblock \href {http://dx.doi.org/10.21136/am.1983.104029} {\path{doi:10.21136/am.1983.104029}}.
+
+\bibitem[Ebner et~al., 2024]{Ebner2024}
+Ebner, B., Henze, N., and Meintanis, S. (2024).
+\newblock A unified approach to goodness-of-fit testing for spherical and hyperspherical data.
+\newblock {\em Statistical Papers}, 65(6):3447--3475.
+\newblock \href {http://dx.doi.org/10.1007/s00362-024-01529-1} {\path{doi:10.1007/s00362-024-01529-1}}.
 
 \bibitem[Ebner et~al., 2018]{Ebner2018}
 Ebner, B., Henze, N., and Yukich, J.~E. (2018).
