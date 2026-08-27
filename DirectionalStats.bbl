@@ -2694,11 +2694,23 @@ Fern\'andez, M.~A., Rueda, C., and Peddada, S.~D. (2012).
 \newblock {\em Nucleic Acids Research}, 40(7):2823--2832.
 \newblock \href {http://dx.doi.org/10.1093/nar/gkr1077} {\path{doi:10.1093/nar/gkr1077}}.
 
-\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023]{Fernandez-de-Marcos2023}
-Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023).
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023a]{Fernandez-de-Marcos2023}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023a).
 \newblock Data-driven stabilizations of goodness-of-fit tests.
 \newblock {\em Computational Statistics \& Data Analysis}, 179:107653.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2022.107653} {\path{doi:10.1016/j.csda.2022.107653}}.
+
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023b]{Fernandez-de-Marcos2023b}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023b).
+\newblock On new omnibus tests of uniformity on the hypersphere.
+\newblock {\em Test}, 32(4):1508--1529.
+\newblock \href {http://dx.doi.org/10.1007/s11749-023-00882-x} {\path{doi:10.1007/s11749-023-00882-x}}.
+
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2024]{Fernandez-de-Marcos2024}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2024).
+\newblock A stereographic test of spherical uniformity.
+\newblock {\em Statistics \& Probability Letters}, 215:110218.
+\newblock \href {http://dx.doi.org/10.1016/j.spl.2024.110218} {\path{doi:10.1016/j.spl.2024.110218}}.
 
 \bibitem[Fern\'andez-Dur\'an, 2004]{Fernandez-Duran2004}
 Fern\'andez-Dur\'an, J.~J. (2004).
