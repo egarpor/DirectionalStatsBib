@@ -146,7 +146,7 @@ Ackermann, H. (1991).
 Adler, D., Murdoch, D., et~al. (2020).
 \newblock {\em {rgl}: {3D} Visualization Using {OpenGL}}.
 \newblock {R} package version 0.100.54.
-\newblock URL: \url{https://CRAN.R-project.org/package=rgl}.
+\newblock URL: \url{https://CRAN.R-project.org/package=rgl}, \href {http://dx.doi.org/10.32614/CRAN.package.rgl} {\path{doi:10.32614/CRAN.package.rgl}}.
 
 \bibitem[Agiomyrgiannakis and Stylianou, 2009]{Agiomyrgiannakis2009}
 Agiomyrgiannakis, Y. and Stylianou, Y. (2009).
@@ -170,7 +170,7 @@ Agostinelli, C. (2015).
 Agostinelli, C. and Lund, U. (2017).
 \newblock {\em {R} package {circular}: Circular Statistics}.
 \newblock {R} package version 0.4-93.
-\newblock URL: \url{https://CRAN.R-project.org/package=circular}.
+\newblock URL: \url{https://CRAN.R-project.org/package=circular}, \href {http://dx.doi.org/10.32614/CRAN.package.circular} {\path{doi:10.32614/CRAN.package.circular}}.
 
 \bibitem[Agostinelli and Romanazzi, 2013a]{Agostinelli2013}
 Agostinelli, C. and Romanazzi, M. (2013a).
@@ -683,7 +683,7 @@ Barndorff-Nielsen, O.~E., Blaesild, P., Jensen, J.~L., and J{\o}rgensen, B. (198
 Barnett, A. and Baker, P. (2020).
 \newblock {\em {season}: Analysing Seasonal Data {R} Functions}.
 \newblock {R} package version 0.3.12.
-\newblock URL: \url{https://CRAN.R-project.org/package=season}.
+\newblock URL: \url{https://CRAN.R-project.org/package=season}, \href {http://dx.doi.org/10.32614/CRAN.package.season} {\path{doi:10.32614/CRAN.package.season}}.
 
 \bibitem[Barnett and Lewis, 1994]{Barnett1994}
 Barnett, V. and Lewis, T. (1994).
@@ -1187,7 +1187,7 @@ Bowers, J.~A., Morton, I.~D., and Mould, G.~I. (2000).
 Bowman, A. and Azzalini, A. (2018).
 \newblock {\em {R} package {sm}: Nonparametric Smoothing Methods}.
 \newblock {R} package version 2.2-5.6.
-\newblock URL: \url{https://CRAN.R-project.org/package=sm}.
+\newblock URL: \url{https://CRAN.R-project.org/package=sm}, \href {http://dx.doi.org/10.32614/CRAN.package.sm} {\path{doi:10.32614/CRAN.package.sm}}.
 
 \bibitem[Bowman, 1992]{Bowman1992}
 Bowman, A.~W. (1992).
@@ -1305,7 +1305,7 @@ Burr, E.~J. (1964).
 Buttarazzi, D. (2020).
 \newblock {\em {bpDir}: Boxplots for Directional Data}.
 \newblock {R} package version 0.1.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=bpDir}.
+\newblock URL: \url{https://CRAN.R-project.org/package=bpDir}, \href {http://dx.doi.org/10.32614/CRAN.package.bpDir} {\path{doi:10.32614/CRAN.package.bpDir}}.
 
 \bibitem[Buttarazzi et~al., 2018]{Buttarazzi2018}
 Buttarazzi, D., Pandolfo, G., and Porzio, G.~C. (2018).
@@ -1457,7 +1457,7 @@ Cetingul, H.~E. and Vidal, R. (2009).
 Chakraborty, S. and Wong, S. W.~K. (2019).
 \newblock {\em {BAMBI}: Bivariate Angular Mixture Models}.
 \newblock {R} package version 2.3.0.
-\newblock URL: \url{https://CRAN.R-project.org/package=BAMBI}.
+\newblock URL: \url{https://CRAN.R-project.org/package=BAMBI}, \href {http://dx.doi.org/10.32614/CRAN.package.BAMBI} {\path{doi:10.32614/CRAN.package.BAMBI}}.
 
 \bibitem[Chan and He, 1993]{Chan1993}
 Chan, Y.~M. and He, X. (1993).
@@ -1859,7 +1859,7 @@ Creer, K.~M., Irving, E., and Nairn, A. E.~M. (1959).
 Cremers, J. (2020).
 \newblock {\em {bpnreg}: {B}ayesian Projected Normal Regression Models for Circular Data}.
 \newblock {R} package version 1.0.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=bpnreg}.
+\newblock URL: \url{https://CRAN.R-project.org/package=bpnreg}, \href {http://dx.doi.org/10.32614/CRAN.package.bpnreg} {\path{doi:10.32614/CRAN.package.bpnreg}}.
 
 \bibitem[Cremers et~al., 2018a]{Cremers2018a}
 Cremers, J., Mainhard, T., and Klugkist, I. (2018a).
@@ -2341,7 +2341,7 @@ Dryden, I.~L. (2005).
 Dryden, I.~L. (2019).
 \newblock {\em {shapes}: Statistical Shape Analysis}.
 \newblock {R} package version 1.2.5.
-\newblock URL: \url{https://CRAN.R-project.org/package=shapes}.
+\newblock URL: \url{https://CRAN.R-project.org/package=shapes}, \href {http://dx.doi.org/10.32614/CRAN.package.shapes} {\path{doi:10.32614/CRAN.package.shapes}}.
 
 \bibitem[Dryden and Kent, 2015]{Dryden2015}
 Dryden, I.~L. and Kent, J.~T. (Eds.) (2015).
@@ -3178,13 +3178,13 @@ Garc\'ia-Portugu\'es, E. (2014).
 Garc\'ia-Portugu\'es, E. (2020a).
 \newblock {\em {DirStats}: Nonparametric Methods for Directional Data}.
 \newblock {R} package version 0.1.6.
-\newblock URL: \url{https://CRAN.R-project.org/package=DirStats}.
+\newblock URL: \url{https://CRAN.R-project.org/package=DirStats}, \href {http://dx.doi.org/10.32614/CRAN.package.DirStats} {\path{doi:10.32614/CRAN.package.DirStats}}.
 
 \bibitem[Garc\'ia-Portugu\'es, 2020b]{Garcia-Portugues2020d}
 Garc\'ia-Portugu\'es, E. (2020b).
 \newblock {\em {sdetorus}: Statistical Tools for Toroidal Diffusions}.
 \newblock {R} package version 0.1.7.
-\newblock URL: \url{https://CRAN.R-project.org/package=sdetorus}.
+\newblock URL: \url{https://CRAN.R-project.org/package=sdetorus}, \href {http://dx.doi.org/10.32614/CRAN.package.sdetorus} {\path{doi:10.32614/CRAN.package.sdetorus}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2014]{Garcia-Portugues2014}
 Garc\'ia-Portugu\'es, E., Barros, A. M.~G., Crujeiras, R.~M., Gonz\'alez-Manteiga, W., and Pereira, J. (2014).
@@ -3250,7 +3250,7 @@ Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026a).
 Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026b).
 \newblock {\em {rotasym}: Tests for Rotational Symmetry on the Hypersphere}.
 \newblock {R} package version 1.3.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=rotasym}.
+\newblock URL: \url{https://CRAN.R-project.org/package=rotasym}, \href {http://dx.doi.org/10.32614/CRAN.package.rotasym} {\path{doi:10.32614/CRAN.package.rotasym}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2019]{Garcia-Portugues2019}
 Garc\'ia-Portugu\'es, E., S{\o}rensen, M., Mardia, K.~V., and Hamelryck, T. (2019).
@@ -3274,7 +3274,7 @@ Garc\'ia-Portugu\'es, E. and Verdebout, T. (2018).
 Garc\'ia-Portugu\'es, E. and Verdebout, T. (2026).
 \newblock {\em {sphunif}: Uniformity Tests on the Circle, Sphere, and Hypersphere}.
 \newblock {R} package version 1.5.0.
-\newblock URL: \url{https://CRAN.R-project.org/package=sphunif}.
+\newblock URL: \url{https://CRAN.R-project.org/package=sphunif}, \href {http://dx.doi.org/10.32614/CRAN.package.sphunif} {\path{doi:10.32614/CRAN.package.sphunif}}.
 
 \bibitem[Garner, 1968]{Garner1968}
 Garner, J.~B. (1968).
@@ -3379,7 +3379,7 @@ George, B.~J. and Ghosh, K. (2006).
 Ghazanfarihesari, A. and Sarmad, M. (2016).
 \newblock {\em {CircOutlier}: Detection of Outliers in Circular-Circular Regression}.
 \newblock {R} package version 3.2.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=CircOutlier}.
+\newblock URL: \url{https://CRAN.R-project.org/package=CircOutlier}, \href {http://dx.doi.org/10.32614/CRAN.package.CircOutlier} {\path{doi:10.32614/CRAN.package.CircOutlier}}.
 
 \bibitem[Ghosh et~al., 2003]{Ghosh2003}
 Ghosh, K., Jammalamadaka, S.~R., and Tiwari, R. (2003).
@@ -3547,7 +3547,7 @@ Grancher, D., Bar-Hen, A., Paris, R., Lavigne, F., and Brunstein, D. (2012).
 Graul, C. and Poppinga, C. (2018).
 \newblock {\em {bReeze}: Functions for Wind Resource Assessment}.
 \newblock {R} package version 0.4-3.
-\newblock URL: \url{https://CRAN.R-project.org/package=bReeze}.
+\newblock URL: \url{https://CRAN.R-project.org/package=bReeze}, \href {http://dx.doi.org/10.32614/CRAN.package.bReeze} {\path{doi:10.32614/CRAN.package.bReeze}}.
 
 \bibitem[Gray and Odell, 1966]{Gray1966}
 Gray, H.~L. and Odell, P.~L. (1966).
@@ -5391,7 +5391,7 @@ Kranstauber, B., Kays, R., LaPoint, S.~D., Wikelski, M., and Safi, K. (2012).
 Kranstauber, B., Smolla, M., and Scharf, A.~K. (2020).
 \newblock {\em {move}: Visualizing and Analyzing Animal Track Data}.
 \newblock {R} package version 4.0.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=move}.
+\newblock URL: \url{https://CRAN.R-project.org/package=move}, \href {http://dx.doi.org/10.32614/CRAN.package.move} {\path{doi:10.32614/CRAN.package.move}}.
 
 \bibitem[Kreiss, 1987]{Kreiss1987}
 Kreiss, J.~P. (1987).
@@ -8286,7 +8286,7 @@ Roberts, P.~H. and Winch, D.~E. (1984).
 Robotham, A. (2013).
 \newblock {\em {sphereplot}: Spherical Plotting}.
 \newblock {R} package version 1.5.
-\newblock URL: \url{https://CRAN.R-project.org/package=sphereplot}.
+\newblock URL: \url{https://CRAN.R-project.org/package=sphereplot}, \href {http://dx.doi.org/10.32614/CRAN.package.sphereplot} {\path{doi:10.32614/CRAN.package.sphereplot}}.
 
 \bibitem[Rocchi and Perlini, 2002]{Rocchi2002}
 Rocchi, M. B.~L. and Perlini, C. (2002).
@@ -9021,7 +9021,7 @@ Soderkvist, I. and Wedin, P. (1993).
 Soetaert, K. (2019).
 \newblock {\em {plot3D}: Plotting Multi-Dimensional Data}.
 \newblock {R} package version 1.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=plot3D}.
+\newblock URL: \url{https://CRAN.R-project.org/package=plot3D}, \href {http://dx.doi.org/10.32614/CRAN.package.plot3D} {\path{doi:10.32614/CRAN.package.plot3D}}.
 
 \bibitem[Solari and Angel~Losada, 2016]{Solari2016}
 Solari, S. and Angel~Losada, M. (2016).
@@ -9460,7 +9460,7 @@ Taylor, C.~C. (2008).
 Taylor, C.~C., Lafratta, G., and Fensore, S. (2018).
 \newblock {\em {nprotreg}: Nonparametric Rotations for Sphere-Sphere Regression}.
 \newblock {R} package version 1.0.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=nprotreg}.
+\newblock URL: \url{https://CRAN.R-project.org/package=nprotreg}, \href {http://dx.doi.org/10.32614/CRAN.package.nprotreg} {\path{doi:10.32614/CRAN.package.nprotreg}}.
 
 \bibitem[Taylor et~al., 2012]{Taylor2012}
 Taylor, C.~C., Mardia, K.~V., Di~Marzio, M., and Panzera, A. (2012).
@@ -9537,7 +9537,7 @@ Tsagris, M. and Alenazi, A. (2019).
 Tsagris, M., Athineou, G., Sajib, A., Amson, E., and Waldstein, M.~J. (2020).
 \newblock {\em {Directional}: Directional Statistics}.
 \newblock {R} package version 4.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=Directional}.
+\newblock URL: \url{https://CRAN.R-project.org/package=Directional}, \href {http://dx.doi.org/10.32614/CRAN.package.Directional} {\path{doi:10.32614/CRAN.package.Directional}}.
 
 \bibitem[Tsai, 2009]{Tsai2009}
 Tsai, M.-T. (2009).
@@ -10227,7 +10227,7 @@ Xie, X. (2013).
 Xu, D. and Wang, Y. (2019).
 \newblock {\em {cplots}: Plots for Circular Data}.
 \newblock {R} package version 0.4-0.
-\newblock URL: \url{https://CRAN.R-project.org/package=cplots}.
+\newblock URL: \url{https://CRAN.R-project.org/package=cplots}, \href {http://dx.doi.org/10.32614/CRAN.package.cplots} {\path{doi:10.32614/CRAN.package.cplots}}.
 
 \bibitem[Xu and Wang, 2020]{Xu2020}
 Xu, D. and Wang, Y. (2020).
@@ -10310,7 +10310,7 @@ Yoshimura, I. (1978).
 You, K. (2020).
 \newblock {\em {RiemBase}: Functions and {C}++ Header Files for Computation on Manifolds}.
 \newblock {R} package version 0.2.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=RiemBase}.
+\newblock URL: \url{https://CRAN.R-project.org/package=RiemBase}, \href {http://dx.doi.org/10.32614/CRAN.package.RiemBase} {\path{doi:10.32614/CRAN.package.RiemBase}}.
 
 \bibitem[Yu and Zhang, 2013]{Yu2013}
 Yu, J.~Y. and Zhang, W. (2013).
