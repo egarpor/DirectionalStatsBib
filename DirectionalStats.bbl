@@ -618,7 +618,7 @@ Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2009).
 Banerjee, A., Merugu, S., Dhillon, I.~S., and Ghosh, J. (2005b).
 \newblock Clustering with {B}regman divergences.
 \newblock {\em Journal of Machine Learning Research}, 6(Oct):1705--1749.
-\newblock \href {http://dx.doi.org/10.1137/1.9781611972740.22} {\path{doi:10.1137/1.9781611972740.22}}.
+\newblock URL: \url{https://www.jmlr.org/papers/v6/banerjee05b.html}.
 
 \bibitem[Bangert et~al., 2010]{Bangert2010}
 Bangert, M., Hennig, P., and Oelfke, U. (2010).
