@@ -8187,6 +8187,12 @@ Reisinger, J., Waters, A., Silverthorn, B., and Mooney, R.~J. (2010).
 \newblock Spherical topic models.
 \newblock In {\em ICML '10}, pp. 903--910, Madison. Omnipress.
 
+\bibitem[Reverbel, 2026]{Reverbel2026}
+Reverbel, M. (2026).
+\newblock Addressing parity blindness of data-driven sobolev tests on the hypersphere.
+\newblock {\em Statistics \& Probability Letters}, 239:110893.
+\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.spl.2026.110893} {\path{doi:https://doi.org/10.1016/j.spl.2026.110893}}.
+
 \bibitem[Riccardi et~al., 2009]{Riccardi2009}
 Riccardi, L., Nguyen, P.~H., and Stock, G. (2009).
 \newblock Free-energy landscape of {RNA} hairpins constructed via dihedral angle principal component analysis.
