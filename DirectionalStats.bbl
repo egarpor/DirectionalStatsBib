@@ -1,4 +1,4 @@
-% DirectionalStats.bib v1.28
+% DirectionalStats.bib v1.30
 \begin{thebibliography}{}
 
 \bibitem[Aakala et~al., 2016]{Aakala2016}
@@ -146,7 +146,7 @@ Ackermann, H. (1991).
 Adler, D., Murdoch, D., et~al. (2020).
 \newblock {\em {rgl}: {3D} Visualization Using {OpenGL}}.
 \newblock {R} package version 0.100.54.
-\newblock URL: \url{https://CRAN.R-project.org/package=rgl}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.rgl} {\path{doi:10.32614/CRAN.package.rgl}}.
 
 \bibitem[Agiomyrgiannakis and Stylianou, 2009]{Agiomyrgiannakis2009}
 Agiomyrgiannakis, Y. and Stylianou, Y. (2009).
@@ -170,7 +170,7 @@ Agostinelli, C. (2015).
 Agostinelli, C. and Lund, U. (2017).
 \newblock {\em {R} package {circular}: Circular Statistics}.
 \newblock {R} package version 0.4-93.
-\newblock URL: \url{https://CRAN.R-project.org/package=circular}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.circular} {\path{doi:10.32614/CRAN.package.circular}}.
 
 \bibitem[Agostinelli and Romanazzi, 2013a]{Agostinelli2013}
 Agostinelli, C. and Romanazzi, M. (2013a).
@@ -606,6 +606,7 @@ Banerjee, A., Dhillon, I., Ghosh, J., and Sra, S. (2003).
 Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2005a).
 \newblock Clustering on the unit hypersphere using von {M}ises-{F}isher distributions.
 \newblock {\em Journal of Machine Learning Research}, 6(Sep):1345--1382.
+\newblock URL: \url{https://jmlr.org/papers/v6/banerjee05a.html}.
 
 \bibitem[Banerjee et~al., 2009]{Banerjee2009}
 Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2009).
@@ -617,7 +618,7 @@ Banerjee, A., Dhillon, I.~S., Ghosh, J., and Sra, S. (2009).
 Banerjee, A., Merugu, S., Dhillon, I.~S., and Ghosh, J. (2005b).
 \newblock Clustering with {B}regman divergences.
 \newblock {\em Journal of Machine Learning Research}, 6(Oct):1705--1749.
-\newblock \href {http://dx.doi.org/10.1137/1.9781611972740.22} {\path{doi:10.1137/1.9781611972740.22}}.
+\newblock URL: \url{https://www.jmlr.org/papers/v6/banerjee05b.html}.
 
 \bibitem[Bangert et~al., 2010]{Bangert2010}
 Bangert, M., Hennig, P., and Oelfke, U. (2010).
@@ -682,7 +683,7 @@ Barndorff-Nielsen, O.~E., Blaesild, P., Jensen, J.~L., and J{\o}rgensen, B. (198
 Barnett, A. and Baker, P. (2020).
 \newblock {\em {season}: Analysing Seasonal Data {R} Functions}.
 \newblock {R} package version 0.3.12.
-\newblock URL: \url{https://CRAN.R-project.org/package=season}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.season} {\path{doi:10.32614/CRAN.package.season}}.
 
 \bibitem[Barnett and Lewis, 1994]{Barnett1994}
 Barnett, V. and Lewis, T. (1994).
@@ -860,7 +861,7 @@ Beran, R. (2016).
 Beran, R.~J. (1968).
 \newblock Testing for uniformity on a compact homogeneous space.
 \newblock {\em Journal of Applied Probability}, 5(1):177--195.
-\newblock \href {http://dx.doi.org/10.1017/s002190020003237x} {\path{doi:10.1017/s002190020003237x}}.
+\newblock \href {http://dx.doi.org/10.2307/3212085} {\path{doi:10.2307/3212085}}.
 
 \bibitem[Beran, 1969a]{Beran1969}
 Beran, R.~J. (1969a).
@@ -1158,6 +1159,12 @@ Boomsma, W., Mardia, K.~V., Taylor, C.~C., Ferkinghoff-Borg, J., Krogh, A., and 
 \newblock {\em Proceedings of the National Academy of Sciences of the United States of America}, 105(26):8932--8937.
 \newblock \href {http://dx.doi.org/10.1073/pnas.0801715105} {\path{doi:10.1073/pnas.0801715105}}.
 
+\bibitem[Borodavka and Ebner, 2023]{Borodavka2023}
+Borodavka, J. and Ebner, B. (2023).
+\newblock A general maximal projection approach to uniformity testing on the hypersphere.
+\newblock {\em Bernoulli}, 32(2):996--1019.
+\newblock \href {http://dx.doi.org/10.3150/25-BEJ1889} {\path{doi:10.3150/25-BEJ1889}}.
+
 \bibitem[Boulerice and Ducharme, 1994]{Boulerice1994}
 Boulerice, B. and Ducharme, G.~R. (1994).
 \newblock Decentered directional data.
@@ -1186,7 +1193,7 @@ Bowers, J.~A., Morton, I.~D., and Mould, G.~I. (2000).
 Bowman, A. and Azzalini, A. (2018).
 \newblock {\em {R} package {sm}: Nonparametric Smoothing Methods}.
 \newblock {R} package version 2.2-5.6.
-\newblock URL: \url{https://CRAN.R-project.org/package=sm}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.sm} {\path{doi:10.32614/CRAN.package.sm}}.
 
 \bibitem[Bowman, 1992]{Bowman1992}
 Bowman, A.~W. (1992).
@@ -1304,7 +1311,7 @@ Burr, E.~J. (1964).
 Buttarazzi, D. (2020).
 \newblock {\em {bpDir}: Boxplots for Directional Data}.
 \newblock {R} package version 0.1.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=bpDir}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.bpDir} {\path{doi:10.32614/CRAN.package.bpDir}}.
 
 \bibitem[Buttarazzi et~al., 2018]{Buttarazzi2018}
 Buttarazzi, D., Pandolfo, G., and Porzio, G.~C. (2018).
@@ -1369,6 +1376,7 @@ Cagnacci, F., Boitani, L., Powell, R.~A., and Boyce, M.~S. (2010).
 Cai, T., Fan, J., and Jiang, T. (2013).
 \newblock Distributions of angles in random packing on spheres.
 \newblock {\em Journal of Machine Learning Research}, 14(21):1837--1864.
+\newblock URL: \url{https://jmlr.org/papers/v14/cai13a.html}.
 
 \bibitem[Cai and Jiang, 2012]{Cai2012}
 Cai, T. and Jiang, T. (2012).
@@ -1455,7 +1463,7 @@ Cetingul, H.~E. and Vidal, R. (2009).
 Chakraborty, S. and Wong, S. W.~K. (2019).
 \newblock {\em {BAMBI}: Bivariate Angular Mixture Models}.
 \newblock {R} package version 2.3.0.
-\newblock URL: \url{https://CRAN.R-project.org/package=BAMBI}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.BAMBI} {\path{doi:10.32614/CRAN.package.BAMBI}}.
 
 \bibitem[Chan and He, 1993]{Chan1993}
 Chan, Y.~M. and He, X. (1993).
@@ -1857,7 +1865,7 @@ Creer, K.~M., Irving, E., and Nairn, A. E.~M. (1959).
 Cremers, J. (2020).
 \newblock {\em {bpnreg}: {B}ayesian Projected Normal Regression Models for Circular Data}.
 \newblock {R} package version 1.0.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=bpnreg}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.bpnreg} {\path{doi:10.32614/CRAN.package.bpnreg}}.
 
 \bibitem[Cremers et~al., 2018a]{Cremers2018a}
 Cremers, J., Mainhard, T., and Klugkist, I. (2018a).
@@ -2246,6 +2254,12 @@ Dimroth, E. (1963).
 \newblock Fortschritte der {G}ef\"ugestatistik.
 \newblock {\em Neues Jahrbuch f\"ur Mineralogie}, 13:186--192.
 
+\bibitem[Ding et~al., 2025]{Ding2025}
+Ding, Y., Markatou, M., and Saraceno, G. (2025).
+\newblock Poisson kernel-based tests for uniformity on the d-dimensional sphere.
+\newblock {\em Statistica Sinica}, 35(4):1947--1969.
+\newblock \href {http://dx.doi.org/10.5705/ss.202022.0347} {\path{doi:10.5705/ss.202022.0347}}.
+
 \bibitem[{DLMF}, 2026]{NIST:DLMF}
 {DLMF} (2026).
 \newblock {\it NIST Digital Library of Mathematical Functions}.
@@ -2333,7 +2347,7 @@ Dryden, I.~L. (2005).
 Dryden, I.~L. (2019).
 \newblock {\em {shapes}: Statistical Shape Analysis}.
 \newblock {R} package version 1.2.5.
-\newblock URL: \url{https://CRAN.R-project.org/package=shapes}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.shapes} {\path{doi:10.32614/CRAN.package.shapes}}.
 
 \bibitem[Dryden and Kent, 2015]{Dryden2015}
 Dryden, I.~L. and Kent, J.~T. (Eds.) (2015).
@@ -2441,6 +2455,12 @@ Eben, K. (1983).
 \newblock Classification into two von {M}ises distributions with unknown mean directions.
 \newblock {\em Aplikace Matematiky}, 28(3):230--237.
 \newblock \href {http://dx.doi.org/10.21136/am.1983.104029} {\path{doi:10.21136/am.1983.104029}}.
+
+\bibitem[Ebner et~al., 2024]{Ebner2024}
+Ebner, B., Henze, N., and Meintanis, S. (2024).
+\newblock A unified approach to goodness-of-fit testing for spherical and hyperspherical data.
+\newblock {\em Statistical Papers}, 65(6):3447--3475.
+\newblock \href {http://dx.doi.org/10.1007/s00362-024-01529-1} {\path{doi:10.1007/s00362-024-01529-1}}.
 
 \bibitem[Ebner et~al., 2018]{Ebner2018}
 Ebner, B., Henze, N., and Yukich, J.~E. (2018).
@@ -2686,11 +2706,23 @@ Fern\'andez, M.~A., Rueda, C., and Peddada, S.~D. (2012).
 \newblock {\em Nucleic Acids Research}, 40(7):2823--2832.
 \newblock \href {http://dx.doi.org/10.1093/nar/gkr1077} {\path{doi:10.1093/nar/gkr1077}}.
 
-\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023]{Fernandez-de-Marcos2023}
-Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023).
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023a]{Fernandez-de-Marcos2023}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023a).
 \newblock Data-driven stabilizations of goodness-of-fit tests.
 \newblock {\em Computational Statistics \& Data Analysis}, 179:107653.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2022.107653} {\path{doi:10.1016/j.csda.2022.107653}}.
+
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023b]{Fernandez-de-Marcos2023b}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023b).
+\newblock On new omnibus tests of uniformity on the hypersphere.
+\newblock {\em Test}, 32(4):1508--1529.
+\newblock \href {http://dx.doi.org/10.1007/s11749-023-00882-x} {\path{doi:10.1007/s11749-023-00882-x}}.
+
+\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2024]{Fernandez-de-Marcos2024}
+Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2024).
+\newblock A stereographic test of spherical uniformity.
+\newblock {\em Statistics \& Probability Letters}, 215:110218.
+\newblock \href {http://dx.doi.org/10.1016/j.spl.2024.110218} {\path{doi:10.1016/j.spl.2024.110218}}.
 
 \bibitem[Fern\'andez-Dur\'an, 2004]{Fernandez-Duran2004}
 Fern\'andez-Dur\'an, J.~J. (2004).
@@ -3170,13 +3202,13 @@ Garc\'ia-Portugu\'es, E. (2014).
 Garc\'ia-Portugu\'es, E. (2020a).
 \newblock {\em {DirStats}: Nonparametric Methods for Directional Data}.
 \newblock {R} package version 0.1.6.
-\newblock URL: \url{https://CRAN.R-project.org/package=DirStats}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.DirStats} {\path{doi:10.32614/CRAN.package.DirStats}}.
 
 \bibitem[Garc\'ia-Portugu\'es, 2020b]{Garcia-Portugues2020d}
 Garc\'ia-Portugu\'es, E. (2020b).
 \newblock {\em {sdetorus}: Statistical Tools for Toroidal Diffusions}.
 \newblock {R} package version 0.1.7.
-\newblock URL: \url{https://CRAN.R-project.org/package=sdetorus}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.sdetorus} {\path{doi:10.32614/CRAN.package.sdetorus}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2014]{Garcia-Portugues2014}
 Garc\'ia-Portugu\'es, E., Barros, A. M.~G., Crujeiras, R.~M., Gonz\'alez-Manteiga, W., and Pereira, J. (2014).
@@ -3214,8 +3246,8 @@ Garc\'ia-Portugu\'es, E., Golden, M., S{\o}rensen, M., Mardia, K.~V., Hamelryck,
 \newblock In Ley, C. and Verdebout, T. (Eds.), {\em Applied Directional Statistics}, Chapman \& Hall/CRC Interdisciplinary Statistics Series, pp. 61--93. CRC Press, Boca Raton.
 \newblock \href {http://dx.doi.org/10.1201/9781315228570-12} {\path{doi:10.1201/9781315228570-12}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2021a]{Garcia-Portugues2021}
-Garc\'ia-Portugu\'es, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2021a).
+\bibitem[Garc\'ia-Portugu\'es et~al., 2021]{Garcia-Portugues2021}
+Garc\'ia-Portugu\'es, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2021).
 \newblock A {C}ram\'er--von {M}ises test of uniformity on the hypersphere.
 \newblock In Balzano, S., Porzio, G.~C., Salvatore, R., Vistocco, D., and Vichi, M. (Eds.), {\em Statistical Learning and Modeling in Data Analysis}, Studies in Classification, Data Analysis and Knowledge Organization, pp. 107--116. Springer, Cham.
 \newblock \href {http://dx.doi.org/10.1007/978-3-030-69944-4_12} {\path{doi:10.1007/978-3-030-69944-4_12}}.
@@ -3232,17 +3264,17 @@ Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2020).
 \newblock {\em Journal of the American Statistical Association}, 115(532):1873--1887.
 \newblock \href {http://dx.doi.org/10.1080/01621459.2019.1665527} {\path{doi:10.1080/01621459.2019.1665527}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2021b]{Garcia-Portugues2021a}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2021b).
-\newblock On the power of {S}obolev tests for isotropy under local rotationally symmetric alternatives.
-\newblock {\em arXiv:2108.09874}.
-\newblock \href {http://dx.doi.org/10.48550/arXiv.2108.09874} {\path{doi:10.48550/arXiv.2108.09874}}.
+\bibitem[Garc\'ia-Portugu\'es et~al., 2026a]{Garcia-Portugues2021a}
+Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026a).
+\newblock On a class of {S}obolev tests for symmetry, their detection thresholds, and asymptotic powers.
+\newblock {\em Journal of the American Statistical Association}, 121(554):1460--1472.
+\newblock \href {http://dx.doi.org/10.1080/01621459.2025.2566414} {\path{doi:10.1080/01621459.2025.2566414}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2022]{Garcia-Portugues2020e}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2022).
+\bibitem[Garc\'ia-Portugu\'es et~al., 2026b]{Garcia-Portugues2020e}
+Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026b).
 \newblock {\em {rotasym}: Tests for Rotational Symmetry on the Hypersphere}.
-\newblock {R} package version 1.1.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=rotasym}.
+\newblock {R} package version 1.3.1.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.rotasym} {\path{doi:10.32614/CRAN.package.rotasym}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2019]{Garcia-Portugues2019}
 Garc\'ia-Portugu\'es, E., S{\o}rensen, M., Mardia, K.~V., and Hamelryck, T. (2019).
@@ -3262,11 +3294,11 @@ Garc\'ia-Portugu\'es, E. and Verdebout, T. (2018).
 \newblock {\em arXiv:1804.00286}.
 \newblock \href {http://dx.doi.org/10.48550/arXiv.1804.00286} {\path{doi:10.48550/arXiv.1804.00286}}.
 
-\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2021]{Garcia-Portugues2020c}
-Garc\'ia-Portugu\'es, E. and Verdebout, T. (2021).
+\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2026]{Garcia-Portugues2020c}
+Garc\'ia-Portugu\'es, E. and Verdebout, T. (2026).
 \newblock {\em {sphunif}: Uniformity Tests on the Circle, Sphere, and Hypersphere}.
-\newblock {R} package version 1.0.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=sphunif}.
+\newblock {R} package version 1.5.0.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.sphunif} {\path{doi:10.32614/CRAN.package.sphunif}}.
 
 \bibitem[Garner, 1968]{Garner1968}
 Garner, J.~B. (1968).
@@ -3371,7 +3403,7 @@ George, B.~J. and Ghosh, K. (2006).
 Ghazanfarihesari, A. and Sarmad, M. (2016).
 \newblock {\em {CircOutlier}: Detection of Outliers in Circular-Circular Regression}.
 \newblock {R} package version 3.2.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=CircOutlier}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.CircOutlier} {\path{doi:10.32614/CRAN.package.CircOutlier}}.
 
 \bibitem[Ghosh et~al., 2003]{Ghosh2003}
 Ghosh, K., Jammalamadaka, S.~R., and Tiwari, R. (2003).
@@ -3539,7 +3571,7 @@ Grancher, D., Bar-Hen, A., Paris, R., Lavigne, F., and Brunstein, D. (2012).
 Graul, C. and Poppinga, C. (2018).
 \newblock {\em {bReeze}: Functions for Wind Resource Assessment}.
 \newblock {R} package version 0.4-3.
-\newblock URL: \url{https://CRAN.R-project.org/package=bReeze}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.bReeze} {\path{doi:10.32614/CRAN.package.bReeze}}.
 
 \bibitem[Gray and Odell, 1966]{Gray1966}
 Gray, H.~L. and Odell, P.~L. (1966).
@@ -3669,8 +3701,8 @@ Guttorp, P. and Lockhart, R.~A. (1988).
 \newblock {\em Journal of the American Statistical Association}, 83(402):322--330.
 \newblock \href {http://dx.doi.org/10.1080/01621459.1988.10478601} {\path{doi:10.1080/01621459.1988.10478601}}.
 
-\bibitem[Gy\H{o}ri et~al., 2016]{Gyoeri2016}
-Gy\H{o}ri, L., Baranyi, T., and Ludm\'any, A. (2016).
+\bibitem[Gy\H{o}ri et~al., 2017]{Gyoeri2016}
+Gy\H{o}ri, L., Ludm\'any, A., and Baranyi, T. (2017).
 \newblock Comparative analysis of {D}ebrecen sunspot catalogues.
 \newblock {\em Monthly Notices of the Royal Astronomical Society}, 465(2):1259--1273.
 \newblock \href {http://dx.doi.org/10.1093/mnras/stw2667} {\path{doi:10.1093/mnras/stw2667}}.
@@ -3726,6 +3758,7 @@ Hamelryck, T., Mardia, K., and Ferkinghoff-Borg, J. (Eds.) (2012).
 Hamsici, O.~C. and Martinez, A.~M. (2007).
 \newblock Spherical-homoscedastic distributions: the equivalency of spherical and normal distributions in classification.
 \newblock {\em Journal of Machine Learning Research}, 8(Jul):1583--1623.
+\newblock URL: \url{https://jmlr.org/papers/v8/hamsici07a.html}.
 
 \bibitem[Hanbury and Serra, 2001]{Hanbury2001}
 Hanbury, A.~G. and Serra, J. (2001).
@@ -4342,6 +4375,7 @@ Hussain, I., Ali, S.~M., Khan, B., Ullah, Z., Mehmood, C.~A., Jawad, M., Farid, 
 Hyv\"arinen, A. (2005).
 \newblock Estimation of non-normalized statistical models by score matching.
 \newblock {\em Journal of Machine Learning Research}, 6(Apr):695--709.
+\newblock URL: \url{https://jmlr.org/papers/v6/hyvarinen05a.html}.
 
 \bibitem[Ibero, 1975]{Ibero1975}
 Ibero, M. (1975).
@@ -5381,7 +5415,7 @@ Kranstauber, B., Kays, R., LaPoint, S.~D., Wikelski, M., and Safi, K. (2012).
 Kranstauber, B., Smolla, M., and Scharf, A.~K. (2020).
 \newblock {\em {move}: Visualizing and Analyzing Animal Track Data}.
 \newblock {R} package version 4.0.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=move}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.move} {\path{doi:10.32614/CRAN.package.move}}.
 
 \bibitem[Kreiss, 1987]{Kreiss1987}
 Kreiss, J.~P. (1987).
@@ -8153,6 +8187,12 @@ Reisinger, J., Waters, A., Silverthorn, B., and Mooney, R.~J. (2010).
 \newblock Spherical topic models.
 \newblock In {\em ICML '10}, pp. 903--910, Madison. Omnipress.
 
+\bibitem[Reverbel, 2026]{Reverbel2026}
+Reverbel, M. (2026).
+\newblock Addressing parity blindness of data-driven sobolev tests on the hypersphere.
+\newblock {\em Statistics \& Probability Letters}, 239:110893.
+\newblock \href {http://dx.doi.org/10.1016/j.spl.2026.110893} {\path{doi:10.1016/j.spl.2026.110893}}.
+
 \bibitem[Riccardi et~al., 2009]{Riccardi2009}
 Riccardi, L., Nguyen, P.~H., and Stock, G. (2009).
 \newblock Free-energy landscape of {RNA} hairpins constructed via dihedral angle principal component analysis.
@@ -8276,7 +8316,7 @@ Roberts, P.~H. and Winch, D.~E. (1984).
 Robotham, A. (2013).
 \newblock {\em {sphereplot}: Spherical Plotting}.
 \newblock {R} package version 1.5.
-\newblock URL: \url{https://CRAN.R-project.org/package=sphereplot}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.sphereplot} {\path{doi:10.32614/CRAN.package.sphereplot}}.
 
 \bibitem[Rocchi and Perlini, 2002]{Rocchi2002}
 Rocchi, M. B.~L. and Perlini, C. (2002).
@@ -9011,7 +9051,7 @@ Soderkvist, I. and Wedin, P. (1993).
 Soetaert, K. (2019).
 \newblock {\em {plot3D}: Plotting Multi-Dimensional Data}.
 \newblock {R} package version 1.3.
-\newblock URL: \url{https://CRAN.R-project.org/package=plot3D}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.plot3D} {\path{doi:10.32614/CRAN.package.plot3D}}.
 
 \bibitem[Solari and Angel~Losada, 2016]{Solari2016}
 Solari, S. and Angel~Losada, M. (2016).
@@ -9450,7 +9490,7 @@ Taylor, C.~C. (2008).
 Taylor, C.~C., Lafratta, G., and Fensore, S. (2018).
 \newblock {\em {nprotreg}: Nonparametric Rotations for Sphere-Sphere Regression}.
 \newblock {R} package version 1.0.1.
-\newblock URL: \url{https://CRAN.R-project.org/package=nprotreg}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.nprotreg} {\path{doi:10.32614/CRAN.package.nprotreg}}.
 
 \bibitem[Taylor et~al., 2012]{Taylor2012}
 Taylor, C.~C., Mardia, K.~V., Di~Marzio, M., and Panzera, A. (2012).
@@ -9527,7 +9567,7 @@ Tsagris, M. and Alenazi, A. (2019).
 Tsagris, M., Athineou, G., Sajib, A., Amson, E., and Waldstein, M.~J. (2020).
 \newblock {\em {Directional}: Directional Statistics}.
 \newblock {R} package version 4.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=Directional}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.Directional} {\path{doi:10.32614/CRAN.package.Directional}}.
 
 \bibitem[Tsai, 2009]{Tsai2009}
 Tsai, M.-T. (2009).
@@ -10217,7 +10257,7 @@ Xie, X. (2013).
 Xu, D. and Wang, Y. (2019).
 \newblock {\em {cplots}: Plots for Circular Data}.
 \newblock {R} package version 0.4-0.
-\newblock URL: \url{https://CRAN.R-project.org/package=cplots}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.cplots} {\path{doi:10.32614/CRAN.package.cplots}}.
 
 \bibitem[Xu and Wang, 2020]{Xu2020}
 Xu, D. and Wang, Y. (2020).
@@ -10300,7 +10340,7 @@ Yoshimura, I. (1978).
 You, K. (2020).
 \newblock {\em {RiemBase}: Functions and {C}++ Header Files for Computation on Manifolds}.
 \newblock {R} package version 0.2.4.
-\newblock URL: \url{https://CRAN.R-project.org/package=RiemBase}.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.RiemBase} {\path{doi:10.32614/CRAN.package.RiemBase}}.
 
 \bibitem[Yu and Zhang, 2013]{Yu2013}
 Yu, J.~Y. and Zhang, W. (2013).
@@ -10358,6 +10398,7 @@ Zhang, M. and Fletcher, T. (2013).
 Zhang, Y. and Chen, Y.-C. (2021).
 \newblock Kernel smoothing, mean shift, and their learning theory with directional data.
 \newblock {\em Journal of Machine Learning Research}, 22(154):1--92.
+\newblock URL: \url{https://jmlr.org/papers/v22/20-1194.html}.
 
 \bibitem[Zhang et~al., 2018b]{Zhang2018a}
 Zhang, Z., Klassen, E., and Srivastava, A. (2018b).
