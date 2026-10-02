@@ -191,7 +191,7 @@ Ahmad, I.~A. and Dorea, C. C.~Y. (2001).
 \newblock \href {http://dx.doi.org/10.1080/10485250108832862} {\path{doi:10.1080/10485250108832862}}.
 
 \bibitem[Ailliot et~al., 2015]{Ailliot2015}
-Ailliot, P., Bessac, J., Monbet, V., and P\`ene, F. (2015).
+Ailliot, P., Bessac, J., Monbet, V., and P{\`e}ne, F. (2015).
 \newblock Non-homogeneous hidden {M}arkov-switching models for wind time series.
 \newblock {\em Journal of Statistical Planning and Inference}, 160:75--88.
 \newblock \href {http://dx.doi.org/10.1016/j.jspi.2014.12.005} {\path{doi:10.1016/j.jspi.2014.12.005}}.
@@ -217,7 +217,7 @@ Ajne, B. (1968).
 \bibitem[Alfahad et~al., 2018]{Alfahad2018}
 Alfahad, M.~F., Kent, J.~T., and Mardia, K.~V. (2018).
 \newblock Statistical shape methodology for the analysis of helices.
-\newblock {\em Sankhy\=a, Series A}, 80(1):8--32.
+\newblock {\em Sankhy{\=a}, Series A}, 80(1):8--32.
 \newblock \href {http://dx.doi.org/10.1007/s13171-018-0144-8} {\path{doi:10.1007/s13171-018-0144-8}}.
 
 \bibitem[Alonso-Pena et~al., 2020]{Alonso-Pena2020}
@@ -259,7 +259,7 @@ Amayri, O. and Bouguila, N. (2011).
 \bibitem[Amayri and Bouguila, 2012]{Amayri2012}
 Amayri, O. and Bouguila, N. (2012).
 \newblock Unsupervised feature selection for spherical data modeling: Application to image-based spam filtering.
-\newblock In Dziech, A. and Czy\.zewski, A. (Eds.), {\em Multimedia Communications, Services and Security}, volume 287 of {\em Communications in Computer and Information Science}, pp. 13--23, Berlin. Springer.
+\newblock In Dziech, A. and Czy{\.z}ewski, A. (Eds.), {\em Multimedia Communications, Services and Security}, volume 287 of {\em Communications in Computer and Information Science}, pp. 13--23, Berlin. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-642-30721-8_2} {\path{doi:10.1007/978-3-642-30721-8_2}}.
 
 \bibitem[Amayri and Bouguila, 2013]{Amayri2013}
@@ -280,13 +280,13 @@ Ameijeiras-Alonso, J. (2017).
 \newblock PhD thesis, University of Santiago de Compostela.
 
 \bibitem[Ameijeiras-Alonso et~al., 2019a]{Ameijeiras-Alonso2019b}
-Ameijeiras-Alonso, J., Benali, A., Crujeiras, R.~M., Rodr\'{i}guez-Casal, A., and Pereira, J.~M. (2019a).
+Ameijeiras-Alonso, J., Benali, A., Crujeiras, R.~M., Rodr{\'i}guez-Casal, A., and Pereira, J.~M. (2019a).
 \newblock Fire seasonality identification with multimodality tests.
 \newblock {\em The Annals of Applied Statistics}, 13(4):2120--2139.
 \newblock \href {http://dx.doi.org/10.1214/19-AOAS1273} {\path{doi:10.1214/19-AOAS1273}}.
 
 \bibitem[Ameijeiras-Alonso et~al., 2018]{Ameijeiras-Alonso2018}
-Ameijeiras-Alonso, J., Crujeiras, R.~M., and Rodr\'iguez~Casal, A. (2018).
+Ameijeiras-Alonso, J., Crujeiras, R.~M., and Rodr{\'i}guez~Casal, A. (2018).
 \newblock Directional statistics for wildfires.
 \newblock In Ley, C. and Verdebout, T. (Eds.), {\em Applied Directional Statistics}, Chapman \& Hall/CRC Interdisciplinary Statistics Series, pp. 187--210. CRC Press, Boca Raton.
 \newblock \href {http://dx.doi.org/10.1201/9781315228570-17} {\path{doi:10.1201/9781315228570-17}}.
@@ -400,7 +400,7 @@ Aneshansley, D.~J. and Larkin, T.~S. (1981).
 \bibitem[Arnaiz~Tovar and Ruiz-Rivas, 1986]{ArnaizTovar1986}
 Arnaiz~Tovar, G. and Ruiz-Rivas, C. (1986).
 \newblock Outliers in circular data: a {B}ayesian approach.
-\newblock {\em Q\"uestii\'o}, 10(1):1--6.
+\newblock {\em Q{\"u}estii{\'o}}, 10(1):1--6.
 
 \bibitem[Arnold and SenGupta, 2006a]{Arnold2006a}
 Arnold, B.~C. and SenGupta, A. (2006a).
@@ -639,7 +639,7 @@ Baragona, R. (2003).
 \newblock \href {http://dx.doi.org/10.1081/sac-120017869} {\path{doi:10.1081/sac-120017869}}.
 
 \bibitem[Baranyi et~al., 2016]{Baranyi2016}
-Baranyi, T., Gy\H{o}ri, L., and Ludm\'any, A. (2016).
+Baranyi, T., Gy{\H{o}}ri, L., and Ludm{\'a}ny, A. (2016).
 \newblock On-line tools for solar data compiled at the {D}ebrecen observatory and their extensions with the {G}reenwich sunspot data.
 \newblock {\em Solar Physics}, 291(9--10):3081--3102.
 \newblock \href {http://dx.doi.org/10.1007/s11207-016-0930-1} {\path{doi:10.1007/s11207-016-0930-1}}.
@@ -663,7 +663,7 @@ Baringhaus, L. (1991).
 \newblock \href {http://dx.doi.org/10.1214/aos/1176348127} {\path{doi:10.1214/aos/1176348127}}.
 
 \bibitem[Barker et~al., 2012]{Barker2012}
-Barker, D., Huang, X.-Y., Liu, Z., Aulign\'e, T., Zhang, X., Rugg, S., Ajjaji, R., Bourgeois, A., Bray, J., Chen, Y., Demirtas, M., Guo, Y.-R., Henderson, T., Huang, W., Lin, H.~C., Michalakes, J., Rizvi, S., and Zhang, X. (2012).
+Barker, D., Huang, X.-Y., Liu, Z., Aulign{\'e}, T., Zhang, X., Rugg, S., Ajjaji, R., Bourgeois, A., Bray, J., Chen, Y., Demirtas, M., Guo, Y.-R., Henderson, T., Huang, W., Lin, H.~C., Michalakes, J., Rizvi, S., and Zhang, X. (2012).
 \newblock The weather research and forecasting model's community variational/ensemble data assimilation system: {WRFDA}.
 \newblock {\em Bulletin of the American Meteorological Society}, 93(6):831--843.
 \newblock \href {http://dx.doi.org/10.1175/bams-d-11-00167.1} {\path{doi:10.1175/bams-d-11-00167.1}}.
@@ -696,27 +696,27 @@ Barr, D.~R. and Shudde, R.~H. (1973).
 \newblock {\em Biometrika}, 60(3):663--664.
 \newblock \href {http://dx.doi.org/10.2307/2335018} {\path{doi:10.2307/2335018}}.
 
-\bibitem[Barrag\'an et~al., 2013]{Barragan2013}
-Barrag\'an, S., Fern\'andez, M.~A., Rueda, C., and Peddada, S.~D. (2013).
+\bibitem[Barrag{\'a}n et~al., 2013]{Barragan2013}
+Barrag{\'a}n, S., Fern{\'a}ndez, M.~A., Rueda, C., and Peddada, S.~D. (2013).
 \newblock {isocir}: an {R} package for constrained inference using isotonic regression for circular data, with an application to cell biology.
 \newblock {\em Journal of Statistical Software}, 54(4):1--17.
 \newblock \href {http://dx.doi.org/10.18637/jss.v054.i04} {\path{doi:10.18637/jss.v054.i04}}.
 
-\bibitem[Barrag\'an et~al., 2017]{Barragan2017}
-Barrag\'an, S., Rueda, C., and Fern\'andez, M.~A. (2017).
+\bibitem[Barrag{\'a}n et~al., 2017]{Barragan2017}
+Barrag{\'a}n, S., Rueda, C., and Fern{\'a}ndez, M.~A. (2017).
 \newblock Circular order aggregation and its application to cell-cycle genes expressions.
 \newblock {\em IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 14(4):819--829.
 \newblock \href {http://dx.doi.org/10.1109/TCBB.2016.2565469} {\path{doi:10.1109/TCBB.2016.2565469}}.
 
-\bibitem[Barrag\'an et~al., 2015]{Barragan2015}
-Barrag\'an, S., Rueda, C., Fern\'andez, M.~A., and Peddada, S.~D. (2015).
+\bibitem[Barrag{\'a}n et~al., 2015]{Barragan2015}
+Barrag{\'a}n, S., Rueda, C., Fern{\'a}ndez, M.~A., and Peddada, S.~D. (2015).
 \newblock Determination of temporal order among the components of an oscillatory system.
 \newblock {\em PLOS ONE}, 10:e0124842.
 \newblock \href {http://dx.doi.org/10.1371/journal.pone.0124842} {\path{doi:10.1371/journal.pone.0124842}}.
 
-\bibitem[Barrag\'an~Andr\'es, 2014]{Barragan2014}
-Barrag\'an~Andr\'es, S. (2014).
-\newblock {\em Procedimientos Estad\'isticos para Modelos Circulares con Restricciones de Orden Aplicados al An\'alisis de Expresiones de Genes}.
+\bibitem[Barrag{\'a}n~Andr{\'e}s, 2014]{Barragan2014}
+Barrag{\'a}n~Andr{\'e}s, S. (2014).
+\newblock {\em Procedimientos Estad{\'i}sticos para Modelos Circulares con Restricciones de Orden Aplicados al An{\'a}lisis de Expresiones de Genes}.
 \newblock PhD thesis, Universidad de Valladolid.
 
 \bibitem[Barros et~al., 2012]{Barros2012}
@@ -784,7 +784,7 @@ Batschelet, E., Hillman, D., Smolensky, M., and Halberg, F. (1973).
 \bibitem[Batyrshin et~al., 2020]{Batyrshin2020}
 Batyrshin, I., Kubysheva, N., and Tarassov, V. (2020).
 \newblock Dissimilarity-based correlation of movements and events on circular scales of space and time.
-\newblock In Mart{\'i}nez-Villase{\~{n}}or, L., Herrera-Alc{\'a}ntara, O., Ponce, H., and Castro-Espinoza, F.~A. (Eds.), {\em Advances in Computational Intelligence}, volume 12469 of {\em Lecture Notes in Computer Science}, pp. 237--246, Cham. Springer.
+\newblock In Mart{\'i}nez-Villase{\~n}or, L., Herrera-Alc{\'a}ntara, O., Ponce, H., and Castro-Espinoza, F.~A. (Eds.), {\em Advances in Computational Intelligence}, volume 12469 of {\em Lecture Notes in Computer Science}, pp. 237--246, Cham. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-030-60887-3_21} {\path{doi:10.1007/978-3-030-60887-3_21}}.
 
 \bibitem[Beaudette et~al., 2013]{Beaudette2013}
@@ -913,8 +913,8 @@ Berman, M. and Griffiths, D. (1985).
 
 \bibitem[Bernoulli, 1735]{Bernoulli1735}
 Bernoulli, D. (1735).
-\newblock Quelle est la cause physique de l'inclinaison des plans des orbites des plan\`etes par rapport au plan de l'\'equateur de la r\'evolution du soleil autour de son axe ; et d'o\`u vient que les inclinaisons de ces orbites sont diff\'erentes en elles.
-\newblock In des Sciences, A.~R. (Ed.), {\em Recueil des pi\`eces qui ont remport\'e le prix de l'{A}cad\'emie {R}oyale des {S}ciences}, volume~3, pp. 93--122. Acad\'emie Royale des Sciences, Paris.
+\newblock Quelle est la cause physique de l'inclinaison des plans des orbites des plan{\`e}tes par rapport au plan de l'{\'e}quateur de la r{\'e}volution du soleil autour de son axe ; et d'o{\`u} vient que les inclinaisons de ces orbites sont diff{\'e}rentes en elles.
+\newblock In des Sciences, A.~R. (Ed.), {\em Recueil des pi{\`e}ces qui ont remport{\'e} le prix de l'{A}cad{\'e}mie {R}oyale des {S}ciences}, volume~3, pp. 93--122. Acad{\'e}mie Royale des Sciences, Paris.
 
 \bibitem[Bero and Bingham, 2015]{Bero2015}
 Bero, D. and Bingham, M.~A. (2015).
@@ -1113,8 +1113,8 @@ Bl{\ae}sild, P. (1979).
 \newblock {\em The Annals of Statistics}, 7(3):659--670.
 \newblock \href {http://dx.doi.org/10.1214/aos/1176344686} {\path{doi:10.1214/aos/1176344686}}.
 
-\bibitem[Bloom and \'Esik, 1989]{Bloom1989}
-Bloom, S.~L. and \'Esik, Z. (1989).
+\bibitem[Bloom and {\'E}sik, 1989]{Bloom1989}
+Bloom, S.~L. and {\'E}sik, Z. (1989).
 \newblock Equational logic of circular data type specification.
 \newblock {\em Theoretical Computer Science}, 63(3):303--331.
 \newblock \href {http://dx.doi.org/10.1016/0304-3975(89)90012-1} {\path{doi:10.1016/0304-3975(89)90012-1}}.
@@ -1122,10 +1122,10 @@ Bloom, S.~L. and \'Esik, Z. (1989).
 \bibitem[Boente and Fraiman, 1991]{Boente1991}
 Boente, G. and Fraiman, R. (1991).
 \newblock Nonparametric regression for directional data.
-\newblock {\em Trabajos de Matem\'atica}, 176:1--13.
+\newblock {\em Trabajos de Matem{\'a}tica}, 176:1--13.
 
 \bibitem[Boente et~al., 2014]{Boente2014}
-Boente, G., Rodriguez, D., and Gonz\'alez-Manteiga, W. (2014).
+Boente, G., Rodriguez, D., and Gonz{\'a}lez-Manteiga, W. (2014).
 \newblock Goodness-of-fit test for directional data.
 \newblock {\em Scandinavian Journal of Statistics}, 41(1):259--275.
 \newblock \href {http://dx.doi.org/10.1111/sjos.12020} {\path{doi:10.1111/sjos.12020}}.
@@ -1239,8 +1239,8 @@ Brunel, E. and Roche, A. (2015).
 
 \bibitem[Brunhes, 1987]{Brunhes1987}
 Brunhes, D. (1987).
-\newblock Une m\'ethode de calcul de la fonction de r\'epartition de la statistique de {K}olmogorov-{K}uiper d'ordre {$N$}.
-\newblock {\em Publications de l'Institut de Statistique de l'Universit\'e de Paris}, 32(1-2):3--17.
+\newblock Une m{\'e}thode de calcul de la fonction de r{\'e}partition de la statistique de {K}olmogorov-{K}uiper d'ordre {$N$}.
+\newblock {\em Publications de l'Institut de Statistique de l'Universit{\'e} de Paris}, 32(1-2):3--17.
 
 \bibitem[Brunk, 1962]{Brunk1962}
 Brunk, H.~D. (1962).
@@ -1267,7 +1267,7 @@ Brunsdon, C. and Corcoran, J. (2006).
 \newblock \href {http://dx.doi.org/10.1016/j.compenvurbsys.2005.11.001} {\path{doi:10.1016/j.compenvurbsys.2005.11.001}}.
 
 \bibitem[Bukal et~al., 2017]{Bukal2017}
-Bukal, M., Markovi\'c, I., and Petrovi\'c, I. (2017).
+Bukal, M., Markovi{\'c}, I., and Petrovi{\'c}, I. (2017).
 \newblock Score matching based assumed density filtering with the von {M}ises-{F}isher distribution.
 \newblock In {\em 2017 20th International Conference on Information Fusion ({FUSION})}, pp. 1--6, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.23919/ICIF.2017.8009680} {\path{doi:10.23919/ICIF.2017.8009680}}.
@@ -1287,7 +1287,7 @@ Bulla, J., Lagona, F., Maruotti, A., and Picone, M. (2012).
 \bibitem[Bulla et~al., 2015]{Bulla2015}
 Bulla, J., Lagona, F., Maruotti, A., and Picone, M. (2015).
 \newblock Environmental conditions in semi-enclosed basins: a dynamic latent class approach for mixed-type multivariate variables.
-\newblock {\em Journal de la Soci\'et\'e Fran\c{c}aise de Statistique}, 156(1):114--137.
+\newblock {\em Journal de la Soci{\'e}t{\'e} Fran{\c{c}}aise de Statistique}, 156(1):114--137.
 
 \bibitem[Burke, 1979]{Burke1979}
 Burke, M.~D. (1979).
@@ -1303,7 +1303,7 @@ Burr, A.~H. (1979).
 
 \bibitem[Burr, 1964]{Burr1964}
 Burr, E.~J. (1964).
-\newblock Small-sample distributions of the two-sample {C}ram\'er-von {M}ises {$W^2$} and {W}atson's {$U^2$}.
+\newblock Small-sample distributions of the two-sample {C}ram{\'e}r-von {M}ises {$W^2$} and {W}atson's {$U^2$}.
 \newblock {\em Annals of Mathematical Statistics}, 35(3):1091--1098.
 \newblock \href {http://dx.doi.org/10.1214/aoms/1177703267} {\path{doi:10.1214/aoms/1177703267}}.
 
@@ -1346,7 +1346,7 @@ Byth, K. (1982).
 \bibitem[Cabeen and Laidlaw, 2014]{Cabeen2014}
 Cabeen, R.~P. and Laidlaw, D.~H. (2014).
 \newblock White matter supervoxel segmentation by axial {DP}-means clustering.
-\newblock In Menze, B., Langs, G., Montillo, A., Kelm, M., M\"uller, H., and Tu, Z. (Eds.), {\em Medical Computer Vision. Large Data in Medical Imaging. {MCV} 2013}, volume 8331 of {\em Lecture Notes in Computer Science}, pp. 95--104, Cham. Springer.
+\newblock In Menze, B., Langs, G., Montillo, A., Kelm, M., M{\"u}ller, H., and Tu, Z. (Eds.), {\em Medical Computer Vision. Large Data in Medical Imaging. {MCV} 2013}, volume 8331 of {\em Lecture Notes in Computer Science}, pp. 95--104, Cham. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-319-05530-5_10} {\path{doi:10.1007/978-3-319-05530-5_10}}.
 
 \bibitem[Cabella and Marinucci, 2009]{Cabella2009}
@@ -1404,13 +1404,13 @@ Calderara, S., Prati, A., and Cucchiara, R. (2011).
 \bibitem[Cammarota and Marinucci, 2015]{Cammarota2015}
 Cammarota, V. and Marinucci, D. (2015).
 \newblock On the limiting behaviour of needlets polyspectra.
-\newblock {\em Annales de l'Institut Henri Poincar\'e Probabilit\'es et Statistiques}, 51(3):1159--1189.
+\newblock {\em Annales de l'Institut Henri Poincar{\'e} Probabilit{\'e}s et Statistiques}, 51(3):1159--1189.
 \newblock \href {http://dx.doi.org/10.1214/14-AIHP609} {\path{doi:10.1214/14-AIHP609}}.
 
 \bibitem[Campos-Aranda, 2017]{Campos-Aranda2017}
 Campos-Aranda, D.~F. (2017).
 \newblock Definition of three flood seasons using directional statistics.
-\newblock {\em Tecnolog\'ia y Ciencias del Agua}, 8(1):155--165.
+\newblock {\em Tecnolog{\'i}a y Ciencias del Agua}, 8(1):155--165.
 \newblock \href {http://dx.doi.org/10.24850/j-tyca-2017-01-11} {\path{doi:10.24850/j-tyca-2017-01-11}}.
 
 \bibitem[Capaccioni et~al., 1997]{Capaccioni1997}
@@ -1420,19 +1420,19 @@ Capaccioni, B., Valentini, L., Rocchi, M. B.~L., Nappi, G., and Sarocchi, D. (19
 \newblock \href {http://dx.doi.org/10.1007/s004450050158} {\path{doi:10.1007/s004450050158}}.
 
 \bibitem[Carnicero et~al., 2013]{Carnicero2013}
-Carnicero, J.~A., Aus\'in, M.~C., and Wiper, M.~P. (2013).
+Carnicero, J.~A., Aus{\'i}n, M.~C., and Wiper, M.~P. (2013).
 \newblock Non-parametric copulas for circular-linear and circular-circular data: an application to wind directions.
 \newblock {\em Stochastic Environmental Research and Risk Assessment}, 27(8):1991--2002.
 \newblock \href {http://dx.doi.org/10.1007/s00477-013-0733-y} {\path{doi:10.1007/s00477-013-0733-y}}.
 
 \bibitem[Carnicero et~al., 2018]{Carnicero2018}
-Carnicero, J.~A., Wiper, M.~P., and Aus\'in, M.~C. (2018).
+Carnicero, J.~A., Wiper, M.~P., and Aus{\'i}n, M.~C. (2018).
 \newblock Density estimation of circular data with {B}ernstein polynomials.
 \newblock {\em Hacettepe Journal of Mathematics and Statistics}, 47(2):273--286.
 \newblock \href {http://dx.doi.org/10.15672/hjms.2014437525} {\path{doi:10.15672/hjms.2014437525}}.
 
-\bibitem[Carnicero Carre\~{n}o, 2011]{Carnicero2011}
-Carnicero Carre\~{n}o, J.~A. (2011).
+\bibitem[Carnicero~Carre{\~n}o, 2011]{Carnicero2011}
+Carnicero~Carre{\~n}o, J.~A. (2011).
 \newblock {\em Semi-parametric and Non-parametric Methods for Directional Data}.
 \newblock PhD thesis, Universidad Carlos III de Madrid.
 
@@ -1679,7 +1679,7 @@ Choi, E. and Hall, P. (1999).
 \bibitem[Cholaquidis et~al., 2020]{Cholaquidis2020a}
 Cholaquidis, A., Fraiman, R., and Moreno, L. (2020).
 \newblock Level set and density estimation on manifolds.
-\newblock In Aneiros, G., Horov\'a, I., Hu\v{s}kov\'a, M., and Vieu, P. (Eds.), {\em Functional and High-Dimensional Statistics and Related Fields}, Contributions to Statistics, pp. 43--51. Springer, Cham.
+\newblock In Aneiros, G., Horov{\'a}, I., Hu{\v{s}}kov{\'a}, M., and Vieu, P. (Eds.), {\em Functional and High-Dimensional Statistics and Related Fields}, Contributions to Statistics, pp. 43--51. Springer, Cham.
 \newblock \href {http://dx.doi.org/10.1007/978-3-030-47756-1_7} {\path{doi:10.1007/978-3-030-47756-1_7}}.
 
 \bibitem[Cholaquidis et~al., 2022]{Cholaquidis2022}
@@ -1697,7 +1697,7 @@ Chou, R.~J. (1986).
 \bibitem[Chou, 1990]{Chou1990}
 Chou, R.~J. (1990).
 \newblock Unbiasedness of some tests in the {L}angevin distribution.
-\newblock {\em Sankhy\=a, Series B}, 52(3):256--260.
+\newblock {\em Sankhy{\=a}, Series B}, 52(3):256--260.
 
 \bibitem[Chou and Hwang, 1985]{Chou1985}
 Chou, R.-J. and Hwang, T.-C. (1985).
@@ -1706,7 +1706,7 @@ Chou, R.-J. and Hwang, T.-C. (1985).
 
 \bibitem[Choulakian et~al., 1994]{Choulakian1994}
 Choulakian, V., Lockhart, R.~A., and Stephens, M.~A. (1994).
-\newblock Cram\'er-von {M}ises statistics for discrete distributions.
+\newblock Cram{\'e}r-von {M}ises statistics for discrete distributions.
 \newblock {\em The Canadian Journal of Statistics}, 22(1):125--137.
 \newblock \href {http://dx.doi.org/10.2307/3315828} {\path{doi:10.2307/3315828}}.
 
@@ -1759,7 +1759,7 @@ Codling, E.~A., Plank, M.~J., and Benhamou, S. (2008).
 \newblock \href {http://dx.doi.org/10.1098/rsif.2008.0014} {\path{doi:10.1098/rsif.2008.0014}}.
 
 \bibitem[Cohen et~al., 2018]{Cohen2018}
-Cohen, T.~S., Geiger, M., K\"ohler, J., and Welling, M. (2018).
+Cohen, T.~S., Geiger, M., K{\"o}hler, J., and Welling, M. (2018).
 \newblock Spherical {CNN}s.
 \newblock In {\em Proceedings of the 6th International Conference on Learning Representations ({ICLR} 2018)}, pp. 1903--1910. OpenReview.net.
 
@@ -1790,7 +1790,7 @@ Collett, D. and Lewis, T. (1981).
 \bibitem[Comte and Taupin, 2003]{Comte2003}
 Comte, F. and Taupin, M.~L. (2003).
 \newblock Adaptive density deconvolution for circular data.
-\newblock Technical Report MAP5 2003-10, Universit\'e Paris Descartes.
+\newblock Technical Report MAP5 2003-10, Universit{\'e} Paris Descartes.
 
 \bibitem[Cordeiro and Ferrari, 1991]{Cordeiro1991}
 Cordeiro, G.~M. and Ferrari, S. (1991).
@@ -1914,9 +1914,9 @@ Cruz-Orive, L.~M., Hoppeler, H., Mathieu, O., and Weibel, E.~R. (1985).
 \newblock {\em Journal of the Royal Statistical Society, Series C (Applied Statistics)}, 34(1):14--32.
 \newblock \href {http://dx.doi.org/10.2307/2347881} {\path{doi:10.2307/2347881}}.
 
-\bibitem[Cs\"org\"o and Faraway, 1996]{Csorgo1996}
-Cs\"org\"o, S. and Faraway, J.~J. (1996).
-\newblock The exact and asymptotic distributions of {C}ram\'er-von {M}ises statistics.
+\bibitem[Cs{\"o}rg{\"o} and Faraway, 1996]{Csorgo1996}
+Cs{\"o}rg{\"o}, S. and Faraway, J.~J. (1996).
+\newblock The exact and asymptotic distributions of {C}ram{\'e}r-von {M}ises statistics.
 \newblock {\em Journal of the Royal Statistical Society, Series B (Methodological)}, 58(1):221--234.
 \newblock \href {http://dx.doi.org/10.1111/j.2517-6161.1996.tb02077.x} {\path{doi:10.1111/j.2517-6161.1996.tb02077.x}}.
 
@@ -1927,7 +1927,7 @@ Cuesta-Albertos, J.~A., Cuevas, A., and Fraiman, R. (2009).
 \newblock \href {http://dx.doi.org/10.1007/s11222-008-9098-3} {\path{doi:10.1007/s11222-008-9098-3}}.
 
 \bibitem[Cuevas et~al., 2006]{Cuevas2006}
-Cuevas, A., Gonz\'alez-Manteiga, W., and Rodr\'iguez-Casal, A. (2006).
+Cuevas, A., Gonz{\'a}lez-Manteiga, W., and Rodr{\'i}guez-Casal, A. (2006).
 \newblock Plug-in estimation of general level sets.
 \newblock {\em Australian \& New Zealand Journal of Statistics}, 48(1):7--19.
 \newblock \href {http://dx.doi.org/10.1111/j.1467-842X.2006.00421.x} {\path{doi:10.1111/j.1467-842X.2006.00421.x}}.
@@ -1971,7 +1971,7 @@ Cutting, C., Paindaveine, D., and Verdebout, T. (2020).
 \bibitem[Cutting et~al., 2022]{Cutting2021}
 Cutting, C., Paindaveine, D., and Verdebout, T. (2022).
 \newblock Testing uniformity on high-dimensional spheres: The non-null behaviour of the {B}ingham test.
-\newblock {\em Annales de l'Institut Henri Poincar\'e Probabilit\'es et Statistiques}, 58(1):567--602.
+\newblock {\em Annales de l'Institut Henri Poincar{\'e} Probabilit{\'e}s et Statistiques}, 58(1):567--602.
 \newblock \href {http://dx.doi.org/10.1214/21-AIHP1168} {\path{doi:10.1214/21-AIHP1168}}.
 
 \bibitem[Dagpunar, 1990]{Dagpunar1990}
@@ -1986,8 +1986,8 @@ Dai, F. and Xu, Y. (2013).
 \newblock Springer Monographs in Mathematics. Springer, New York.
 \newblock \href {http://dx.doi.org/10.1007/978-1-4614-6660-4} {\path{doi:10.1007/978-1-4614-6660-4}}.
 
-\bibitem[Dai and M\"uller, 2018]{Dai2018}
-Dai, X. and M\"uller, H.-G. (2018).
+\bibitem[Dai and M{\"u}ller, 2018]{Dai2018}
+Dai, X. and M{\"u}ller, H.-G. (2018).
 \newblock Principal component analysis for functional data on {R}iemannian manifolds and spheres.
 \newblock {\em The Annals of Statistics}, 46(6B):3334--3361.
 \newblock \href {http://dx.doi.org/10.1214/17-aos1660} {\path{doi:10.1214/17-aos1660}}.
@@ -2052,18 +2052,18 @@ Degerine, S. (1977).
 
 \bibitem[Degerine, 1978]{Degerine1978}
 Degerine, S. (1978).
-\newblock Sur la compl\'etion des structures de von {M}ises.
-\newblock {\em Comptes Rendus de l'Acad\'emie des Sciences, S\'erie A}, 287:29--31.
+\newblock Sur la compl{\'e}tion des structures de von {M}ises.
+\newblock {\em Comptes Rendus de l'Acad{\'e}mie des Sciences, S{\'e}rie A}, 287:29--31.
 
 \bibitem[Degerine, 1979a]{Degerine1979}
 Degerine, S. (1979a).
-\newblock Lois de von {M}ises et lois li\'ees.
-\newblock {\em Annales de l'Institut Henri Poincar\'e. Nouvelle S\'erie. Section B. Calcul des Probabilit\'es et Statistique}, 15(1):63--77.
+\newblock Lois de von {M}ises et lois li{\'e}es.
+\newblock {\em Annales de l'Institut Henri Poincar{\'e}. Nouvelle S{\'e}rie. Section B. Calcul des Probabilit{\'e}s et Statistique}, 15(1):63--77.
 
 \bibitem[Degerine, 1979b]{Degerine1979a}
 Degerine, S. (1979b).
-\newblock Tests optimaux sur les param\`etres des lois de von {M}ises.
-\newblock {\em Annales de l'Institut Henri Poincar\'e. Nouvelle S\'erie. Section B. Calcul des Probabilit\'es et Statistique}, 15(4):375--392.
+\newblock Tests optimaux sur les param{\`e}tres des lois de von {M}ises.
+\newblock {\em Annales de l'Institut Henri Poincar{\'e}. Nouvelle S{\'e}rie. Section B. Calcul des Probabilit{\'e}s et Statistique}, 15(4):375--392.
 
 \bibitem[Delechelle et~al., 2007]{Delechelle2007}
 Delechelle, E., Peron, M.-C., and Guyot, S. (2007).
@@ -2080,7 +2080,7 @@ D'Elia, A. (2001).
 \bibitem[Demni et~al., 2019]{Demni2019}
 Demni, H., Messaoud, A., and Porzio, G.~C. (2019).
 \newblock The cosine depth distribution classifier for directional data.
-\newblock In Bauer, N., Ickstadt, K., L\"ubke, K., Szepannek, G., Trautmann, H., and Vichi, M. (Eds.), {\em Applications in Statistical Computing}, Studies in Classification, Data Analysis, and Knowledge Organization, pp. 49--60. Springer, Cham.
+\newblock In Bauer, N., Ickstadt, K., L{\"u}bke, K., Szepannek, G., Trautmann, H., and Vichi, M. (Eds.), {\em Applications in Statistical Computing}, Studies in Classification, Data Analysis, and Knowledge Organization, pp. 49--60. Springer, Cham.
 \newblock \href {http://dx.doi.org/10.1007/978-3-030-25147-5_4} {\path{doi:10.1007/978-3-030-25147-5_4}}.
 
 \bibitem[Deschepper et~al., 2008]{Deschepper2008}
@@ -2090,7 +2090,7 @@ Deschepper, E., Thas, O., and Ottoy, J.-P. (2008).
 \newblock \href {http://dx.doi.org/10.1111/j.1541-0420.2007.00950.x} {\path{doi:10.1111/j.1541-0420.2007.00950.x}}.
 
 \bibitem[Dette et~al., 2019]{Dette2019}
-Dette, H., Konstantinou, M., Schorning, K., and G\"osmann, J. (2019).
+Dette, H., Konstantinou, M., Schorning, K., and G{\"o}smann, J. (2019).
 \newblock Optimal designs for regression with spherical data.
 \newblock {\em Electronic Journal of Statistics}, 13(1):361--390.
 \newblock \href {http://dx.doi.org/10.1214/18-ejs1524} {\path{doi:10.1214/18-ejs1524}}.
@@ -2133,7 +2133,7 @@ Dhillon, I.~S. and Modha, D.~S. (2001).
 \bibitem[Di~Marzio et~al., 2014a]{DiMarzio2014a}
 Di~Marzio, M., Fensore, S., Panzera, A., and Taylor, C.~C. (2014a).
 \newblock Local likelihood estimation for multivariate directional data.
-\newblock In Gilli, M., Gonz\'alez-Rodr\'iguez, G., and Nieto-Reyes, A. (Eds.), {\em Proceedings of {COMPSTAT} 2014}, pp. 553--560, The Hague. International Statistical Institute.
+\newblock In Gilli, M., Gonz{\'a}lez-Rodr{\'i}guez, G., and Nieto-Reyes, A. (Eds.), {\em Proceedings of {COMPSTAT} 2014}, pp. 553--560, The Hague. International Statistical Institute.
 
 \bibitem[Di~Marzio et~al., 2016a]{DiMarzio2016}
 Di~Marzio, M., Fensore, S., Panzera, A., and Taylor, C.~C. (2016a).
@@ -2245,14 +2245,14 @@ Diggle, P.~J., Fisher, N.~I., and Lee, A.~J. (1985).
 
 \bibitem[Dimroth, 1962]{Dimroth1962}
 Dimroth, E. (1962).
-\newblock Untersuchungen zum {M}echanismus von {B}lastesis und syntexis in {P}hylitten und {H}ornfelsen des s\"udwestlichen {F}ichtelgebirges {I}. {D}ie statistische {A}uswertung einfacher {G}\"urteldiagramme.
+\newblock Untersuchungen zum {M}echanismus von {B}lastesis und syntexis in {P}hylitten und {H}ornfelsen des s{\"u}dwestlichen {F}ichtelgebirges {I}. {D}ie statistische {A}uswertung einfacher {G}{\"u}rteldiagramme.
 \newblock {\em Tschermaks Mineralogische und Petrographische Mitteilungen}, 8(2):248--274.
 \newblock \href {http://dx.doi.org/10.1007/bf01131328} {\path{doi:10.1007/bf01131328}}.
 
 \bibitem[Dimroth, 1963]{Dimroth1963}
 Dimroth, E. (1963).
-\newblock Fortschritte der {G}ef\"ugestatistik.
-\newblock {\em Neues Jahrbuch f\"ur Mineralogie}, 13:186--192.
+\newblock Fortschritte der {G}ef{\"u}gestatistik.
+\newblock {\em Neues Jahrbuch f{\"u}r Mineralogie}, 13:186--192.
 
 \bibitem[Ding et~al., 2025]{Ding2025}
 Ding, Y., Markatou, M., and Saraceno, G. (2025).
@@ -2372,9 +2372,9 @@ Dryden, I.~L. and Mardia, K.~V. (2016).
 \newblock Wiley Series in Probability and Statistics. Wiley, Chichester.
 \newblock \href {http://dx.doi.org/10.1002/9781119072492} {\path{doi:10.1002/9781119072492}}.
 
-\bibitem[Dubey and M\"uller, 2019]{Dubey2019}
-Dubey, P. and M\"uller, H.-G. (2019).
-\newblock Fr\'echet analysis of variance for random objects.
+\bibitem[Dubey and M{\"u}ller, 2019]{Dubey2019}
+Dubey, P. and M{\"u}ller, H.-G. (2019).
+\newblock Fr{\'e}chet analysis of variance for random objects.
 \newblock {\em Biometrika}, 106(4):803--821.
 \newblock \href {http://dx.doi.org/10.1093/biomet/asz052} {\path{doi:10.1093/biomet/asz052}}.
 
@@ -2409,7 +2409,7 @@ Ducharme, G.~R., Vincent, C., and Aliaume, C. (2012).
 \newblock \href {http://dx.doi.org/10.1007/s10651-012-0190-7} {\path{doi:10.1007/s10651-012-0190-7}}.
 
 \bibitem[Dudley et~al., 1975]{Dudley1975}
-Dudley, R.~M., Perkins, P.~C., and Gin\'e, M.~E. (1975).
+Dudley, R.~M., Perkins, P.~C., and Gin{\'e}, M.~E. (1975).
 \newblock Statistical tests for preferred orientation.
 \newblock {\em The Journal of Geology}, 83(6):685--705.
 \newblock \href {http://dx.doi.org/10.1086/628162} {\path{doi:10.1086/628162}}.
@@ -2417,7 +2417,7 @@ Dudley, R.~M., Perkins, P.~C., and Gin\'e, M.~E. (1975).
 \bibitem[Duerinckx and Ley, 2012]{Duerinckx2012}
 Duerinckx, M. and Ley, C. (2012).
 \newblock Maximum likelihood characterization of rotationally symmetric distributions on the sphere.
-\newblock {\em Sankhy\=a, Series A}, 74(2):249--262.
+\newblock {\em Sankhy{\=a}, Series A}, 74(2):249--262.
 \newblock \href {http://dx.doi.org/10.1007/s13171-012-0004-x} {\path{doi:10.1007/s13171-012-0004-x}}.
 
 \bibitem[Dufour and Roy, 1976]{Dufour1976}
@@ -2497,6 +2497,12 @@ Efron, B. (1979).
 \newblock Bootstrap methods: another look at the jackknife.
 \newblock {\em The Annals of Statistics}, 7(1):1--26.
 \newblock \href {http://dx.doi.org/10.1214/aos/1176344552} {\path{doi:10.1214/aos/1176344552}}.
+
+\bibitem[E{\u{g}}ecio{\u{g}}lu and Srinivasan, 2000]{Egecioglu2000}
+E{\u{g}}ecio{\u{g}}lu, {\"O}. and Srinivasan, A. (2000).
+\newblock Efficient nonparametric density estimation on the sphere with applications in fluid mechanics.
+\newblock {\em SIAM Journal on Scientific Computing}, 22(1):152--176.
+\newblock \href {http://dx.doi.org/10.1137/S1064827595290462} {\path{doi:10.1137/S1064827595290462}}.
 
 \bibitem[Ehler, 2012]{Ehler2012}
 Ehler, M. (2012).
@@ -2624,12 +2630,6 @@ Esteves, C., Allen-Blanchette, C., Makadia, A., and Daniilidis, K. (2020).
 \newblock {\em International Journal of Computer Vision}, 128:588--600.
 \newblock \href {http://dx.doi.org/10.1007/s11263-019-01220-1} {\path{doi:10.1007/s11263-019-01220-1}}.
 
-\bibitem[E\u{g}ecio\u{g}lu and Srinivasan, 2000]{Egecioglu2000}
-E\u{g}ecio\u{g}lu, O. and Srinivasan, A. (2000).
-\newblock Efficient nonparametric density estimation on the sphere with applications in fluid mechanics.
-\newblock {\em SIAM Journal on Scientific Computing}, 22(1):152--176.
-\newblock \href {http://dx.doi.org/10.1137/S1064827595290462} {\path{doi:10.1137/S1064827595290462}}.
-
 \bibitem[Evans, 2003]{Evans2003}
 Evans, S.~N. (2003).
 \newblock Diffusions on the simplex from {B}rownian motions on hypersurfaces.
@@ -2664,20 +2664,20 @@ Farebrother, R.~W. (1995).
 \newblock Simple methods for fitting circles or points to spherical data.
 \newblock In Tiit, E.~M., Kollo, T., and Niemi, H. (Eds.), {\em Multivariate Statistics and Matrices in Statistics}, volume~3 of {\em New Trends in Probability and Statistics}, pp. 135--139, Utrecht. VSP.
 
-\bibitem[Fa\"y et~al., 2013]{Fay2013}
-Fa\"y, G., Delabrouille, J., Kerkyacharian, G., and Picard, D. (2013).
+\bibitem[Fa{\"y} et~al., 2013]{Fay2013}
+Fa{\"y}, G., Delabrouille, J., Kerkyacharian, G., and Picard, D. (2013).
 \newblock Testing the isotropy of high energy cosmic rays using spherical needlets.
 \newblock {\em The Annals of Applied Statistics}, 7(2):1040--1073.
 \newblock \href {http://dx.doi.org/10.1214/12-aoas619} {\path{doi:10.1214/12-aoas619}}.
 
-\bibitem[Fej\'er, 1916]{Fejer1916}
-Fej\'er, L. (1916).
-\newblock \"{U}ber trigonometrische {P}olynome.
-\newblock {\em Journal f\"ur die reine und angewandte Mathematik}, 146:53--82.
+\bibitem[Fej{\'e}r, 1916]{Fejer1916}
+Fej{\'e}r, L. (1916).
+\newblock {\"U}ber trigonometrische {P}olynome.
+\newblock {\em Journal f{\"u}r die reine und angewandte Mathematik}, 146:53--82.
 \newblock \href {http://dx.doi.org/10.1515/crll.1916.146.53} {\path{doi:10.1515/crll.1916.146.53}}.
 
-\bibitem[Felic\'isimo et~al., 2014]{Felicisimo2014}
-Felic\'isimo, A., Ru\'iz~Cuetos, J.~C., Polo~Garc\'ia, M.~E., Cuartero, A., and Garc\'ia~Rodr\'iguez, J.~C. (2014).
+\bibitem[Felic{\'i}simo et~al., 2014]{Felicisimo2014}
+Felic{\'i}simo, A., Ru{\'i}z~Cuetos, J.~C., Polo~Garc{\'i}a, M.~E., Cuartero, A., and Garc{\'i}a~Rodr{\'i}guez, J.~C. (2014).
 \newblock {\em {VecStatGraphs3D}: Vector Analysis Using Graphical and Analytical Methods in 3{D}}.
 \newblock {R} package version 1.6.
 \newblock URL: \url{https://CRAN.R-project.org/package=VecStatGraphs3D}.
@@ -2700,74 +2700,74 @@ Fernandes, K. and Cardoso, J.~S. (2016).
 \newblock {\em Neurocomputing}, 207:141--149.
 \newblock \href {http://dx.doi.org/10.1016/j.neucom.2016.03.076} {\path{doi:10.1016/j.neucom.2016.03.076}}.
 
-\bibitem[Fern\'andez et~al., 2012]{Fernandez2012}
-Fern\'andez, M.~A., Rueda, C., and Peddada, S.~D. (2012).
+\bibitem[Fern{\'a}ndez et~al., 2012]{Fernandez2012}
+Fern{\'a}ndez, M.~A., Rueda, C., and Peddada, S.~D. (2012).
 \newblock Identification of a core set of signature cell cycle genes whose relative order of time to peak expression is conserved across species.
 \newblock {\em Nucleic Acids Research}, 40(7):2823--2832.
 \newblock \href {http://dx.doi.org/10.1093/nar/gkr1077} {\path{doi:10.1093/nar/gkr1077}}.
 
-\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023a]{Fernandez-de-Marcos2023}
-Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023a).
+\bibitem[Fern{\'a}ndez{-}de{-}Marcos and Garc{\'i}a-Portugu{\'e}s, 2023a]{Fernandez-de-Marcos2023}
+Fern{\'a}ndez{-}de{-}Marcos, A. and Garc{\'i}a-Portugu{\'e}s, E. (2023a).
 \newblock Data-driven stabilizations of goodness-of-fit tests.
 \newblock {\em Computational Statistics \& Data Analysis}, 179:107653.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2022.107653} {\path{doi:10.1016/j.csda.2022.107653}}.
 
-\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2023b]{Fernandez-de-Marcos2023b}
-Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2023b).
+\bibitem[Fern{\'a}ndez{-}de{-}Marcos and Garc{\'i}a-Portugu{\'e}s, 2023b]{Fernandez-de-Marcos2023b}
+Fern{\'a}ndez{-}de{-}Marcos, A. and Garc{\'i}a-Portugu{\'e}s, E. (2023b).
 \newblock On new omnibus tests of uniformity on the hypersphere.
 \newblock {\em Test}, 32(4):1508--1529.
 \newblock \href {http://dx.doi.org/10.1007/s11749-023-00882-x} {\path{doi:10.1007/s11749-023-00882-x}}.
 
-\bibitem[Fern\'andez{-}de{-}Marcos and Garc\'ia-Portugu\'es, 2024]{Fernandez-de-Marcos2024}
-Fern\'andez{-}de{-}Marcos, A. and Garc\'ia-Portugu\'es, E. (2024).
+\bibitem[Fern{\'a}ndez{-}de{-}Marcos and Garc{\'i}a-Portugu{\'e}s, 2024]{Fernandez-de-Marcos2024}
+Fern{\'a}ndez{-}de{-}Marcos, A. and Garc{\'i}a-Portugu{\'e}s, E. (2024).
 \newblock A stereographic test of spherical uniformity.
 \newblock {\em Statistics \& Probability Letters}, 215:110218.
 \newblock \href {http://dx.doi.org/10.1016/j.spl.2024.110218} {\path{doi:10.1016/j.spl.2024.110218}}.
 
-\bibitem[Fern\'andez-Dur\'an, 2004]{Fernandez-Duran2004}
-Fern\'andez-Dur\'an, J.~J. (2004).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n, 2004]{Fernandez-Duran2004}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. (2004).
 \newblock Circular distributions based on nonnegative trigonometric sums.
 \newblock {\em Biometrics}, 60(2):499--503.
 \newblock \href {http://dx.doi.org/10.1111/j.0006-341x.2004.00195.x} {\path{doi:10.1111/j.0006-341x.2004.00195.x}}.
 
-\bibitem[Fern\'andez-Dur\'an, 2007]{Fernandez-Duran2007}
-Fern\'andez-Dur\'an, J.~J. (2007).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n, 2007]{Fernandez-Duran2007}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. (2007).
 \newblock Models for circular-linear and circular-circular data constructed from circular distributions based on nonnegative trigonometric sums.
 \newblock {\em Biometrics}, 63(2):579--585.
 \newblock \href {http://dx.doi.org/10.1111/j.1541-0420.2006.00716.x} {\path{doi:10.1111/j.1541-0420.2006.00716.x}}.
 
-\bibitem[Fern\'andez-Dur\'an and Gregorio-Dom\'inguez, 2010]{Fernandez-Duran2010}
-Fern\'andez-Dur\'an, J.~J. and Gregorio-Dom\'inguez, M.~M. (2010).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n and Gregorio-Dom{\'i}nguez, 2010]{Fernandez-Duran2010}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. and Gregorio-Dom{\'i}nguez, M.~M. (2010).
 \newblock Maximum likelihood estimation of nonnegative trigonometric sum models using a {N}ewton-like algorithm on manifolds.
 \newblock {\em Electronic Journal of Statistics}, 4:1402--1410.
 \newblock \href {http://dx.doi.org/10.1214/10-EJS587} {\path{doi:10.1214/10-EJS587}}.
 
-\bibitem[Fern\'andez-Dur\'an and Gregorio-Dom\'inguez, 2014a]{Fernandez-Duran2014a}
-Fern\'andez-Dur\'an, J.~J. and Gregorio-Dom\'inguez, M.~M. (2014a).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n and Gregorio-Dom{\'i}nguez, 2014a]{Fernandez-Duran2014a}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. and Gregorio-Dom{\'i}nguez, M.~M. (2014a).
 \newblock Distributions for spherical data based on nonnegative trigonometric sums.
 \newblock {\em Statistical Papers}, 55(4):983--1000.
 \newblock \href {http://dx.doi.org/10.1007/s00362-013-0547-5} {\path{doi:10.1007/s00362-013-0547-5}}.
 
-\bibitem[Fern\'andez-Dur\'an and Gregorio-Dom\'inguez, 2014b]{Fernandez-Duran2014}
-Fern\'andez-Dur\'an, J.~J. and Gregorio-Dom\'inguez, M.~M. (2014b).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n and Gregorio-Dom{\'i}nguez, 2014b]{Fernandez-Duran2014}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. and Gregorio-Dom{\'i}nguez, M.~M. (2014b).
 \newblock Modeling angles in proteins and circular genomes using multivariate angular distributions based on multiple nonnegative trigonometric sums.
 \newblock {\em Statistical Applications in Genetics and Molecular Biology}, 13(1):1--18.
 \newblock \href {http://dx.doi.org/10.1515/sagmb-2012-0012} {\path{doi:10.1515/sagmb-2012-0012}}.
 
-\bibitem[Fern\'andez-Dur\'an and Gregorio-Dom\'inguez, 2016]{Fernandez-Duran2016}
-Fern\'andez-Dur\'an, J.~J. and Gregorio-Dom\'inguez, M.~M. (2016).
+\bibitem[Fern{\'a}ndez-Dur{\'a}n and Gregorio-Dom{\'i}nguez, 2016]{Fernandez-Duran2016}
+Fern{\'a}ndez-Dur{\'a}n, J.~J. and Gregorio-Dom{\'i}nguez, M.~M. (2016).
 \newblock {CircNNTSR}: an {R} package for the statistical analysis of circular, multivariate circular, and spherical data using nonnegative trigonometric sums.
 \newblock {\em Journal of Statistical Software}, 70(6):1--19.
 \newblock \href {http://dx.doi.org/10.18637/jss.v070.i06} {\path{doi:10.18637/jss.v070.i06}}.
 
-\bibitem[Fern\'andez-Gonz\'alez et~al., 2017a]{Fernandez-Gonzalez2017a}
-Fern\'andez-Gonz\'alez, P., Benavides-Piccione, R., Leguey, I., Bielza, C., Larra\~{n}aga, P., and {De Felipe}, J. (2017a).
+\bibitem[Fern{\'a}ndez-Gonz{\'a}lez et~al., 2017a]{Fernandez-Gonzalez2017a}
+Fern{\'a}ndez-Gonz{\'a}lez, P., Benavides-Piccione, R., Leguey, I., Bielza, C., Larra{\~n}aga, P., and {De Felipe}, J. (2017a).
 \newblock Dendritic-branching angles of pyramidal neurons of the human cerebral cortex.
 \newblock {\em Brain Structure and Function}, 222(4):1847--1859.
 \newblock \href {http://dx.doi.org/10.1007/s00429-016-1311-0} {\path{doi:10.1007/s00429-016-1311-0}}.
 
-\bibitem[Fern\'andez-Gonz\'alez et~al., 2017b]{Fernandez-Gonzalez2017}
-Fern\'andez-Gonz\'alez, P., Bielza, C., and Larra\~{n}aga, P. (2017b).
+\bibitem[Fern{\'a}ndez-Gonz{\'a}lez et~al., 2017b]{Fernandez-Gonzalez2017}
+Fern{\'a}ndez-Gonz{\'a}lez, P., Bielza, C., and Larra{\~n}aga, P. (2017b).
 \newblock Univariate and bivariate truncated von {M}ises distributions.
 \newblock {\em Progress in Artificial Intelligence}, 6(2):171--180.
 \newblock \href {http://dx.doi.org/10.1007/s13748-016-0109-x} {\path{doi:10.1007/s13748-016-0109-x}}.
@@ -2778,7 +2778,7 @@ Ferrari, C. (2009).
 \newblock PhD thesis, University of Bologna.
 
 \bibitem[Ferreira et~al., 2008]{Ferreira2008}
-Ferreira, J. T. A.~S., Ju\'arez, M.~A., and Steel, M. F.~J. (2008).
+Ferreira, J. T. A.~S., Ju{\'a}rez, M.~A., and Steel, M. F.~J. (2008).
 \newblock Directional log-spline distributions.
 \newblock {\em Bayesian Analysis}, 3(2):297--316.
 \newblock \href {http://dx.doi.org/10.1214/08-ba311} {\path{doi:10.1214/08-ba311}}.
@@ -3170,7 +3170,7 @@ Gadsen, R.~J. and Kanji, G.~K. (1983).
 \newblock \href {http://dx.doi.org/10.1080/07474948308836020} {\path{doi:10.1080/07474948308836020}}.
 
 \bibitem[Gagliardo et~al., 2008]{Gagliardo2008}
-Gagliardo, A., Ioal\`e, P., Savini, M., and Wild, M. (2008).
+Gagliardo, A., Ioal{\`e}, P., Savini, M., and Wild, M. (2008).
 \newblock Navigational abilities of homing pigeons deprived of olfactory or trigeminally mediated magnetic information when young.
 \newblock {\em Journal of Experimental Biology}, 211(13):2046--2051.
 \newblock \href {http://dx.doi.org/10.1242/jeb.017608} {\path{doi:10.1242/jeb.017608}}.
@@ -3187,121 +3187,121 @@ Gao, F.~Q. and Li, L.~N. (2010).
 \newblock {\em Acta Mathematica Sinica, English Series}, 26(5):937--950.
 \newblock \href {http://dx.doi.org/10.1007/s10114-010-7205-9} {\path{doi:10.1007/s10114-010-7205-9}}.
 
-\bibitem[Garc\'ia-Portugu\'es, 2013]{Garcia-Portugues2013a}
-Garc\'ia-Portugu\'es, E. (2013).
+\bibitem[Garc{\'i}a-Portugu{\'e}s, 2013]{Garcia-Portugues2013a}
+Garc{\'i}a-Portugu{\'e}s, E. (2013).
 \newblock Exact risk improvement of bandwidth selectors for kernel density estimation with directional data.
 \newblock {\em Electronic Journal of Statistics}, 7:1655--1685.
 \newblock \href {http://dx.doi.org/10.1214/13-ejs821} {\path{doi:10.1214/13-ejs821}}.
 
-\bibitem[Garc\'ia-Portugu\'es, 2014]{Garcia-Portugues2014a}
-Garc\'ia-Portugu\'es, E. (2014).
+\bibitem[Garc{\'i}a-Portugu{\'e}s, 2014]{Garcia-Portugues2014a}
+Garc{\'i}a-Portugu{\'e}s, E. (2014).
 \newblock {\em Nonparametric Inference with Directional and Linear Data}.
 \newblock PhD thesis, University of Santiago de Compostela.
 
-\bibitem[Garc\'ia-Portugu\'es, 2026a]{Garcia-Portugues2020f}
-Garc\'ia-Portugu\'es, E. (2026a).
+\bibitem[Garc{\'i}a-Portugu{\'e}s, 2026a]{Garcia-Portugues2020f}
+Garc{\'i}a-Portugu{\'e}s, E. (2026a).
 \newblock {\em {DirStats}: Nonparametric Methods for Directional Data}.
 \newblock {R} package version 1.0.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.DirStats} {\path{doi:10.32614/CRAN.package.DirStats}}.
 
-\bibitem[Garc\'ia-Portugu\'es, 2026b]{Garcia-Portugues2020d}
-Garc\'ia-Portugu\'es, E. (2026b).
+\bibitem[Garc{\'i}a-Portugu{\'e}s, 2026b]{Garcia-Portugues2020d}
+Garc{\'i}a-Portugu{\'e}s, E. (2026b).
 \newblock {\em {sdetorus}: Statistical Tools for Toroidal Diffusions}.
 \newblock {R} package version 0.2.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.sdetorus} {\path{doi:10.32614/CRAN.package.sdetorus}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2014]{Garcia-Portugues2014}
-Garc\'ia-Portugu\'es, E., Barros, A. M.~G., Crujeiras, R.~M., Gonz\'alez-Manteiga, W., and Pereira, J. (2014).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2014]{Garcia-Portugues2014}
+Garc{\'i}a-Portugu{\'e}s, E., Barros, A. M.~G., Crujeiras, R.~M., Gonz{\'a}lez-Manteiga, W., and Pereira, J. (2014).
 \newblock A test for directional-linear independence, with applications to wildfire orientation and size.
 \newblock {\em Stochastic Environmental Research and Risk Assessment}, 28(5):1261--1275.
 \newblock \href {http://dx.doi.org/10.1007/s00477-013-0819-6} {\path{doi:10.1007/s00477-013-0819-6}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2013a]{Garcia-Portugues2013}
-Garc\'ia-Portugu\'es, E., Crujeiras, R.~M., and Gonz\'alez-Manteiga, W. (2013a).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2013a]{Garcia-Portugues2013}
+Garc{\'i}a-Portugu{\'e}s, E., Crujeiras, R.~M., and Gonz{\'a}lez-Manteiga, W. (2013a).
 \newblock Exploring wind direction and {SO$_2$} concentration by circular-linear density estimation.
 \newblock {\em Stochastic Environmental Research and Risk Assessment}, 27(5):1055--1067.
 \newblock \href {http://dx.doi.org/10.1007/s00477-012-0642-5} {\path{doi:10.1007/s00477-012-0642-5}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2013b]{Garcia-Portugues2013b}
-Garc\'ia-Portugu\'es, E., Crujeiras, R.~M., and Gonz\'alez-Manteiga, W. (2013b).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2013b]{Garcia-Portugues2013b}
+Garc{\'i}a-Portugu{\'e}s, E., Crujeiras, R.~M., and Gonz{\'a}lez-Manteiga, W. (2013b).
 \newblock Kernel density estimation for directional-linear data.
 \newblock {\em Journal of Multivariate Analysis}, 121:152--175.
 \newblock \href {http://dx.doi.org/10.1016/j.jmva.2013.06.009} {\path{doi:10.1016/j.jmva.2013.06.009}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2015]{Garcia-Portugues2015}
-Garc\'ia-Portugu\'es, E., Crujeiras, R.~M., and Gonz\'alez-Manteiga, W. (2015).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2015]{Garcia-Portugues2015}
+Garc{\'i}a-Portugu{\'e}s, E., Crujeiras, R.~M., and Gonz{\'a}lez-Manteiga, W. (2015).
 \newblock Central limit theorems for directional and linear random variables with applications.
 \newblock {\em Statistica Sinica}, 25(3):1207--1229.
 \newblock \href {http://dx.doi.org/10.5705/ss.2014.153} {\path{doi:10.5705/ss.2014.153}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2018a]{Garcia-Portugues2018a}
-Garc\'ia-Portugu\'es, E., Crujeiras, R.~M., and Gonz\'alez-Manteiga, W. (2018a).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2018a]{Garcia-Portugues2018a}
+Garc{\'i}a-Portugu{\'e}s, E., Crujeiras, R.~M., and Gonz{\'a}lez-Manteiga, W. (2018a).
 \newblock Smoothing-based tests with directional random variables.
-\newblock In Gil, E., Gil, E., Gil, J., and Gil, M.~A. (Eds.), {\em The Mathematics of the Uncertain}, volume 142 of {\em Studies in Systems, Decision and Control}, pp. 175--184. Springer, Cham.
+\newblock In Gil, E., Gil, E., Gil, J., and Gil, M.~{\'A}. (Eds.), {\em The Mathematics of the Uncertain}, volume 142 of {\em Studies in Systems, Decision and Control}, pp. 175--184. Springer, Cham.
 \newblock \href {http://dx.doi.org/10.1007/978-3-319-73848-2_17} {\path{doi:10.1007/978-3-319-73848-2_17}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2018b]{Garcia-Portugues2018}
-Garc\'ia-Portugu\'es, E., Golden, M., S{\o}rensen, M., Mardia, K.~V., Hamelryck, T., and Hein, J. (2018b).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2018b]{Garcia-Portugues2018}
+Garc{\'i}a-Portugu{\'e}s, E., Golden, M., S{\o}rensen, M., Mardia, K.~V., Hamelryck, T., and Hein, J. (2018b).
 \newblock Toroidal diffusions and protein structure evolution.
 \newblock In Ley, C. and Verdebout, T. (Eds.), {\em Applied Directional Statistics}, Chapman \& Hall/CRC Interdisciplinary Statistics Series, pp. 61--93. CRC Press, Boca Raton.
 \newblock \href {http://dx.doi.org/10.1201/9781315228570-12} {\path{doi:10.1201/9781315228570-12}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2021]{Garcia-Portugues2021}
-Garc\'ia-Portugu\'es, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2021).
-\newblock A {C}ram\'er--von {M}ises test of uniformity on the hypersphere.
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2021]{Garcia-Portugues2021}
+Garc{\'i}a-Portugu{\'e}s, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2021).
+\newblock A {C}ram{\'e}r--von {M}ises test of uniformity on the hypersphere.
 \newblock In Balzano, S., Porzio, G.~C., Salvatore, R., Vistocco, D., and Vichi, M. (Eds.), {\em Statistical Learning and Modeling in Data Analysis}, Studies in Classification, Data Analysis and Knowledge Organization, pp. 107--116. Springer, Cham.
 \newblock \href {http://dx.doi.org/10.1007/978-3-030-69944-4_12} {\path{doi:10.1007/978-3-030-69944-4_12}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2023]{Garcia-Portugues2020b}
-Garc\'ia-Portugu\'es, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2023).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2023]{Garcia-Portugues2020b}
+Garc{\'i}a-Portugu{\'e}s, E., Navarro-Esteban, P., and Cuesta-Albertos, J.~A. (2023).
 \newblock On a projection-based class of uniformity tests on the hypersphere.
 \newblock {\em Bernoulli}, 29(1):181--204.
 \newblock \href {http://dx.doi.org/10.3150/21-BEJ1454} {\path{doi:10.3150/21-BEJ1454}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2020]{Garcia-Portugues2020}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2020).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2020]{Garcia-Portugues2020}
+Garc{\'i}a-Portugu{\'e}s, E., Paindaveine, D., and Verdebout, T. (2020).
 \newblock On optimal tests for rotational symmetry against new classes of hyperspherical distributions.
 \newblock {\em Journal of the American Statistical Association}, 115(532):1873--1887.
 \newblock \href {http://dx.doi.org/10.1080/01621459.2019.1665527} {\path{doi:10.1080/01621459.2019.1665527}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2026a]{Garcia-Portugues2021a}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026a).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2026a]{Garcia-Portugues2021a}
+Garc{\'i}a-Portugu{\'e}s, E., Paindaveine, D., and Verdebout, T. (2026a).
 \newblock On a class of {S}obolev tests for symmetry, their detection thresholds, and asymptotic powers.
 \newblock {\em Journal of the American Statistical Association}, 121(554):1460--1472.
 \newblock \href {http://dx.doi.org/10.1080/01621459.2025.2566414} {\path{doi:10.1080/01621459.2025.2566414}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2026b]{Garcia-Portugues2020e}
-Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026b).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2026b]{Garcia-Portugues2020e}
+Garc{\'i}a-Portugu{\'e}s, E., Paindaveine, D., and Verdebout, T. (2026b).
 \newblock {\em {rotasym}: Tests for Rotational Symmetry on the Hypersphere}.
 \newblock {R} package version 1.3.1.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.rotasym} {\path{doi:10.32614/CRAN.package.rotasym}}.
 
-\bibitem[Garc\'ia-Portugu\'es and S{\o}rensen, 2026]{Garcia-Portugues2026}
-Garc\'ia-Portugu\'es, E. and S{\o}rensen, M. (2026).
+\bibitem[Garc{\'i}a-Portugu{\'e}s and S{\o}rensen, 2026]{Garcia-Portugues2026}
+Garc{\'i}a-Portugu{\'e}s, E. and S{\o}rensen, M. (2026).
 \newblock A family of toroidal diffusions with exact likelihood inference.
 \newblock {\em Biometrika}, 113(1):asaf050.
 \newblock \href {http://dx.doi.org/10.1093/biomet/asaf050} {\path{doi:10.1093/biomet/asaf050}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2019]{Garcia-Portugues2019}
-Garc\'ia-Portugu\'es, E., S{\o}rensen, M., Mardia, K.~V., and Hamelryck, T. (2019).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2019]{Garcia-Portugues2019}
+Garc{\'i}a-Portugu{\'e}s, E., S{\o}rensen, M., Mardia, K.~V., and Hamelryck, T. (2019).
 \newblock Langevin diffusions on the torus: estimation and applications.
 \newblock {\em Statistics and Computing}, 29(1):1--22.
 \newblock \href {http://dx.doi.org/10.1007/s11222-017-9790-2} {\path{doi:10.1007/s11222-017-9790-2}}.
 
-\bibitem[Garc\'ia-Portugu\'es et~al., 2016]{Garcia-Portugues2016}
-Garc\'ia-Portugu\'es, E., Van~Keilegom, I., Crujeiras, R.~M., and Gonz\'alez-Manteiga, W. (2016).
+\bibitem[Garc{\'i}a-Portugu{\'e}s et~al., 2016]{Garcia-Portugues2016}
+Garc{\'i}a-Portugu{\'e}s, E., Van~Keilegom, I., Crujeiras, R.~M., and Gonz{\'a}lez-Manteiga, W. (2016).
 \newblock Testing parametric models in linear-directional regression.
 \newblock {\em Scandinavian Journal of Statistics}, 43(4):1178--1191.
 \newblock \href {http://dx.doi.org/10.1111/sjos.12236} {\path{doi:10.1111/sjos.12236}}.
 
-\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2018]{Garcia-Portugues2020a}
-Garc\'ia-Portugu\'es, E. and Verdebout, T. (2018).
+\bibitem[Garc{\'i}a-Portugu{\'e}s and Verdebout, 2018]{Garcia-Portugues2020a}
+Garc{\'i}a-Portugu{\'e}s, E. and Verdebout, T. (2018).
 \newblock An overview of uniformity tests on the hypersphere.
 \newblock {\em arXiv:1804.00286}.
 \newblock \href {http://dx.doi.org/10.48550/arXiv.1804.00286} {\path{doi:10.48550/arXiv.1804.00286}}.
 
-\bibitem[Garc\'ia-Portugu\'es and Verdebout, 2026]{Garcia-Portugues2020c}
-Garc\'ia-Portugu\'es, E. and Verdebout, T. (2026).
+\bibitem[Garc{\'i}a-Portugu{\'e}s and Verdebout, 2026]{Garcia-Portugues2020c}
+Garc{\'i}a-Portugu{\'e}s, E. and Verdebout, T. (2026).
 \newblock {\em {sphunif}: Uniformity Tests on the Circle, Sphere, and Hypersphere}.
 \newblock {R} package version 1.5.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.sphunif} {\path{doi:10.32614/CRAN.package.sphunif}}.
@@ -3350,7 +3350,7 @@ Gatto, R. (2017).
 \bibitem[Gatto and Jammalamadaka, 2003]{Gatto2003}
 Gatto, R. and Jammalamadaka, S.~R. (2003).
 \newblock Inference for wrapped symmetric {$\alpha$}-stable circular models.
-\newblock {\em Sankhy\=a}, 65(2):333--355.
+\newblock {\em Sankhy{\=a}}, 65(2):333--355.
 
 \bibitem[Gatto and Jammalamadaka, 2007]{Gatto2007}
 Gatto, R. and Jammalamadaka, S.~R. (2007).
@@ -3473,14 +3473,14 @@ Gill, J. and Hangartner, D. (2010).
 \newblock {\em Political Analysis}, 18(3):316--336.
 \newblock \href {http://dx.doi.org/10.1093/pan/mpq009} {\path{doi:10.1093/pan/mpq009}}.
 
-\bibitem[Gin\'e, 1975]{Gine1975}
-Gin\'e, E. (1975).
+\bibitem[Gin{\'e}, 1975]{Gine1975}
+Gin{\'e}, E. (1975).
 \newblock Invariant tests for uniformity on compact {R}iemannian manifolds based on {S}obolev norms.
 \newblock {\em The Annals of Statistics}, 3(6):1243--1266.
 \newblock \href {http://dx.doi.org/10.1214/aos/1176343283} {\path{doi:10.1214/aos/1176343283}}.
 
-\bibitem[Giummol\`e et~al., 2019]{Giummole2019}
-Giummol\`e, F., Mameli, V., Ruli, E., and Ventura, L. (2019).
+\bibitem[Giummol{\`e} et~al., 2019]{Giummole2019}
+Giummol{\`e}, F., Mameli, V., Ruli, E., and Ventura, L. (2019).
 \newblock Objective {B}ayesian inference with proper scoring rules.
 \newblock {\em Test}, 28(3):728--755.
 \newblock \href {http://dx.doi.org/10.1007/s11749-018-0597-z} {\path{doi:10.1007/s11749-018-0597-z}}.
@@ -3522,7 +3522,7 @@ Goh, G. and Dey, D.~K. (2014).
 \newblock \href {http://dx.doi.org/10.1016/j.jmva.2013.11.008} {\path{doi:10.1016/j.jmva.2013.11.008}}.
 
 \bibitem[Golden et~al., 2017]{Golden2017}
-Golden, M., Garc\'ia-Portugu\'es, E., S{\o}rensen, M., Mardia, K.~V., Hamelryck, T., and Hein, J. (2017).
+Golden, M., Garc{\'i}a-Portugu{\'e}s, E., S{\o}rensen, M., Mardia, K.~V., Hamelryck, T., and Hein, J. (2017).
 \newblock A generative angular model of protein structure evolution.
 \newblock {\em Molecular Biology and Evolution}, 34(8):2085--2100.
 \newblock \href {http://dx.doi.org/10.1093/molbev/msx137} {\path{doi:10.1093/molbev/msx137}}.
@@ -3637,14 +3637,14 @@ Gruet, J.-C. (2000).
 \newblock {\em Bernoulli}, 6(6):1007--1020.
 \newblock \href {http://dx.doi.org/10.2307/3318468} {\path{doi:10.2307/3318468}}.
 
-\bibitem[Gr\"un and Hornik, 2011]{Gruen2011}
-Gr\"un, B. and Hornik, K. (2011).
+\bibitem[Gr{\"u}n and Hornik, 2011]{Gruen2011}
+Gr{\"u}n, B. and Hornik, K. (2011).
 \newblock topicmodels: an {R} package for fitting topic models.
 \newblock {\em Journal of Statistical Software}, 40(13):1--30.
 \newblock \href {http://dx.doi.org/10.18637/jss.v040.i13} {\path{doi:10.18637/jss.v040.i13}}.
 
 \bibitem[Gu et~al., 2014]{Gu2014}
-Gu, X., Mulder, J., Dekovi\'c, M., and Hoijtink, H. (2014).
+Gu, X., Mulder, J., Dekovi{\'c}, M., and Hoijtink, H. (2014).
 \newblock Bayesian evaluation of inequality constrained hypotheses.
 \newblock {\em Psychological Methods}, 19(4):511--527.
 \newblock \href {http://dx.doi.org/10.1037/met0000017} {\path{doi:10.1037/met0000017}}.
@@ -3707,8 +3707,8 @@ Guttorp, P. and Lockhart, R.~A. (1988).
 \newblock {\em Journal of the American Statistical Association}, 83(402):322--330.
 \newblock \href {http://dx.doi.org/10.1080/01621459.1988.10478601} {\path{doi:10.1080/01621459.1988.10478601}}.
 
-\bibitem[Gy\H{o}ri et~al., 2017]{Gyoeri2016}
-Gy\H{o}ri, L., Ludm\'any, A., and Baranyi, T. (2017).
+\bibitem[Gy{\H{o}}ri et~al., 2017]{Gyoeri2016}
+Gy{\H{o}}ri, L., Ludm{\'a}ny, A., and Baranyi, T. (2017).
 \newblock Comparative analysis of {D}ebrecen sunspot catalogues.
 \newblock {\em Monthly Notices of the Royal Astronomical Society}, 465(2):1259--1273.
 \newblock \href {http://dx.doi.org/10.1093/mnras/stw2667} {\path{doi:10.1093/mnras/stw2667}}.
@@ -3716,7 +3716,7 @@ Gy\H{o}ri, L., Ludm\'any, A., and Baranyi, T. (2017).
 \bibitem[Haldane, 1960]{Haldane1960}
 Haldane, J. B.~S. (1960).
 \newblock The addition of random vectors.
-\newblock {\em Sankhy\=a}, 22(3):213--220.
+\newblock {\em Sankhy{\=a}}, 22(3):213--220.
 
 \bibitem[Hall, 1984]{Hall1984}
 Hall, P. (1984).
@@ -3839,7 +3839,7 @@ Harvey, P.~K. and Ferguson, C.~C. (1976).
 \newblock \href {http://dx.doi.org/10.1016/0098-3004(76)90111-4} {\path{doi:10.1016/0098-3004(76)90111-4}}.
 
 \bibitem[Hasnat et~al., 2014]{Hasnat2014}
-Hasnat, M.~A., Alata, O., and Tr\'emeau, A. (2014).
+Hasnat, M.~A., Alata, O., and Tr{\'e}meau, A. (2014).
 \newblock Unsupervised clustering of depth images using {W}atson mixture model.
 \newblock In {\em 2014 22nd International Conference on Pattern Recognition}, pp. 214--219, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.1109/icpr.2014.46} {\path{doi:10.1109/icpr.2014.46}}.
@@ -3934,7 +3934,7 @@ Hendriks, H. (1990).
 
 \bibitem[Hendriks, 1991]{Hendriks1991}
 Hendriks, H. (1991).
-\newblock A {C}ram\'er-{R}ao type lower bound for estimators with values in a manifold.
+\newblock A {C}ram{\'e}r-{R}ao type lower bound for estimators with values in a manifold.
 \newblock {\em Journal of Multivariate Analysis}, 38(2):245--261.
 \newblock \href {http://dx.doi.org/10.1016/0047-259x(91)90044-3} {\path{doi:10.1016/0047-259x(91)90044-3}}.
 
@@ -3958,7 +3958,7 @@ Hendriks, H. and Landsman, Z. (1996a).
 \bibitem[Hendriks and Landsman, 1996b]{Hendriks1996a}
 Hendriks, H. and Landsman, Z. (1996b).
 \newblock Asymptotic tests for mean location on manifolds.
-\newblock {\em Comptes Rendus de l'Acad\'emie des Sciences, S\'erie I (Math\'ematique)}, 322(8):773--778.
+\newblock {\em Comptes Rendus de l'Acad{\'e}mie des Sciences, S{\'e}rie I (Math{\'e}matique)}, 322(8):773--778.
 
 \bibitem[Hendriks and Landsman, 1998]{Hendriks1998}
 Hendriks, H. and Landsman, Z. (1998).
@@ -3991,15 +3991,15 @@ Henze, N. (2018).
 \newblock \href {http://dx.doi.org/10.1017/jpr.2018.41} {\path{doi:10.1017/jpr.2018.41}}.
 
 \bibitem[Herbert-Acero et~al., 2014]{Herbert-Acero2014}
-Herbert-Acero, J.~F., Probst, O., R\'ethor\'e, P.-E., Larsen, G.~C., and Castillo-Villar, K.~K. (2014).
+Herbert-Acero, J.~F., Probst, O., R{\'e}thor{\'e}, P.-E., Larsen, G.~C., and Castillo-Villar, K.~K. (2014).
 \newblock A review of methodological approaches for the design and optimization of wind farms.
 \newblock {\em Energies}, 7(11):6930--7016.
 \newblock \href {http://dx.doi.org/10.3390/en7116930} {\path{doi:10.3390/en7116930}}.
 
 \bibitem[Herglotz, 1911]{Herglotz1911}
 Herglotz, G. (1911).
-\newblock \"{U}ber {P}otenzreihen mit positivem, reellen {T}eil im {E}inheitskreis.
-\newblock {\em Berichte \"uber die Verhandlungen der K\"oniglich S\"achsischen Gesellschaft der Wissenschaften zu Leipzig, Mathematisch-Physikalische Klasse}, 63:501--511.
+\newblock {\"U}ber {P}otenzreihen mit positivem, reellen {T}eil im {E}inheitskreis.
+\newblock {\em Berichte {\"u}ber die Verhandlungen der K{\"o}niglich S{\"a}chsischen Gesellschaft der Wissenschaften zu Leipzig, Mathematisch-Physikalische Klasse}, 63:501--511.
 
 \bibitem[Hermans and Rasson, 1985]{Hermans1985}
 Hermans, M. and Rasson, J.~P. (1985).
@@ -4054,8 +4054,8 @@ Hill, G.~W. (1981).
 \newblock {\em ACM Transactions on Mathematical Software}, 7(2):199--208.
 \newblock \href {http://dx.doi.org/10.1145/355945.355949} {\path{doi:10.1145/355945.355949}}.
 
-\bibitem[Hill and H\"ader, 1997]{Hill1997}
-Hill, N.~A. and H\"ader, D.-P. (1997).
+\bibitem[Hill and H{\"a}der, 1997]{Hill1997}
+Hill, N.~A. and H{\"a}der, D.-P. (1997).
 \newblock A biased random walk model for the trajectories of swimming micro-organisms.
 \newblock {\em Journal of Theoretical Biology}, 186(4):503--526.
 \newblock \href {http://dx.doi.org/10.1006/jtbi.1997.0421} {\path{doi:10.1006/jtbi.1997.0421}}.
@@ -4161,7 +4161,7 @@ Holst, L. (1981).
 \bibitem[Holzmann et~al., 2004]{Holzmann2004}
 Holzmann, H., Munk, A., and Stratmann, B. (2004).
 \newblock Identifiability of finite mixtures - with applications to circular distributions.
-\newblock {\em Sankhy\=a}, 66(3):440--449.
+\newblock {\em Sankhy{\=a}}, 66(3):440--449.
 
 \bibitem[Holzmann et~al., 2006]{Holzmann2006}
 Holzmann, H., Munk, A., Suster, M., and Zucchini, W. (2006).
@@ -4187,20 +4187,20 @@ Hornik, K., Feinerer, I., Kober, M., and Buchta, C. (2012).
 \newblock {\em Journal of Statistical Software}, 50(10):1--22.
 \newblock \href {http://dx.doi.org/10.18637/jss.v050.i10} {\path{doi:10.18637/jss.v050.i10}}.
 
-\bibitem[Hornik and Gr\"un, 2013]{Hornik2013}
-Hornik, K. and Gr\"un, B. (2013).
+\bibitem[Hornik and Gr{\"u}n, 2013]{Hornik2013}
+Hornik, K. and Gr{\"u}n, B. (2013).
 \newblock On conjugate families and {J}effreys priors for von {M}ises-{F}isher distributions.
 \newblock {\em Journal of Statistical Planning and Inference}, 143(5):992--999.
 \newblock \href {http://dx.doi.org/10.1016/j.jspi.2012.11.003} {\path{doi:10.1016/j.jspi.2012.11.003}}.
 
-\bibitem[Hornik and Gr\"un, 2014a]{Hornik2014}
-Hornik, K. and Gr\"un, B. (2014a).
+\bibitem[Hornik and Gr{\"u}n, 2014a]{Hornik2014}
+Hornik, K. and Gr{\"u}n, B. (2014a).
 \newblock {movMF}: an {R} package for fitting mixtures of von {M}ises-{F}isher distributions.
 \newblock {\em Journal of Statistical Software}, 58(10):1--31.
 \newblock \href {http://dx.doi.org/10.18637/jss.v058.i10} {\path{doi:10.18637/jss.v058.i10}}.
 
-\bibitem[Hornik and Gr\"un, 2014b]{Hornik2014a}
-Hornik, K. and Gr\"un, B. (2014b).
+\bibitem[Hornik and Gr{\"u}n, 2014b]{Hornik2014a}
+Hornik, K. and Gr{\"u}n, B. (2014b).
 \newblock On maximum likelihood estimation of the concentration parameter of von {M}ises-{F}isher distributions.
 \newblock {\em Computational Statistics}, 29(5):945--957.
 \newblock \href {http://dx.doi.org/10.1007/s00180-013-0471-0} {\path{doi:10.1007/s00180-013-0471-0}}.
@@ -4314,7 +4314,7 @@ Huckemann, S.~F. and Eltzner, B. (2021).
 
 \bibitem[Huckemann et~al., 2010b]{Huckemann2010}
 Huckemann, S.~F., Kim, P.~T., Koo, J.-Y., and Munk, A. (2010b).
-\newblock M\"obius deconvolution on the hyperbolic plane with application to impedance density estimation.
+\newblock M{\"o}bius deconvolution on the hyperbolic plane with application to impedance density estimation.
 \newblock {\em The Annals of Statistics}, 38(4):2465--2498.
 \newblock \href {http://dx.doi.org/10.1214/09-aos783} {\path{doi:10.1214/09-aos783}}.
 
@@ -4343,7 +4343,7 @@ Humphreys, R.~K. and Ruxton, G.~D. (2017).
 
 \bibitem[Hundrieser et~al., 2024]{Hundrieser2024}
 Hundrieser, S., Eltzner, B., and Huckemann, S.~F. (2024).
-\newblock Finite sample smeariness of {F}r\'echet means with application to climate.
+\newblock Finite sample smeariness of {F}r{\'e}chet means with application to climate.
 \newblock {\em Electronic Journal of Statistics}, 18(2):3274--3309.
 \newblock \href {http://dx.doi.org/10.1214/24-EJS2276} {\path{doi:10.1214/24-EJS2276}}.
 
@@ -4361,12 +4361,12 @@ Hung, W.-L., Chang-Chien, S.-J., and Yang, M.-S. (2015).
 
 \bibitem[Hurwitz, 1903]{Hurwitz1903}
 Hurwitz, A. (1903).
-\newblock \"{U}ber die {F}ourierschen {K}onstanten integrierbarer {F}unktionen.
+\newblock {\"U}ber die {F}ourierschen {K}onstanten integrierbarer {F}unktionen.
 \newblock {\em Mathematische Annalen}, 57(4):425--446.
 \newblock \href {http://dx.doi.org/10.1007/bf01445179} {\path{doi:10.1007/bf01445179}}.
 
-\bibitem[H\"usler, 1982]{Husler1982}
-H\"usler, J. (1982).
+\bibitem[H{\"u}sler, 1982]{Husler1982}
+H{\"u}sler, J. (1982).
 \newblock Random coverage of the circle and asymptotic distributions.
 \newblock {\em Journal of Applied Probability}, 19(3):578--587.
 \newblock \href {http://dx.doi.org/10.2307/3213515} {\path{doi:10.2307/3213515}}.
@@ -4377,24 +4377,24 @@ Hussain, I., Ali, S.~M., Khan, B., Ullah, Z., Mehmood, C.~A., Jawad, M., Farid, 
 \newblock {\em Renewable Energy}, 134:1017--1033.
 \newblock \href {http://dx.doi.org/10.1016/j.renene.2018.11.085} {\path{doi:10.1016/j.renene.2018.11.085}}.
 
-\bibitem[Hyv\"arinen, 2005]{Hyvarinen2005}
-Hyv\"arinen, A. (2005).
+\bibitem[Hyv{\"a}rinen, 2005]{Hyvarinen2005}
+Hyv{\"a}rinen, A. (2005).
 \newblock Estimation of non-normalized statistical models by score matching.
 \newblock {\em Journal of Machine Learning Research}, 6(Apr):695--709.
 \newblock URL: \url{https://jmlr.org/papers/v6/hyvarinen05a.html}.
 
 \bibitem[Ibero, 1975]{Ibero1975}
 Ibero, M. (1975).
-\newblock D\'eviation de la loi empirique d'une variable bidimensionnelle.
-\newblock {\em Comptes Rendus de l'Acad\'emie des Sciences, S\'erie A}, 281:1059--1062.
+\newblock D{\'e}viation de la loi empirique d'une variable bidimensionnelle.
+\newblock {\em Comptes Rendus de l'Acad{\'e}mie des Sciences, S{\'e}rie A}, 281:1059--1062.
 
 \bibitem[Ibero, 1976]{Ibero1976}
 Ibero, M. (1976).
-\newblock Un test d'ajustement bidimensionnel ind\'ependent de la loi.
-\newblock {\em Comptes Rendus de l'Acad\'emie des Sciences, S\'erie A}, 283:387--390.
+\newblock Un test d'ajustement bidimensionnel ind{\'e}pendent de la loi.
+\newblock {\em Comptes Rendus de l'Acad{\'e}mie des Sciences, S{\'e}rie A}, 283:387--390.
 
-\bibitem[Id\'e et~al., 2016]{Ide2016}
-Id\'e, T., Phan, D.~T., and Kalagnanam, J. (2016).
+\bibitem[Id{\'e} et~al., 2016]{Ide2016}
+Id{\'e}, T., Phan, D.~T., and Kalagnanam, J. (2016).
 \newblock Change detection using directional statistics.
 \newblock In Kambhampati, S. (Ed.), {\em Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence ({IJCAI}-16)}, pp. 1613--1619, Palo Alto. AAAI Press.
 
@@ -4428,8 +4428,8 @@ Isham, V. (1977).
 \newblock {\em Journal of Applied Probability}, 14(3):507--515.
 \newblock \href {http://dx.doi.org/10.2307/3213453} {\path{doi:10.2307/3213453}}.
 
-\bibitem[Jacimovic and Crnki\'c, 2017]{Jacimovic2017}
-Jacimovic, V. and Crnki\'c, A. (2017).
+\bibitem[Jacimovic and Crnki{\'c}, 2017]{Jacimovic2017}
+Jacimovic, V. and Crnki{\'c}, A. (2017).
 \newblock Collective motions of globally coupled oscillators and some probability distributions on circle.
 \newblock {\em Physics Letters A}, 381(24):1989--1994.
 \newblock \href {http://dx.doi.org/10.1016/j.physleta.2017.04.024} {\path{doi:10.1016/j.physleta.2017.04.024}}.
@@ -4440,8 +4440,8 @@ Jacob, S. and Jayakumar, K. (2013).
 \newblock {\em Journal of Statistical Theory and Applications}, 12(4):348--355.
 \newblock \href {http://dx.doi.org/10.2991/jsta.2013.12.4.3} {\path{doi:10.2991/jsta.2013.12.4.3}}.
 
-\bibitem[Jaff\'e, 1956]{Jaffe1956}
-Jaff\'e, L. (1956).
+\bibitem[Jaff{\'e}, 1956]{Jaffe1956}
+Jaff{\'e}, L. (1956).
 \newblock Effect of polarized light on polarity of fucus.
 \newblock {\em Science}, 123(3207):1081--1082.
 \newblock \href {http://dx.doi.org/10.1126/science.123.3207.1081} {\path{doi:10.1126/science.123.3207.1081}}.
@@ -4507,7 +4507,7 @@ Jammalamadaka, S.~R. and Terdik, G.~H. (2019).
 \bibitem[Jander, 1957]{Jander1957}
 Jander, R. (1957).
 \newblock Die optische {R}ichtungsorientierung der {R}oten {W}aldameise ({F}ormica {R}ufa {L}.).
-\newblock {\em Zeitschrift f\"ur Vergleichende Physiologie}, 40(2):162--238.
+\newblock {\em Zeitschrift f{\"u}r Vergleichende Physiologie}, 40(2):162--238.
 \newblock \href {http://dx.doi.org/10.1007/bf00297947} {\path{doi:10.1007/bf00297947}}.
 
 \bibitem[Jayakumar and Jacob, 2012]{Jayakumar2012}
@@ -4559,7 +4559,7 @@ Jin, K.-R. and Ji, Z.-G. (2004).
 \bibitem[Jirina, 1978]{Jirina1978}
 Jirina, M. (1978).
 \newblock A biased roulette.
-\newblock {\em Annales de l'Institut Henri Poincar\'e. Nouvelle S\'erie. Section B. Calcul des Probabilit\'es et Statistique}, 14(1):1--23.
+\newblock {\em Annales de l'Institut Henri Poincar{\'e}. Nouvelle S{\'e}rie. Section B. Calcul des Probabilit{\'e}s et Statistique}, 14(1):1--23.
 
 \bibitem[Joffe and Klotz, 1962]{Joffe1962}
 Joffe, A. and Klotz, J. (1962).
@@ -4705,7 +4705,7 @@ J{\o}rgensen, B. (1987).
 \newblock {\em Brazilian Journal of Probability and Statistics}, 1(1):59--90.
 
 \bibitem[Jumper et~al., 2020]{Jumper2020}
-Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Tunyasuvunakool, K., Ronneberger, O., Bates, R., \v{Z}\'idek, A., Bridgland, A., Meyer, C., Kohl, S. A.~A., Potapenko, A., Ballard, A.~J., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J., Back, T., Petersen, S., Reiman, D., Steinegger, M., Pacholska, M., Silver, D., Vinyals, O., Senior, A.~W., Kavukcuoglu, K., Kohli, P., and Hassabis, D. (2020).
+Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Tunyasuvunakool, K., Ronneberger, O., Bates, R., {\v{Z}}{\'i}dek, A., Bridgland, A., Meyer, C., Kohl, S. A.~A., Potapenko, A., Ballard, A.~J., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J., Back, T., Petersen, S., Reiman, D., Steinegger, M., Pacholska, M., Silver, D., Vinyals, O., Senior, A.~W., Kavukcuoglu, K., Kohli, P., and Hassabis, D. (2020).
 \newblock High accuracy protein structure prediction using deep learning.
 \newblock In {\em Fourteenth Critical Assessment of Techniques for Protein Structure Prediction (Abstract Book), 30 {N}ovember-4 {D}ecember}, pp. 22--24.
 
@@ -4729,7 +4729,7 @@ Jung, S., Liu, X., Marron, J.~S., and Pizer, S.~M. (2010).
 
 \bibitem[Jupp, 1984]{Jupp1984}
 Jupp, P.~E. (1984).
-\newblock A {P}oincar\'e limit theorem for wrapped probability distributions on compact symmetric spaces.
+\newblock A {P}oincar{\'e} limit theorem for wrapped probability distributions on compact symmetric spaces.
 \newblock {\em Mathematical Proceedings of the Cambridge Philosophical Society}, 95(2):329--334.
 \newblock \href {http://dx.doi.org/10.1017/s0305004100061600} {\path{doi:10.1017/s0305004100061600}}.
 
@@ -4903,7 +4903,7 @@ Kanzawa, Y. (2015).
 \bibitem[Kanzawa, 2016]{Kanzawa2016}
 Kanzawa, Y. (2016).
 \newblock On {B}ezdek-type possibilistic clustering for spherical data, its kernelization, and spectral clustering approach.
-\newblock In Torra, V., Narukawa, Y., Navarro-Arribas, G., and Ya\~{n}ez, C. (Eds.), {\em Modeling Decisions for Artificial Intelligence}, volume 9880 of {\em Lecture Notes in Computer Science}, pp. 178--190, Cham. Springer.
+\newblock In Torra, V., Narukawa, Y., Navarro-Arribas, G., and Ya{\~n}ez, C. (Eds.), {\em Modeling Decisions for Artificial Intelligence}, volume 9880 of {\em Lecture Notes in Computer Science}, pp. 178--190, Cham. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-319-45656-0_15} {\path{doi:10.1007/978-3-319-45656-0_15}}.
 
 \bibitem[Karcher, 2014]{Karcher2014}
@@ -4954,7 +4954,7 @@ Kato, S. and Eguchi, S. (2016).
 
 \bibitem[Kato and Jones, 2010]{Kato2010a}
 Kato, S. and Jones, M.~C. (2010).
-\newblock A family of distributions on the circle with links to, and applications arising from, {M}\"obius transformation.
+\newblock A family of distributions on the circle with links to, and applications arising from, {M}{\"o}bius transformation.
 \newblock {\em Journal of the American Statistical Association}, 105(489):249--262.
 \newblock \href {http://dx.doi.org/10.1198/jasa.2009.tm08313} {\path{doi:10.1198/jasa.2009.tm08313}}.
 
@@ -4972,13 +4972,13 @@ Kato, S. and Jones, M.~C. (2015).
 
 \bibitem[Kato and McCullagh, 2020]{Kato2020}
 Kato, S. and McCullagh, P. (2020).
-\newblock Some properties of a {C}auchy family on the sphere derived from the {M}\"obius transformations.
+\newblock Some properties of a {C}auchy family on the sphere derived from the {M}{\"o}bius transformations.
 \newblock {\em Bernoulli}, 26(4):3224--3248.
 \newblock \href {http://dx.doi.org/10.3150/20-BEJ1222} {\path{doi:10.3150/20-BEJ1222}}.
 
 \bibitem[Kato and Pewsey, 2015]{Kato2015a}
 Kato, S. and Pewsey, A. (2015).
-\newblock A {M}\"obius transformation-induced distribution on the torus.
+\newblock A {M}{\"o}bius transformation-induced distribution on the torus.
 \newblock {\em Biometrika}, 102(2):359--370.
 \newblock \href {http://dx.doi.org/10.1093/biomet/asv003} {\path{doi:10.1093/biomet/asv003}}.
 
@@ -5213,13 +5213,13 @@ Kerkyacharian, G., Pham~Ngoc, T.~M., and Picard, D. (2011).
 \newblock \href {http://dx.doi.org/10.1214/10-aos858} {\path{doi:10.1214/10-aos858}}.
 
 \bibitem[Kesemen et~al., 2016]{Kesemen2016}
-Kesemen, O., Tezel, {\"O}., and \"Ozkul, E. (2016).
+Kesemen, O., Tezel, {\"O}., and {\"O}zkul, E. (2016).
 \newblock Fuzzy {$c$}-means clustering algorithm for directional data ({FCM4DD}).
 \newblock {\em Expert systems with applications}, 58:76--82.
 \newblock \href {http://dx.doi.org/10.1016/j.eswa.2016.03.034} {\path{doi:10.1016/j.eswa.2016.03.034}}.
 
 \bibitem[Kesemen et~al., 2020]{Kesemen2020}
-Kesemen, O., Tezel, {\"O}., \"Ozkul, E., and Tiryaki, B.~K. (2020).
+Kesemen, O., Tezel, {\"O}., {\"O}zkul, E., and Tiryaki, B.~K. (2020).
 \newblock Fuzzy c-means directional clustering (fcmdc) algorithm using trigonometric approximation.
 \newblock {\em Turkish Journal of Electrical Engineering \& Computer Sciences}, 28:140--152.
 \newblock \href {http://dx.doi.org/10.3906/elk-1903-118} {\path{doi:10.3906/elk-1903-118}}.
@@ -5312,26 +5312,26 @@ Kimber, A.~C. (1985).
 \newblock {\em Journal of the Royal Statistical Society, Series C (Applied Statistics)}, 34(2):169--172.
 \newblock \href {http://dx.doi.org/10.2307/2347369} {\path{doi:10.2307/2347369}}.
 
-\bibitem[Klemel\"a, 1999]{Klemela1999}
-Klemel\"a, J. (1999).
+\bibitem[Klemel{\"a}, 1999]{Klemela1999}
+Klemel{\"a}, J. (1999).
 \newblock Asymptotic minimax risk for the white noise model on the sphere.
 \newblock {\em Scandinavian Journal of Statistics}, 26(3):465--473.
 \newblock \href {http://dx.doi.org/10.1111/1467-9469.00160} {\path{doi:10.1111/1467-9469.00160}}.
 
-\bibitem[Klemel\"a, 2000]{Klemela2000}
-Klemel\"a, J. (2000).
+\bibitem[Klemel{\"a}, 2000]{Klemela2000}
+Klemel{\"a}, J. (2000).
 \newblock Estimation of densities and derivatives of densities with directional data.
 \newblock {\em Journal of Multivariate Analysis}, 73(1):18--40.
 \newblock \href {http://dx.doi.org/10.1006/jmva.1999.1861} {\path{doi:10.1006/jmva.1999.1861}}.
 
-\bibitem[Klemel\"a, 2003]{Klemela2003}
-Klemel\"a, J. (2003).
+\bibitem[Klemel{\"a}, 2003]{Klemela2003}
+Klemel{\"a}, J. (2003).
 \newblock Lower bounds for the asymptotic minimax risk with spherical data.
 \newblock {\em Journal of Statistical Planning and Inference}, 113(1):113--136.
 \newblock \href {http://dx.doi.org/10.1016/S0378-3758(01)00303-2} {\path{doi:10.1016/S0378-3758(01)00303-2}}.
 
-\bibitem[Klemel\"a, 1997]{Klemela1997}
-Klemel\"a, J.~S. (1997).
+\bibitem[Klemel{\"a}, 1997]{Klemela1997}
+Klemel{\"a}, J.~S. (1997).
 \newblock {\em Estimation of Densities and Functionals of Densities with Spherical Data}.
 \newblock PhD thesis, Helsingin Yliopisto.
 
@@ -5453,8 +5453,8 @@ Kueh, A. (2012).
 \newblock {\em Constructive Approximation}, 36(3):433--458.
 \newblock \href {http://dx.doi.org/10.1007/s00365-012-9170-2} {\path{doi:10.1007/s00365-012-9170-2}}.
 
-\bibitem[Kuhn and Gr\"un, 1942]{Kuhn1942}
-Kuhn, W. and Gr\"un, F. (1942).
+\bibitem[Kuhn and Gr{\"u}n, 1942]{Kuhn1942}
+Kuhn, W. and Gr{\"u}n, F. (1942).
 \newblock Beziehungen zwischen elastischen {K}onstanten und {D}ehnungsdoppelbrechung hochelastischer {S}toffe.
 \newblock {\em Kolloid-Zeitschrift}, 101(3):248--271.
 \newblock \href {http://dx.doi.org/10.1007/bf01793684} {\path{doi:10.1007/bf01793684}}.
@@ -5731,13 +5731,13 @@ Lang, M.~N., Schlosser, L., Hothorn, T., Mayr, G.~J., Stauffer, R., and Zeileis,
 
 \bibitem[Langevin, 1905a]{Langevin1905}
 Langevin, P. (1905a).
-\newblock Magn\'etisme et th\'eorie des \'electrons.
+\newblock Magn{\'e}tisme et th{\'e}orie des {\'e}lectrons.
 \newblock {\em Annales de Chimie et de Physique}, 5:70--127.
 
 \bibitem[Langevin, 1905b]{Langevin1905a}
 Langevin, P. (1905b).
-\newblock Sur la th\'eorie du magn\'etisme.
-\newblock {\em Journal de Physique Th\'eorique et Appliqu\'ee}, 4(1):678--693.
+\newblock Sur la th{\'e}orie du magn{\'e}tisme.
+\newblock {\em Journal de Physique Th{\'e}orique et Appliqu{\'e}e}, 4(1):678--693.
 \newblock \href {http://dx.doi.org/10.1051/jphystap:019050040067800} {\path{doi:10.1051/jphystap:019050040067800}}.
 
 \bibitem[Langrock et~al., 2012]{Langrock2012}
@@ -5753,7 +5753,7 @@ Lark, R.~M., Clifford, D., and Waters, C.~N. (2014).
 \newblock \href {http://dx.doi.org/10.5194/se-5-631-2014} {\path{doi:10.5194/se-5-631-2014}}.
 
 \bibitem[Larriba et~al., 2020]{Larriba2020}
-Larriba, Y., Rueda, C., Fern\'andez, M.~A., and Peddada, S.~D. (2020).
+Larriba, Y., Rueda, C., Fern{\'a}ndez, M.~A., and Peddada, S.~D. (2020).
 \newblock Order restricted inference in chronobiology.
 \newblock {\em Statistics in Medicine}, 39(3):265--278.
 \newblock \href {http://dx.doi.org/10.1002/sim.8397} {\path{doi:10.1002/sim.8397}}.
@@ -5857,19 +5857,19 @@ de~Leeuw, J., Hornik, K., and Mair, P. (2009).
 \newblock \href {http://dx.doi.org/10.18637/jss.v032.i05} {\path{doi:10.18637/jss.v032.i05}}.
 
 \bibitem[Leguey et~al., 2019a]{Leguey2019a}
-Leguey, I., Bielza, C., and Larra\~{n}aga, P. (2019a).
+Leguey, I., Bielza, C., and Larra{\~n}aga, P. (2019a).
 \newblock Circular {B}ayesian classifiers using wrapped {C}auchy distributions.
 \newblock {\em Data \& Knowledge Engineering}, 122:101--115.
 \newblock \href {http://dx.doi.org/10.1016/j.datak.2019.05.005} {\path{doi:10.1016/j.datak.2019.05.005}}.
 
 \bibitem[Leguey et~al., 2016]{Leguey2016}
-Leguey, I., Bielza, C., Larra\~{n}aga, P., Kastanauskaite, A., Rojo, C., Benavides-Piccione, R., and {De Felipe}, J. (2016).
+Leguey, I., Bielza, C., Larra{\~n}aga, P., Kastanauskaite, A., Rojo, C., Benavides-Piccione, R., and {De Felipe}, J. (2016).
 \newblock Dendritic branching angles of pyramidal cells across layers of the juvenile rat somatosensory cortex.
 \newblock {\em Journal of Comparative Neurology}, 524(13):2567--2576.
 \newblock \href {http://dx.doi.org/10.1002/cne.23977} {\path{doi:10.1002/cne.23977}}.
 
 \bibitem[Leguey et~al., 2019b]{Leguey2019}
-Leguey, I., Larra\~{n}aga, P., Bielza, C., and Kato, S. (2019b).
+Leguey, I., Larra{\~n}aga, P., Bielza, C., and Kato, S. (2019b).
 \newblock A circular-linear dependence measure under {J}ohnson--{W}ehrly distributions and its application in {B}ayesian networks.
 \newblock {\em Information Sciences}, 486:240--253.
 \newblock \href {http://dx.doi.org/10.1016/j.ins.2019.01.080} {\path{doi:10.1016/j.ins.2019.01.080}}.
@@ -5877,7 +5877,7 @@ Leguey, I., Larra\~{n}aga, P., Bielza, C., and Kato, S. (2019b).
 \bibitem[Leguey~Vitoriano, 2018]{Leguey2018}
 Leguey~Vitoriano, I. (2018).
 \newblock {\em Directional-Linear {B}ayesian Networks and Applications in Neuroscience}.
-\newblock PhD thesis, Universidad Polit\'ecnica de Madrid.
+\newblock PhD thesis, Universidad Polit{\'e}cnica de Madrid.
 
 \bibitem[Lehmacher and Lienert, 1980]{Lehmacher1980}
 Lehmacher, W. and Lienert, G.~A. (1980).
@@ -5915,8 +5915,8 @@ Lenth, R.~V. (1981b).
 \newblock {\em Technometrics}, 23(1):77--81.
 \newblock \href {http://dx.doi.org/10.2307/1267979} {\path{doi:10.2307/1267979}}.
 
-\bibitem[Le\'on et~al., 2006]{Leon2006}
-Le\'on, C.~A., Mass\'e, J.-C., and Rivest, L.-P. (2006).
+\bibitem[Le{\'o}n et~al., 2006]{Leon2006}
+Le{\'o}n, C.~A., Mass{\'e}, J.-C., and Rivest, L.-P. (2006).
 \newblock A statistical model for random rotations.
 \newblock {\em Journal of Multivariate Analysis}, 97(2):412--430.
 \newblock \href {http://dx.doi.org/10.1016/j.jmva.2005.03.009} {\path{doi:10.1016/j.jmva.2005.03.009}}.
@@ -5939,10 +5939,10 @@ Lesosky, M., Kim, P.~T., and Kribs, D.~W. (2008).
 \newblock {\em Inverse Problems}, 24(5):055017.
 \newblock \href {http://dx.doi.org/10.1088/0266-5611/24/5/055017} {\path{doi:10.1088/0266-5611/24/5/055017}}.
 
-\bibitem[L\'evy, 1939]{Levy1939}
-L\'evy, P. (1939).
-\newblock L'addition des variables al\'eatoires d\'efinies sur une circonf\'erence.
-\newblock {\em Bulletin de la Soci\'et\'e Math\'ematique de France}, 67:1--41.
+\bibitem[L{\'e}vy, 1939]{Levy1939}
+L{\'e}vy, P. (1939).
+\newblock L'addition des variables al{\'e}atoires d{\'e}finies sur une circonf{\'e}rence.
+\newblock {\em Bulletin de la Soci{\'e}t{\'e} Math{\'e}matique de France}, 67:1--41.
 \newblock \href {http://dx.doi.org/10.24033/bsmf.1288} {\path{doi:10.24033/bsmf.1288}}.
 
 \bibitem[Lewis, 1975]{Lewis1975}
@@ -6224,14 +6224,14 @@ Lombard, F. and Maxwell, R.~K. (2012).
 \newblock {\em Journal of Applied Statistics}, 39(9):1871--1880.
 \newblock \href {http://dx.doi.org/10.1080/02664763.2012.683857} {\path{doi:10.1080/02664763.2012.683857}}.
 
-\bibitem[L\'opez et~al., 2018]{Lopez2018}
-L\'opez, M.~D., Rodrigo, J., and Lantar\'on, S. (2018).
+\bibitem[L{\'o}pez et~al., 2018]{Lopez2018}
+L{\'o}pez, M.~D., Rodrigo, J., and Lantar{\'o}n, S. (2018).
 \newblock Searching for optimal positions through directional data in a political competition model.
 \newblock {\em International Journal of Operational Research}, 33(1):127--138.
 \newblock \href {http://dx.doi.org/10.1504/IJOR.2018.094234} {\path{doi:10.1504/IJOR.2018.094234}}.
 
-\bibitem[L\'opez-Cruz et~al., 2015]{Lopez-Cruz2015}
-L\'opez-Cruz, P.~L., Bielza, C., and Larra\~{n}aga, P. (2015).
+\bibitem[L{\'o}pez-Cruz et~al., 2015]{Lopez-Cruz2015}
+L{\'o}pez-Cruz, P.~L., Bielza, C., and Larra{\~n}aga, P. (2015).
 \newblock Directional naive {B}ayes classifiers.
 \newblock {\em Pattern Analysis and Applications}, 18(2):225--246.
 \newblock \href {http://dx.doi.org/10.1007/s10044-013-0340-z} {\path{doi:10.1007/s10044-013-0340-z}}.
@@ -6396,7 +6396,7 @@ Mardia, K.~V. (1969a).
 \bibitem[Mardia, 1969b]{Mardia1969a}
 Mardia, K.~V. (1969b).
 \newblock On {W}heeler and {W}atson's two-sample test on a circle.
-\newblock {\em Sankhy\=a, Series A}, 31(2):177--190.
+\newblock {\em Sankhy{\=a}, Series A}, 31(2):177--190.
 
 \bibitem[Mardia, 1970]{Mardia1970}
 Mardia, K.~V. (1970).
@@ -6644,7 +6644,7 @@ Mardia, K.~V. and Spurr, B.~D. (1973).
 \bibitem[Mardia and Sriram, 2023]{Mardia2023}
 Mardia, K.~V. and Sriram, K. (2023).
 \newblock Families of discrete circular distributions with some novel applications.
-\newblock {\em Sankhy\=a, Series A}, 85(1):1--42.
+\newblock {\em Sankhy{\=a}, Series A}, 85(1):1--42.
 \newblock \href {http://dx.doi.org/10.1007/s13171-022-00298-z} {\path{doi:10.1007/s13171-022-00298-z}}.
 
 \bibitem[Mardia et~al., 2018b]{Mardia2018b}
@@ -6864,7 +6864,7 @@ McCullagh, P. (1989).
 
 \bibitem[McCullagh, 1996]{McCullagh1996}
 McCullagh, P. (1996).
-\newblock M\"obius transformation and {C}auchy parameter estimation.
+\newblock M{\"o}bius transformation and {C}auchy parameter estimation.
 \newblock {\em The Annals of Statistics}, 24(2):787--808.
 \newblock \href {http://dx.doi.org/10.1214/aos/1032894465} {\path{doi:10.1214/aos/1032894465}}.
 
@@ -6933,20 +6933,20 @@ McVinish, R. and Mengersen, K. (2008).
 \newblock {\em Computational Statistics \& Data Analysis}, 52(10):4722--4730.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2008.03.016} {\path{doi:10.1016/j.csda.2008.03.016}}.
 
-\bibitem[Meil\'an-Vila et~al., 2022]{Meilan-Vila2020a}
-Meil\'an-Vila, A., Francisco-Fern\'andez, M., and Crujeiras, R.~M. (2022).
+\bibitem[Meil{\'a}n-Vila et~al., 2022]{Meilan-Vila2020a}
+Meil{\'a}n-Vila, A., Francisco-Fern{\'a}ndez, M., and Crujeiras, R.~M. (2022).
 \newblock Goodness-of-fit tests for multiple regression with circular response.
 \newblock {\em Journal of Statistical Computation and Simulation}, 92(9):1941--1963.
 \newblock \href {http://dx.doi.org/10.1080/00949655.2021.2015597} {\path{doi:10.1080/00949655.2021.2015597}}.
 
-\bibitem[Meil\'an-Vila et~al., 2019]{Meilan-Vila2019}
-Meil\'an-Vila, A., Francisco-Fern\'andez, M., Crujeiras, R.~M., and Panzera, A. (2019).
+\bibitem[Meil{\'a}n-Vila et~al., 2019]{Meilan-Vila2019}
+Meil{\'a}n-Vila, A., Francisco-Fern{\'a}ndez, M., Crujeiras, R.~M., and Panzera, A. (2019).
 \newblock Nonparametric regression estimation for circular data.
 \newblock {\em Proceedings}, 21(1):27.
 \newblock \href {http://dx.doi.org/10.3390/proceedings2019021027} {\path{doi:10.3390/proceedings2019021027}}.
 
-\bibitem[Meil\'an-Vila et~al., 2021]{Meilan-Vila2020}
-Meil\'an-Vila, A., Francisco-Fern\'andez, M., Crujeiras, R.~M., and Panzera, A. (2021).
+\bibitem[Meil{\'a}n-Vila et~al., 2021]{Meilan-Vila2020}
+Meil{\'a}n-Vila, A., Francisco-Fern{\'a}ndez, M., Crujeiras, R.~M., and Panzera, A. (2021).
 \newblock Nonparametric multiple regression estimation for circular responses.
 \newblock {\em Test}, 30(3):650--672.
 \newblock \href {http://dx.doi.org/10.1007/s11749-020-00736-w} {\path{doi:10.1007/s11749-020-00736-w}}.
@@ -6971,7 +6971,7 @@ Mendoza, C.~E. (1986).
 \bibitem[Meng et~al., 2019]{Meng2019}
 Meng, Y., Huang, J., Wang, G., Zhang, C., Zhuang, H., Kaplan, L., and Han, J. (2019).
 \newblock Spherical text embedding.
-\newblock In Wallach, H., Larochelle, H., Beygelzimer, A., d'Alch\'{e} Buc, F., Fox, E., and Garnett, R. (Eds.), {\em Advances in Neural Information Processing Systems 32 ({NIPS} 2019)}, pp. 8208--8217. Curran Associates.
+\newblock In Wallach, H., Larochelle, H., Beygelzimer, A., d'Alch{\'e} Buc, F., Fox, E., and Garnett, R. (Eds.), {\em Advances in Neural Information Processing Systems 32 ({NIPS} 2019)}, pp. 8208--8217. Curran Associates.
 
 \bibitem[Merrifield et~al., 2006]{Merrifield2006}
 Merrifield, A., Myerscough, M.~R., and Weber, N. (2006).
@@ -6982,7 +6982,7 @@ Merrifield, A., Myerscough, M.~R., and Weber, N. (2006).
 \bibitem[Mettes et~al., 2019]{Mettes2019}
 Mettes, P., van~der Pol, E., and Snoek, C. (2019).
 \newblock Hyperspherical prototype networks.
-\newblock In Wallach, H., Larochelle, H., Beygelzimer, A., d'Alch\'{e} Buc, F., Fox, E., and Garnett, R. (Eds.), {\em Advances in Neural Information Processing Systems 32 ({NIPS} 2019)}, pp. 1487--1497. Curran Associates.
+\newblock In Wallach, H., Larochelle, H., Beygelzimer, A., d'Alch{\'e} Buc, F., Fox, E., and Garnett, R. (Eds.), {\em Advances in Neural Information Processing Systems 32 ({NIPS} 2019)}, pp. 1487--1497. Curran Associates.
 
 \bibitem[Miao and Zhao, 1988]{Miao1988}
 Miao, B.~Q. and Zhao, L.~C. (1988).
@@ -7010,7 +7010,7 @@ Mirvaliev, M. (1979).
 
 \bibitem[von Mises, 1918]{Mises1918}
 von Mises, R. (1918).
-\newblock \"{U}ber die ``{G}anzzahligkeit'' der {A}tomgewichte und verwandte {F}ragen.
+\newblock {\"U}ber die ``{G}anzzahligkeit'' der {A}tomgewichte und verwandte {F}ragen.
 \newblock {\em Physikalische Zeitschrift}, 19:490--500.
 
 \bibitem[Miyata et~al., 2020]{Miyata2020}
@@ -7067,8 +7067,8 @@ Monnier, J.-B. (2011).
 \newblock {\em Test}, 20(2):412--446.
 \newblock \href {http://dx.doi.org/10.1007/s11749-011-0233-7} {\path{doi:10.1007/s11749-011-0233-7}}.
 
-\bibitem[Montanari and Cal\`o, 2013]{Montanari2013}
-Montanari, A. and Cal\`o, D.~G. (2013).
+\bibitem[Montanari and Cal{\`o}, 2013]{Montanari2013}
+Montanari, A. and Cal{\`o}, D.~G. (2013).
 \newblock Model-based clustering of probability density functions.
 \newblock {\em Advances in Data Analysis and Classification}, 7(3):301--319.
 \newblock \href {http://dx.doi.org/10.1007/s11634-013-0140-8} {\path{doi:10.1007/s11634-013-0140-8}}.
@@ -7285,38 +7285,38 @@ North, H.~C., Pairman, D., and Belliss, S.~E. (2019).
 \newblock {\em IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 12(1, SI):237--251.
 \newblock \href {http://dx.doi.org/10.1109/jstars.2018.2884513} {\path{doi:10.1109/jstars.2018.2884513}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} and Geneyro, 2021]{Nunez-Antonio2020}
-{N\'u\~{n}ez-Antonio}, G. and Geneyro, E. (2021).
+\bibitem[{N{\'u}{\~n}ez-Antonio} and Geneyro, 2021]{Nunez-Antonio2020}
+{N{\'u}{\~n}ez-Antonio}, G. and Geneyro, E. (2021).
 \newblock A multivariate projected gamma model for directional data.
 \newblock {\em Communications in Statistics -- Simulation and Computation}, 50(9):2721--2742.
 \newblock \href {http://dx.doi.org/10.1080/03610918.2019.1612910} {\path{doi:10.1080/03610918.2019.1612910}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} and Guti\'errez-Pe\~{n}a, 2005a]{NunezAntonio2005}
-{N\'u\~{n}ez-Antonio}, G. and Guti\'errez-Pe\~{n}a, E. (2005a).
+\bibitem[{N{\'u}{\~n}ez-Antonio} and Guti{\'e}rrez-Pe{\~n}a, 2005a]{NunezAntonio2005}
+{N{\'u}{\~n}ez-Antonio}, G. and Guti{\'e}rrez-Pe{\~n}a, E. (2005a).
 \newblock A {B}ayesian analysis of directional data using the projected normal distribution.
 \newblock {\em Journal of Applied Statistics}, 32(10):995--1001.
 \newblock \href {http://dx.doi.org/10.1080/02664760500164886} {\path{doi:10.1080/02664760500164886}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} and Guti\'errez-Pe\~{n}a, 2005b]{NunezAntonio2005a}
-{N\'u\~{n}ez-Antonio}, G. and Guti\'errez-Pe\~{n}a, E. (2005b).
+\bibitem[{N{\'u}{\~n}ez-Antonio} and Guti{\'e}rrez-Pe{\~n}a, 2005b]{NunezAntonio2005a}
+{N{\'u}{\~n}ez-Antonio}, G. and Guti{\'e}rrez-Pe{\~n}a, E. (2005b).
 \newblock A {B}ayesian analysis of directional data using the von {M}ises-{F}isher distribution.
 \newblock {\em Communications in Statistics -- Simulation and Computation}, 34(4):989--999.
 \newblock \href {http://dx.doi.org/10.1080/03610910500308495} {\path{doi:10.1080/03610910500308495}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} and Guti\'errez-Pe\~{n}a, 2014]{Nunez-Antonio2014}
-{N\'u\~{n}ez-Antonio}, G. and Guti\'errez-Pe\~{n}a, E. (2014).
+\bibitem[{N{\'u}{\~n}ez-Antonio} and Guti{\'e}rrez-Pe{\~n}a, 2014]{Nunez-Antonio2014}
+{N{\'u}{\~n}ez-Antonio}, G. and Guti{\'e}rrez-Pe{\~n}a, E. (2014).
 \newblock A {B}ayesian model for longitudinal circular data based on the projected normal distribution.
 \newblock {\em Computational Statistics \& Data Analysis}, 71:506--519.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2012.07.025} {\path{doi:10.1016/j.csda.2012.07.025}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} et~al., 2011]{Nunez-Antonio2011}
-{N\'u\~{n}ez-Antonio}, G., Guti\'errez-Pe\~{n}a, E., and Escarela, G. (2011).
+\bibitem[{N{\'u}{\~n}ez-Antonio} et~al., 2011]{Nunez-Antonio2011}
+{N{\'u}{\~n}ez-Antonio}, G., Guti{\'e}rrez-Pe{\~n}a, E., and Escarela, G. (2011).
 \newblock A {B}ayesian regression model for circular data based on the projected normal distribution.
 \newblock {\em Statistical Modelling}, 11(3):185--201.
 \newblock \href {http://dx.doi.org/10.1177/1471082x1001100301} {\path{doi:10.1177/1471082x1001100301}}.
 
-\bibitem[{N\'u\~{n}ez-Antonio} et~al., 2018]{NunezAntonio2018}
-{N\'u\~{n}ez-Antonio}, G., Mendoza, M., Contreras-Crist\'an, A., Guti\'errez-Pe\~{n}a, E., and Mendoza, E. (2018).
+\bibitem[{N{\'u}{\~n}ez-Antonio} et~al., 2018]{NunezAntonio2018}
+{N{\'u}{\~n}ez-Antonio}, G., Mendoza, M., Contreras-Crist{\'a}n, A., Guti{\'e}rrez-Pe{\~n}a, E., and Mendoza, E. (2018).
 \newblock Bayesian nonparametric inference for the overlap of daily animal activity patterns.
 \newblock {\em Environmental and Ecological Statistics}, 25(4):471--494.
 \newblock \href {http://dx.doi.org/10.1007/s10651-018-0414-6} {\path{doi:10.1007/s10651-018-0414-6}}.
@@ -7336,7 +7336,7 @@ Oden, N.~L. (1993).
 \bibitem[Okumura, 1997]{Okumura1997}
 Okumura, H. (1997).
 \newblock Cardinal {$B$} splines and circular data.
-\newblock In Elaydi, S., Gy\"or, I., and Ladas, G. (Eds.), {\em Advances in Difference Equations}, pp. 473--480, Amsterdam. Gordon and Breach.
+\newblock In Elaydi, S., Gy{\"o}r, I., and Ladas, G. (Eds.), {\em Advances in Difference Equations}, pp. 473--480, Amsterdam. Gordon and Breach.
 
 \bibitem[Oliveira, 2013]{Oliveira2013a}
 Oliveira, M. (2013).
@@ -7344,25 +7344,25 @@ Oliveira, M. (2013).
 \newblock PhD thesis, University of Santiago de Compostela.
 
 \bibitem[Oliveira et~al., 2012]{Oliveira2012}
-Oliveira, M., Crujeiras, R.~M., and Rodr\'iguez-Casal, A. (2012).
+Oliveira, M., Crujeiras, R.~M., and Rodr{\'i}guez-Casal, A. (2012).
 \newblock A plug-in rule for bandwidth selection in circular density estimation.
 \newblock {\em Computational Statistics \& Data Analysis}, 56(12):3898--3908.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2012.05.021} {\path{doi:10.1016/j.csda.2012.05.021}}.
 
 \bibitem[Oliveira et~al., 2013]{Oliveira2013}
-Oliveira, M., Crujeiras, R.~M., and Rodr\'iguez-Casal, A. (2013).
+Oliveira, M., Crujeiras, R.~M., and Rodr{\'i}guez-Casal, A. (2013).
 \newblock Nonparametric circular methods for exploring environmental data.
 \newblock {\em Environmental and Ecological Statistics}, 20(1):1--17.
 \newblock \href {http://dx.doi.org/10.1007/s10651-012-0203-6} {\path{doi:10.1007/s10651-012-0203-6}}.
 
 \bibitem[Oliveira et~al., 2014a]{Oliveira2014}
-Oliveira, M., Crujeiras, R.~M., and Rodr\'iguez-Casal, A. (2014a).
+Oliveira, M., Crujeiras, R.~M., and Rodr{\'i}guez-Casal, A. (2014a).
 \newblock Circ{S}i{Z}er: an exploratory tool for circular data.
 \newblock {\em Environmental and Ecological Statistics}, 21(1):143--159.
 \newblock \href {http://dx.doi.org/10.1007/s10651-013-0249-0} {\path{doi:10.1007/s10651-013-0249-0}}.
 
 \bibitem[Oliveira et~al., 2014b]{Oliveira2014a}
-Oliveira, M., Crujeiras, R.~M., and Rodr\'iguez-Casal, A. (2014b).
+Oliveira, M., Crujeiras, R.~M., and Rodr{\'i}guez-Casal, A. (2014b).
 \newblock {NPCirc}: an {R} package for nonparametric circular methods.
 \newblock {\em Journal of Statistical Software}, 61(9):1--26.
 \newblock \href {http://dx.doi.org/10.18637/jss.v061.i09} {\path{doi:10.18637/jss.v061.i09}}.
@@ -7493,7 +7493,7 @@ Pandolfo, G., Paindaveine, D., and Porzio, G.~C. (2018b).
 
 \bibitem[Papakonstantinou, 1979]{Papakonstantinou1979}
 Papakonstantinou, V. (1979).
-\newblock {\em Beitr\"age zur Zirkul\"aren {S}tatistik}.
+\newblock {\em Beitr{\"a}ge zur Zirkul{\"a}ren {S}tatistik}.
 \newblock PhD thesis, University of Zurich.
 
 \bibitem[Papakonstantinou, 1984]{Papakonstantinou1984}
@@ -7503,7 +7503,7 @@ Papakonstantinou, V. (1984).
 \newblock \href {http://dx.doi.org/10.1016/0167-7152(84)90059-2} {\path{doi:10.1016/0167-7152(84)90059-2}}.
 
 \bibitem[Pardo et~al., 2017]{Pardo2017}
-Pardo, A., Real, E., Krishnaswamy, V., L\'opez-Higuera, J.~M., Pogue, B.~W., and Conde, O.~M. (2017).
+Pardo, A., Real, E., Krishnaswamy, V., L{\'o}pez-Higuera, J.~M., Pogue, B.~W., and Conde, O.~M. (2017).
 \newblock Directional kernel density estimation for classification of breast tissue spectra.
 \newblock {\em IEEE Transactions on Medical Imaging}, 36(1):64--73.
 \newblock \href {http://dx.doi.org/10.1109/tmi.2016.2593948} {\path{doi:10.1109/tmi.2016.2593948}}.
@@ -7586,14 +7586,14 @@ Peel, D., Whiten, W.~J., and McLachlan, G.~J. (2001).
 \newblock {\em Journal of the American Statistical Association}, 96(453):56--63.
 \newblock \href {http://dx.doi.org/10.1198/016214501750332974} {\path{doi:10.1198/016214501750332974}}.
 
-\bibitem[Peker and Bacanl\i, 2015]{Peker2015}
-Peker, K.~O. and Bacanl\i, S. (2015).
+\bibitem[Peker and Bacanl{\i}, 2015]{Peker2015}
+Peker, K.~{\"O}. and Bacanl{\i}, S. (2015).
 \newblock A group sequential test of circular data using the von {M}ises distribution.
 \newblock {\em Hacettepe Journal of Mathematics and Statistics}, 44(6):1569--1578.
 \newblock \href {http://dx.doi.org/10.15672/HJMS.2014388077} {\path{doi:10.15672/HJMS.2014388077}}.
 
-\bibitem[Pel\'e et~al., 2014]{Pele2014}
-Pel\'e, J., Moreau, M., Abdi, H., Rodien, P., Castel, H., and Chabbert, M. (2014).
+\bibitem[Pel{\'e} et~al., 2014]{Pele2014}
+Pel{\'e}, J., Moreau, M., Abdi, H., Rodien, P., Castel, H., and Chabbert, M. (2014).
 \newblock Comparative analysis of sequence covariation methods to mine evolutionary hubs: examples from selected {GPCR} families.
 \newblock {\em Proteins: Structure, Function, and Bioinformatics}, 82(9):2141--2156.
 \newblock \href {http://dx.doi.org/10.1002/prot.24570} {\path{doi:10.1002/prot.24570}}.
@@ -7622,8 +7622,8 @@ Pennec, X. (2018).
 \newblock {\em The Annals of Statistics}, 46(6A):2711--2746.
 \newblock \href {http://dx.doi.org/10.1214/17-aos1636} {\path{doi:10.1214/17-aos1636}}.
 
-\bibitem[P\'erez et~al., 2012]{Perez2012}
-P\'erez, I.~A., S\'anchez, M.~L., Garc\'ia, M.~A., and Pardo, N. (2012).
+\bibitem[P{\'e}rez et~al., 2012]{Perez2012}
+P{\'e}rez, I.~A., S{\'a}nchez, M.~L., Garc{\'i}a, M.~A., and Pardo, N. (2012).
 \newblock Analysis of {$\mbox{CO}_2$} daily cycle in the low atmosphere at a rural site.
 \newblock {\em Science of the Total Environment}, 431:286--292.
 \newblock \href {http://dx.doi.org/10.1016/j.scitotenv.2012.05.067} {\path{doi:10.1016/j.scitotenv.2012.05.067}}.
@@ -7636,8 +7636,8 @@ Perraudin, N., Defferrard, M., Kacprzak, T., and Sgier, R. (2019).
 
 \bibitem[Perrin, 1928]{Perrin1928}
 Perrin, F. (1928).
-\newblock {\'E}tude math\'ematique du mouvement brownien de rotation.
-\newblock {\em Annales Scientifiques de l'\'Ecole Normale Sup\'erieure}, 45(3):1--51.
+\newblock {\'E}tude math{\'e}matique du mouvement brownien de rotation.
+\newblock {\em Annales Scientifiques de l'{\'E}cole Normale Sup{\'e}rieure}, 45(3):1--51.
 \newblock \href {http://dx.doi.org/10.24033/asens.782} {\path{doi:10.24033/asens.782}}.
 
 \bibitem[Persson, 1979]{Persson1979}
@@ -7651,9 +7651,9 @@ Pertsemlidis, A., Zelinka, J., Fondon, J.~W., Henderson, R.~K., and Otwinowski, 
 \newblock {\em Statistical Applications in Genetics and Molecular Biology}, 4(1).
 \newblock \href {http://dx.doi.org/10.2202/1544-6115.1165} {\path{doi:10.2202/1544-6115.1165}}.
 
-\bibitem[Petersen and M\"uller, 2019]{Petersen2019}
-Petersen, A. and M\"uller, H.-G. (2019).
-\newblock Fr\'echet regression for random objects with {E}uclidean predictors.
+\bibitem[Petersen and M{\"u}ller, 2019]{Petersen2019}
+Petersen, A. and M{\"u}ller, H.-G. (2019).
+\newblock Fr{\'e}chet regression for random objects with {E}uclidean predictors.
 \newblock {\em The Annals of Statistics}, 47(2):691--719.
 \newblock \href {http://dx.doi.org/10.1214/17-AOS1624} {\path{doi:10.1214/17-AOS1624}}.
 
@@ -7710,14 +7710,14 @@ Pewsey, A. (2018b).
 \newblock {\em Wiley StatsRef: Statistics Reference Online}, pp. 1--10.
 \newblock \href {http://dx.doi.org/10.1002/9781118445112.stat05741.pub2} {\path{doi:10.1002/9781118445112.stat05741.pub2}}.
 
-\bibitem[Pewsey and Garc\'ia-Portugu\'es, 2021a]{Pewsey2021}
-Pewsey, A. and Garc\'ia-Portugu\'es, E. (2021a).
+\bibitem[Pewsey and Garc{\'i}a-Portugu{\'e}s, 2021a]{Pewsey2021}
+Pewsey, A. and Garc{\'i}a-Portugu{\'e}s, E. (2021a).
 \newblock Recent advances in directional statistics.
 \newblock {\em Test}, 30(1):1--58.
 \newblock \href {http://dx.doi.org/10.1007/s11749-021-00759-x} {\path{doi:10.1007/s11749-021-00759-x}}.
 
-\bibitem[Pewsey and Garc\'ia-Portugu\'es, 2021b]{Pewsey2021a}
-Pewsey, A. and Garc\'ia-Portugu\'es, E. (2021b).
+\bibitem[Pewsey and Garc{\'i}a-Portugu{\'e}s, 2021b]{Pewsey2021a}
+Pewsey, A. and Garc{\'i}a-Portugu{\'e}s, E. (2021b).
 \newblock Rejoinder on: Recent advances in directional statistics.
 \newblock {\em Test}, 30(1):76--82.
 \newblock \href {http://dx.doi.org/10.1007/s11749-021-00762-2} {\path{doi:10.1007/s11749-021-00762-2}}.
@@ -7741,7 +7741,7 @@ Pewsey, A., Lewis, T., and Jones, M.~C. (2007).
 \newblock \href {http://dx.doi.org/10.1111/j.1467-842x.2006.00465.x} {\path{doi:10.1111/j.1467-842x.2006.00465.x}}.
 
 \bibitem[Pewsey et~al., 2013]{Pewsey2013}
-Pewsey, A., Neuh\"auser, M., and Ruxton, G.~D. (2013).
+Pewsey, A., Neuh{\"a}user, M., and Ruxton, G.~D. (2013).
 \newblock {\em Circular Statistics in {R}}.
 \newblock Oxford University Press, Oxford.
 
@@ -7754,7 +7754,7 @@ Pewsey, A., Shimizu, K., and de~la Cruz, R. (2011).
 \bibitem[Pewsey, 2003]{Pewsey2003}
 Pewsey, A.~R. (2003).
 \newblock The characteristic functions of the skew-normal and wrapped skew-normal distributions.
-\newblock In {\em 27 Congreso Nacional de Estad\'istica e Investigaci\'on Operativa: {L}leida, del 8 al 11 de abril de 2003}, pp. 4383--4386. University of Lleida, Spain.
+\newblock In {\em 27 Congreso Nacional de Estad{\'i}stica e Investigaci{\'o}n Operativa: {L}leida, del 8 al 11 de abril de 2003}, pp. 4383--4386. University of Lleida, Spain.
 
 \bibitem[Pfaff, 2019]{Pfaff2019}
 Pfaff, F. (2019).
@@ -7783,7 +7783,7 @@ Pfaff, F., Kurz, G., and Hanebeck, U.~D. (2017a).
 \newblock \href {http://dx.doi.org/10.1109/MFI.2017.8170417} {\path{doi:10.1109/MFI.2017.8170417}}.
 
 \bibitem[Pfaff et~al., 2017b]{Pfaff2017a}
-Pfaff, F., Kurz, G., Pieper, C., Maier, G., Noack, B., Kruggel-Emden, H., Gruna, R., Hanebeck, U.~D., Wirtz, S., Scherer, V., L\"angle, T., and Beyerer, J. (2017b).
+Pfaff, F., Kurz, G., Pieper, C., Maier, G., Noack, B., Kruggel-Emden, H., Gruna, R., Hanebeck, U.~D., Wirtz, S., Scherer, V., L{\"a}ngle, T., and Beyerer, J. (2017b).
 \newblock Improving multitarget tracking using orientation estimates for sorting bulk materials.
 \newblock In {\em 2017 {IEEE} International Conference on Multisensor Fusion and Integration for Intelligent Systems ({MFI})}, pp. 553--558, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.1109/MFI.2017.8170379} {\path{doi:10.1109/MFI.2017.8170379}}.
@@ -7856,11 +7856,11 @@ Pizer, S.~M., Jung, S., Goswami, D., Vicory, J., Zhao, X., Chaudhuri, R., Damon,
 \bibitem[Pizer and Marron, 2017]{Pizer2017}
 Pizer, S.~M. and Marron, J.~S. (2017).
 \newblock Object statistics on curved manifolds.
-\newblock In Zheng, G., Li, S., and Sz\'ekely, G. (Eds.), {\em Statistical Shape and Deformation Analysis}, pp. 137--164. Academic Press, London.
+\newblock In Zheng, G., Li, S., and Sz{\'e}kely, G. (Eds.), {\em Statistical Shape and Deformation Analysis}, pp. 137--164. Academic Press, London.
 \newblock \href {http://dx.doi.org/10.1016/B978-0-12-810493-4.00007-9} {\path{doi:10.1016/B978-0-12-810493-4.00007-9}}.
 
-\bibitem[Poincar\'e, 1912]{Poincare1912}
-Poincar\'e, H. (1912).
+\bibitem[Poincar{\'e}, 1912]{Poincare1912}
+Poincar{\'e}, H. (1912).
 \newblock Chance.
 \newblock {\em Monist}, 22(1):31--52.
 \newblock \href {http://dx.doi.org/10.5840/monist19122211} {\path{doi:10.5840/monist19122211}}.
@@ -7877,16 +7877,16 @@ Polsen, O. and Taylor, C.~C. (2015).
 \newblock In Dryden, I.~L. and Kent, J.~T. (Eds.), {\em Geometry Driven Statistics}, Wiley Series in Probability and Statistics, pp. 115--128. Wiley, Chichester.
 \newblock \href {http://dx.doi.org/10.1002/9781118866641.ch5} {\path{doi:10.1002/9781118866641.ch5}}.
 
-\bibitem[P\'olya, 1918]{Polya1919}
-P\'olya, G. (1918).
-\newblock Zur {S}tatistik der sph\"arischen {V}erteilung der {F}ixsterne.
+\bibitem[P{\'o}lya, 1918]{Polya1919}
+P{\'o}lya, G. (1918).
+\newblock Zur {S}tatistik der sph{\"a}rischen {V}erteilung der {F}ixsterne.
 \newblock {\em Astronomische Nachrichten}, 208(12):175--180.
 \newblock \href {http://dx.doi.org/10.1002/asna.19182081205} {\path{doi:10.1002/asna.19182081205}}.
 
-\bibitem[P\'olya, 1930]{Polya1930}
-P\'olya, G. (1930).
-\newblock Sur quelques points de la th\'eorie des probabilit\'es.
-\newblock {\em Annales de l'institut Henri Poincar\'e}, 1(2):117--161.
+\bibitem[P{\'o}lya, 1930]{Polya1930}
+P{\'o}lya, G. (1930).
+\newblock Sur quelques points de la th{\'e}orie des probabilit{\'e}s.
+\newblock {\em Annales de l'institut Henri Poincar{\'e}}, 1(2):117--161.
 
 \bibitem[Porcu et~al., 2016]{Porcu2016}
 Porcu, E., Bevilacqua, M., and Genton, M.~G. (2016).
@@ -7979,17 +7979,17 @@ Puri, M.~L. and Rao, J.~S. (1977).
 \bibitem[Puri et~al., 1979]{Puri1979}
 Puri, M.~L., Rao, J.~S., and Yoon, Y. (1979).
 \newblock A simple test for goodness-of-fit based on spacings with some efficiency comparisons.
-\newblock In Jure\v{c}kov\'a, J. (Ed.), {\em Contributions to Statistics}, pp. 197--209. Reidel, Dordrecht.
+\newblock In Jure{\v{c}}kov{\'a}, J. (Ed.), {\em Contributions to Statistics}, pp. 197--209. Reidel, Dordrecht.
 
 \bibitem[Purkayastha, 1991]{Purkayastha1991}
 Purkayastha, S. (1991).
 \newblock A rotationally symmetric directional distribution obtained through maximum likelihood characterization.
-\newblock {\em Sankhy\=a, Series A}, 53(1):70--83.
+\newblock {\em Sankhy{\=a}, Series A}, 53(1):70--83.
 
 \bibitem[Purkayastha, 1992]{Purkayastha1992}
 Purkayastha, S. (1992).
 \newblock Maximum likelihood characterization of the von {M}ises-{F}isher matrix distribution.
-\newblock {\em Sankhy\=a, Series A}, 54(1):123--127.
+\newblock {\em Sankhy{\=a}, Series A}, 54(1):123--127.
 
 \bibitem[Purkayastha, 1995]{Purkayastha1995}
 Purkayastha, S. (1995).
@@ -8106,13 +8106,13 @@ Rao, J.~S. (1972a).
 \bibitem[Rao, 1972b]{Rao1972}
 Rao, J.~S. (1972b).
 \newblock Some variants of chi-square for testing uniformity on the circle.
-\newblock {\em Zeitschrift f\"ur Wahrscheinlichkeitstheorie und Verwandte Gebiete}, 22(1):33--44.
+\newblock {\em Zeitschrift f{\"u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete}, 22(1):33--44.
 \newblock \href {http://dx.doi.org/10.1007/bf00538904} {\path{doi:10.1007/bf00538904}}.
 
 \bibitem[Rao, 1976]{Rao1976}
 Rao, J.~S. (1976).
 \newblock Some tests based on arc-lengths for the circle.
-\newblock {\em Sankhy\=a, Series B}, 38(4):329--338.
+\newblock {\em Sankhy{\=a}, Series B}, 38(4):329--338.
 
 \bibitem[Rao, 1984]{Rao1984}
 Rao, J.~S. (1984).
@@ -8337,20 +8337,20 @@ Rodgers, J.~L., Beasley, W.~H., and Schuelke, M. (2014).
 \newblock {\em Multivariate Behavioral Research}, 49(6):571--580.
 \newblock \href {http://dx.doi.org/10.1080/00273171.2014.946589} {\path{doi:10.1080/00273171.2014.946589}}.
 
-\bibitem[Rodr\'iguez et~al., 2020]{Rodriguez2020}
-Rodr\'iguez, C.~E., {N\'u\~{n}ez-Antonio}, G., and Escarela, G. (2020).
+\bibitem[Rodr{\'i}guez et~al., 2020]{Rodriguez2020}
+Rodr{\'i}guez, C.~E., {N{\'u}{\~n}ez-Antonio}, G., and Escarela, G. (2020).
 \newblock A {B}ayesian mixture model for clustering circular data.
 \newblock {\em Computational Statistics \& Data Analysis}, 143:106842.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2019.106842} {\path{doi:10.1016/j.csda.2019.106842}}.
 
 \bibitem[Rodriguez-Lujan et~al., 2015]{RodriguezLujan2015}
-Rodriguez-Lujan, L., Bielza, C., and Larra\~{n}aga, P. (2015).
+Rodriguez-Lujan, L., Bielza, C., and Larra{\~n}aga, P. (2015).
 \newblock Regularized multivariate von {M}ises distribution.
-\newblock In Puerta, J.~M., G\'amez, J.~A., Dorronsoro, B., Barrenechea, E., Troncoso, A., Baruque, B., and Galar, M. (Eds.), {\em Advances in Artificial Intelligence}, volume 9422 of {\em Lecture Notes in Computer Science}, pp. 25--35, Cham. Springer.
+\newblock In Puerta, J.~M., G{\'a}mez, J.~A., Dorronsoro, B., Barrenechea, E., Troncoso, A., Baruque, B., and Galar, M. (Eds.), {\em Advances in Artificial Intelligence}, volume 9422 of {\em Lecture Notes in Computer Science}, pp. 25--35, Cham. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-319-24598-0_3} {\path{doi:10.1007/978-3-319-24598-0_3}}.
 
 \bibitem[Rodriguez-Lujan et~al., 2017]{RodriguezLujan2017}
-Rodriguez-Lujan, L., Bielza, C., and Larra\~{n}aga, P. (2017).
+Rodriguez-Lujan, L., Bielza, C., and Larra{\~n}aga, P. (2017).
 \newblock Frobenius norm regularization for the multivariate von {M}ises distribution.
 \newblock {\em International Journal of Intelligent Systems}, 32(2):153--176.
 \newblock \href {http://dx.doi.org/10.1002/int.21834} {\path{doi:10.1002/int.21834}}.
@@ -8390,7 +8390,7 @@ Rothman, E.~D. (1971).
 \bibitem[Rothman, 1972b]{Rothman1972}
 Rothman, E.~D. (1972b).
 \newblock Tests for uniformity of a circular distribution.
-\newblock {\em Sankhy\=a, Series A}, 34(1):23--32.
+\newblock {\em Sankhy{\=a}, Series A}, 34(1):23--32.
 
 \bibitem[Rouvinen and Kuuluvainen, 1997]{Rouvinen1997}
 Rouvinen, S. and Kuuluvainen, T. (1997).
@@ -8423,19 +8423,19 @@ Roy, R. (1976).
 \newblock \href {http://dx.doi.org/10.1007/bf02504732} {\path{doi:10.1007/bf02504732}}.
 
 \bibitem[Rueda et~al., 2016]{Rueda2016}
-Rueda, C., Fern\'andez, M.~A., Barrag\'an, S., Mardia, K.~V., and Peddada, S.~D. (2016).
+Rueda, C., Fern{\'a}ndez, M.~A., Barrag{\'a}n, S., Mardia, K.~V., and Peddada, S.~D. (2016).
 \newblock Circular piecewise regression with applications to cell-cycle data.
 \newblock {\em Biometrics}, 72(4):1266--1274.
 \newblock \href {http://dx.doi.org/10.1111/biom.12512} {\path{doi:10.1111/biom.12512}}.
 
 \bibitem[Rueda et~al., 2015]{Rueda2015}
-Rueda, C., Fern\'andez, M.~A., Barrag\'an, S., and Peddada, S.~D. (2015).
+Rueda, C., Fern{\'a}ndez, M.~A., Barrag{\'a}n, S., and Peddada, S.~D. (2015).
 \newblock Some advances in constrained inference for ordered circular parameters in oscillatory systems.
 \newblock In Dryden, I.~L. and Kent, J.~T. (Eds.), {\em Geometry Driven Statistics}, Wiley Series in Probability and Statistics, pp. 97--114. Wiley, Chichester.
 \newblock \href {http://dx.doi.org/10.1002/9781118866641.ch4} {\path{doi:10.1002/9781118866641.ch4}}.
 
 \bibitem[Rueda et~al., 2009]{Rueda2009}
-Rueda, C., Fern\'andez, M.~A., and Peddada, S.~D. (2009).
+Rueda, C., Fern{\'a}ndez, M.~A., and Peddada, S.~D. (2009).
 \newblock Estimation of parameters subject to order restrictions on a circle with application to estimation of phase angles of cell cycle genes.
 \newblock {\em Journal of the American Statistical Association}, 104(485):338--347.
 \newblock \href {http://dx.doi.org/10.1198/jasa.2009.0120} {\path{doi:10.1198/jasa.2009.0120}}.
@@ -8443,7 +8443,7 @@ Rueda, C., Fern\'andez, M.~A., and Peddada, S.~D. (2009).
 \bibitem[Rukhin, 1972]{Rukhin1972}
 Rukhin, A.~L. (1972).
 \newblock Some statistical decisions about distributions on a circle for large samples.
-\newblock {\em Sankhy\=a, Series A}, 34:243--250.
+\newblock {\em Sankhy{\=a}, Series A}, 34:243--250.
 
 \bibitem[Rumcheva, 2005]{Rumcheva2005}
 Rumcheva, P. (2005).
@@ -8469,7 +8469,7 @@ Russell, J.~A. (1980).
 \newblock \href {http://dx.doi.org/10.1037/h0077714} {\path{doi:10.1037/h0077714}}.
 
 \bibitem[Rutkowska et~al., 2018]{Rutkowska2018}
-Rutkowska, A., Kohnov\'a, S., and Banasik, K. (2018).
+Rutkowska, A., Kohnov{\'a}, S., and Banasik, K. (2018).
 \newblock Probabilistic properties of the date of maximum river flow, an approach based on circular statistics in lowland, highland and mountainous catchment.
 \newblock {\em Acta Geophysica}, 66(4):755--768.
 \newblock \href {http://dx.doi.org/10.1007/s11600-018-0139-9} {\path{doi:10.1007/s11600-018-0139-9}}.
@@ -8528,15 +8528,15 @@ Salah, A. and Nadif, M. (2019).
 \newblock {\em Advances in Data Analysis and Classification}, 13(3):591--620.
 \newblock \href {http://dx.doi.org/10.1007/s11634-018-0323-4} {\path{doi:10.1007/s11634-018-0323-4}}.
 
-\bibitem[S\'anchez and Scarpa, 2012]{Sanchez2012}
-S\'anchez, E.~H. and Scarpa, B. (2012).
+\bibitem[S{\'a}nchez and Scarpa, 2012]{Sanchez2012}
+S{\'a}nchez, E.~H. and Scarpa, B. (2012).
 \newblock A wrapped flexible generalized skew-normal model for a bimodal circular distribution of wind direction.
 \newblock {\em Chilean Journal of Statistics}, 3(2):129--141.
 
 \bibitem[Sapiro, 2001]{Sapiro2001a}
 Sapiro, G. (2001).
 \newblock Harmonic map flows and image processing.
-\newblock In Devore, R.~A., Iserles, A., and S\"uli, E. (Eds.), {\em Foundations of Computational Mathematics}, volume 284 of {\em London Mathematical Society Lecture Note Series}, pp. 299--322. Cambridge University Press, Cambridge.
+\newblock In Devore, R.~A., Iserles, A., and S{\"u}li, E. (Eds.), {\em Foundations of Computational Mathematics}, volume 284 of {\em London Mathematical Society Lecture Note Series}, pp. 299--322. Cambridge University Press, Cambridge.
 \newblock \href {http://dx.doi.org/10.1017/CBO9781107360198.011} {\path{doi:10.1017/CBO9781107360198.011}}.
 
 \bibitem[Sargsyan et~al., 2015]{Sargsyan2015}
@@ -8671,7 +8671,7 @@ Schaeben, H. (1993).
 
 \bibitem[Schaeben, 1999]{Schaeben1999}
 Schaeben, H. (1999).
-\newblock The de la {V}all\'ee {P}oussin standard orientation density function.
+\newblock The de la {V}all{\'e}e {P}oussin standard orientation density function.
 \newblock {\em Textures and Microstructures}, 33:365--373.
 \newblock \href {http://dx.doi.org/10.1155/tsm.33.365} {\path{doi:10.1155/tsm.33.365}}.
 
@@ -8701,8 +8701,8 @@ Schmidt, P.~W. and Embleton, B. J.~J. (1985).
 
 \bibitem[Schmidt-Koenig, 1958]{Schmidt-Koenig1958}
 Schmidt-Koenig, K. (1958).
-\newblock Experimentelle {E}influssnahme auf die 24-{S}tunden-{P}eriodik bei {B}rieftauben und deren {A}uswirkungen unter besonderer {B}er\"ucksichtigung des {H}eimfindeverm\"ogens.
-\newblock {\em Zeitschrift f\"ur Tierpsychologie}, 15(3):301--331.
+\newblock Experimentelle {E}influssnahme auf die 24-{S}tunden-{P}eriodik bei {B}rieftauben und deren {A}uswirkungen unter besonderer {B}er{\"u}cksichtigung des {H}eimfindeverm{\"o}gens.
+\newblock {\em Zeitschrift f{\"u}r Tierpsychologie}, 15(3):301--331.
 \newblock \href {http://dx.doi.org/10.1111/j.1439-0310.1958.tb00568.x} {\path{doi:10.1111/j.1439-0310.1958.tb00568.x}}.
 
 \bibitem[Schmidt-Koenig, 1963]{Schmidt-Koenig1963}
@@ -8777,7 +8777,7 @@ Sei, T., Shibata, H., Takemura, A., Ohara, K., and Takayama, N. (2013).
 \newblock \href {http://dx.doi.org/10.1016/j.jmva.2013.01.010} {\path{doi:10.1016/j.jmva.2013.01.010}}.
 
 \bibitem[Seifert et~al., 2013]{Seifert2013}
-Seifert, L., Coeurjolly, J.-F., H\'erault, R., Wattebled, L., and Davids, K. (2013).
+Seifert, L., Coeurjolly, J.-F., H{\'e}rault, R., Wattebled, L., and Davids, K. (2013).
 \newblock Temporal dynamics of inter-limb coordination in ice climbing revealed through change-point analysis of the geodesic mean of circular data.
 \newblock {\em Journal of Applied Statistics}, 40(11):2317--2331.
 \newblock \href {http://dx.doi.org/10.1080/02664763.2013.810194} {\path{doi:10.1080/02664763.2013.810194}}.
@@ -8856,7 +8856,7 @@ SenGupta, A. and Roy, R. (2011).
 \bibitem[SenGupta and Roy, 2005]{SenGupta2005}
 SenGupta, A. and Roy, S. (2005).
 \newblock A simple classification rule for directional data.
-\newblock In Balakrishnan, N., Nagaraja, H.~N., and Kannan, N. (Eds.), {\em Advances in Ranking and Selection, Multiple Comparisons, and Reliability}, Statistics for Industry and Technology, pp. 81--90. Birkh\"auser, Boston.
+\newblock In Balakrishnan, N., Nagaraja, H.~N., and Kannan, N. (Eds.), {\em Advances in Ranking and Selection, Multiple Comparisons, and Reliability}, Statistics for Industry and Technology, pp. 81--90. Birkh{\"a}user, Boston.
 \newblock \href {http://dx.doi.org/10.1007/0-8176-4422-9_5} {\path{doi:10.1007/0-8176-4422-9_5}}.
 
 \bibitem[SenGupta and Ugwuowo, 2011]{SenGupta2011}
@@ -8868,16 +8868,16 @@ SenGupta, A. and Ugwuowo, F.~I. (2011).
 \bibitem[SenGupta and Rao, 1966]{SenGupta1966}
 SenGupta, S. and Rao, J.~S. (1966).
 \newblock Statistical analysis of crossbedding azimuths from the {K}amthi formation around {B}heemaram, {P}ranhita-{G}odavari valley.
-\newblock {\em Sankhy\=a, Series B}, 28(1):165--174.
+\newblock {\em Sankhy{\=a}, Series B}, 28(1):165--174.
 
 \bibitem[Senior et~al., 2019]{Senior2019}
-Senior, A.~W., Evans, R., Jumper, J., Kirkpatrick, J., Sifre, L., Green, T., Qin, C., \v{Z}\'idek, A., Nelson, A. W.~R., Bridgland, A., Penedones, H., Petersen, S., Simonyan, K., Crossan, S., Kohli, P., Jones, D.~T., Silver, D., Kavukcuoglu, K., and Hassabis, D. (2019).
+Senior, A.~W., Evans, R., Jumper, J., Kirkpatrick, J., Sifre, L., Green, T., Qin, C., {\v{Z}}{\'i}dek, A., Nelson, A. W.~R., Bridgland, A., Penedones, H., Petersen, S., Simonyan, K., Crossan, S., Kohli, P., Jones, D.~T., Silver, D., Kavukcuoglu, K., and Hassabis, D. (2019).
 \newblock Protein structure prediction using multiple deep neural networks in the 13th {C}ritical {A}ssessment of {P}rotein {S}tructure {P}rediction ({CASP13}).
 \newblock {\em Proteins: Structure, Function, and Bioinformatics}, 87(12):1141--1148.
 \newblock \href {http://dx.doi.org/10.1002/prot.25834} {\path{doi:10.1002/prot.25834}}.
 
 \bibitem[Senior et~al., 2020]{Senior2020}
-Senior, A.~W., Evans, R., Jumper, J., Kirkpatrick, J., Sifre, L., Green, T., Qin, C., \v{Z}\'idek, A., Nelson, A. W.~R., Bridgland, A., Penedones, H., Petersen, S., Simonyan, K., Crossan, S., Kohli, P., Jones, D.~T., Silver, D., Kavukcuoglu, K., and Hassabis, D. (2020).
+Senior, A.~W., Evans, R., Jumper, J., Kirkpatrick, J., Sifre, L., Green, T., Qin, C., {\v{Z}}{\'i}dek, A., Nelson, A. W.~R., Bridgland, A., Penedones, H., Petersen, S., Simonyan, K., Crossan, S., Kohli, P., Jones, D.~T., Silver, D., Kavukcuoglu, K., and Hassabis, D. (2020).
 \newblock Improved protein structure prediction using potentials from deep learning.
 \newblock {\em Nature}, 577(7792):706--710.
 \newblock \href {http://dx.doi.org/10.1038/s41586-019-1923-7} {\path{doi:10.1038/s41586-019-1923-7}}.
@@ -9028,8 +9028,8 @@ Sittel, F., Filk, T., and Stock, G. (2017).
 
 \bibitem[Sklar, 1959]{Sklar1959}
 Sklar, M. (1959).
-\newblock Fonctions de r\'epartition \`a {$n$} dimensions et leurs marges.
-\newblock {\em Publications de l'Institut de Statistique de l'Universit\'e de Paris}, 8:229--231.
+\newblock Fonctions de r{\'e}partition {\`a} {$n$} dimensions et leurs marges.
+\newblock {\em Publications de l'Institut de Statistique de l'Universit{\'e} de Paris}, 8:229--231.
 
 \bibitem[Small, 1987]{Small1987}
 Small, C.~G. (1987).
@@ -9082,7 +9082,7 @@ Sommer, S. (2013).
 \bibitem[Sommer, 2019]{Sommer2019}
 Sommer, S. (2019).
 \newblock An infinitesimal probabilistic model for principal component analysis of manifold valued data.
-\newblock {\em Sankhy\=a, Series A}, 81(1):37--62.
+\newblock {\em Sankhy{\=a}, Series A}, 81(1):37--62.
 \newblock \href {http://dx.doi.org/10.1007/s13171-018-0139-5} {\path{doi:10.1007/s13171-018-0139-5}}.
 
 \bibitem[Sommer et~al., 2014]{Sommer2014}
@@ -9204,7 +9204,7 @@ Stein, M. (1991).
 \newblock \href {http://dx.doi.org/10.1080/00401706.1991.10484887} {\path{doi:10.1080/00401706.1991.10484887}}.
 
 \bibitem[Steinke et~al., 2010]{MR2736019}
-Steinke, F., Hein, M., and Sch\"{o}lkopf, B. (2010).
+Steinke, F., Hein, M., and Sch{\"o}lkopf, B. (2010).
 \newblock Nonparametric regression between general {R}iemannian manifolds.
 \newblock {\em SIAM Journal on Imaging Sciences}, 3(3):527--563.
 \newblock \href {http://dx.doi.org/10.1137/080744189} {\path{doi:10.1137/080744189}}.
@@ -9310,7 +9310,7 @@ Stephens, M.~A. (1969f).
 
 \bibitem[Stephens, 1970]{Stephens1970}
 Stephens, M.~A. (1970).
-\newblock Use of the {K}olmogorov-{S}mirnov, {C}ram\'er-von {M}ises and related statistics without extensive tables.
+\newblock Use of the {K}olmogorov-{S}mirnov, {C}ram{\'e}r-von {M}ises and related statistics without extensive tables.
 \newblock {\em Journal of the Royal Statistical Society, Series B (Methodological)}, 32(1):115--122.
 \newblock \href {http://dx.doi.org/10.1111/j.2517-6161.1970.tb00821.x} {\path{doi:10.1111/j.2517-6161.1970.tb00821.x}}.
 
@@ -9419,8 +9419,8 @@ Taijeron, H.~J., Gibson, A.~G., and Chandler, C. (1994).
 \newblock {\em SIAM Journal on Scientific Computing}, 15(5):1111--1125.
 \newblock \href {http://dx.doi.org/10.1137/0915068} {\path{doi:10.1137/0915068}}.
 
-\bibitem[Tak\'acs, 1996]{Takacs1996}
-Tak\'acs, L. (1996).
+\bibitem[Tak{\'a}cs, 1996]{Takacs1996}
+Tak{\'a}cs, L. (1996).
 \newblock On a test for uniformity of a circular distribution.
 \newblock {\em Mathematical Methods of Statistics}, 5(1):77--98.
 
@@ -9521,7 +9521,7 @@ Telschow, F. J.~E., Pierrynowski, M.~R., and Huckemann, S.~F. (2023).
 \bibitem[Thavaneswaran and Ravishanker, 2023]{Thavaneswaran2021}
 Thavaneswaran, A. and Ravishanker, N. (2023).
 \newblock Estimating functions for circular time series models.
-\newblock {\em Sankhy\=a, Series A}, 85(1):198--213.
+\newblock {\em Sankhy{\=a}, Series A}, 85(1):198--213.
 \newblock \href {http://dx.doi.org/10.1007/s13171-020-00237-w} {\path{doi:10.1007/s13171-020-00237-w}}.
 
 \bibitem[Theobald, 1975]{Theobald1975}
@@ -9627,7 +9627,7 @@ Tyler, D.~E. (1987).
 
 \bibitem[Uesu et~al., 2015]{Uesu2015}
 Uesu, K., Shimizu, K., and SenGupta, A. (2015).
-\newblock A possibly asymmetric multivariate generalization of the {M}\"obius distribution for directional data.
+\newblock A possibly asymmetric multivariate generalization of the {M}{\"o}bius distribution for directional data.
 \newblock {\em Journal of Multivariate Analysis}, 134:146--162.
 \newblock \href {http://dx.doi.org/10.1016/j.jmva.2014.11.004} {\path{doi:10.1016/j.jmva.2014.11.004}}.
 
@@ -9732,7 +9732,7 @@ Vuollo, V. and Holmstrom, L. (2018).
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2018.03.014} {\path{doi:10.1016/j.csda.2018.03.014}}.
 
 \bibitem[Vuollo et~al., 2016]{Vuollo2016}
-Vuollo, V., Holmstr\"om, L., Aarnivala, H., Harila, V., Heikkinen, T., Pirttiniemi, P., and Valkama, A.~M. (2016).
+Vuollo, V., Holmstr{\"o}m, L., Aarnivala, H., Harila, V., Heikkinen, T., Pirttiniemi, P., and Valkama, A.~M. (2016).
 \newblock Analyzing infant head flatness and asymmetry using kernel density estimation of directional surface data from a craniofacial 3{D} model.
 \newblock {\em Statistics in Medicine}, 35(26):4891--4904.
 \newblock \href {http://dx.doi.org/10.1002/sim.7032} {\path{doi:10.1002/sim.7032}}.
@@ -9800,7 +9800,7 @@ Wang, J., Boyer, J., and Genton, M.~G. (2004).
 
 \bibitem[Wang and Shimizu, 2012]{Wang2012}
 Wang, M. and Shimizu, K. (2012).
-\newblock On applying {M}\"obius transformation to cardioid random variables.
+\newblock On applying {M}{\"o}bius transformation to cardioid random variables.
 \newblock {\em Statistical Methodology}, 9(6):604--614.
 \newblock \href {http://dx.doi.org/10.1016/j.stamet.2012.04.001} {\path{doi:10.1016/j.stamet.2012.04.001}}.
 
@@ -9881,7 +9881,7 @@ Watamori, Y. and Kakimizu, O. (1996).
 \bibitem[Waterman, 1963]{Waterman1963}
 Waterman, T.~H. (1963).
 \newblock The analysis of spatial orientation.
-\newblock In Autrum, H., B\"unning, E., Frisch, K.~V., Hadorn, E., K\"uhn, A., Mayr, E., Pirson, A., Straub, J., Stubbe, H., and Weidel, W. (Eds.), {\em Orientierung der {T}iere / Animal Orientation}, volume~26 of {\em Ergebnisse der Biologie / Advances in Biology}, pp. 98--117. Springer, Berlin.
+\newblock In Autrum, H., B{\"u}nning, E., Frisch, K.~V., Hadorn, E., K{\"u}hn, A., Mayr, E., Pirson, A., Straub, J., Stubbe, H., and Weidel, W. (Eds.), {\em Orientierung der {T}iere / Animal Orientation}, volume~26 of {\em Ergebnisse der Biologie / Advances in Biology}, pp. 98--117. Springer, Berlin.
 \newblock \href {http://dx.doi.org/10.1007/978-3-642-99872-0_11} {\path{doi:10.1007/978-3-642-99872-0_11}}.
 
 \bibitem[Watson, 1956a]{Watson1956b}
@@ -10096,8 +10096,8 @@ Webb, C.~O., Ackerly, D.~D., and Kembel, S.~W. (2008).
 \newblock {\em Bioinformatics}, 24(18):2098--2100.
 \newblock \href {http://dx.doi.org/10.1093/bioinformatics/btn358} {\path{doi:10.1093/bioinformatics/btn358}}.
 
-\bibitem[Wehner and M\"uller, 1985]{Wehner1985}
-Wehner, R. and M\"uller, M. (1985).
+\bibitem[Wehner and M{\"u}ller, 1985]{Wehner1985}
+Wehner, R. and M{\"u}ller, M. (1985).
 \newblock Does interocular transfer occur in visual navigation by ants?
 \newblock {\em Nature}, 315(6016):228--229.
 \newblock \href {http://dx.doi.org/10.1038/315228a0} {\path{doi:10.1038/315228a0}}.
@@ -10173,17 +10173,17 @@ Wilson, R.~C. and Hancock, E.~R. (2010).
 \newblock In Hancock, E.~R., Wilson, R.~C., Windeatt, T., Ulusoy, I., and Escolano, F. (Eds.), {\em Structural, Syntactic, and Statistical Pattern Recognition}, volume 6218 of {\em Lecture Notes in Computer Science}, pp. 589--599, Berlin. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-642-14980-1_58} {\path{doi:10.1007/978-3-642-14980-1_58}}.
 
+\bibitem[Wilson et~al., 2010]{Wilson2010}
+Wilson, R.~C., Hancock, E.~R., P{\k{e}}kalska, E., and Duin, R. P.~W. (2010).
+\newblock Spherical embeddings for non-{E}uclidean dissimilarities.
+\newblock In {\em 2010 {IEEE} Computer Society Conference on Computer Vision and Pattern Recognition}, pp. 1903--1910, New York. IEEE.
+\newblock \href {http://dx.doi.org/10.1109/cvpr.2010.5539863} {\path{doi:10.1109/cvpr.2010.5539863}}.
+
 \bibitem[Wilson et~al., 2014]{Wilson2014}
 Wilson, R.~C., Hancock, E.~R., Pekalska, E., and Duin, R. P.~W. (2014).
 \newblock Spherical and hyperbolic embeddings of data.
 \newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}, 36(11):2255--2269.
 \newblock \href {http://dx.doi.org/10.1109/tpami.2014.2316836} {\path{doi:10.1109/tpami.2014.2316836}}.
-
-\bibitem[Wilson et~al., 2010]{Wilson2010}
-Wilson, R.~C., Hancock, E.~R., P\k{e}kalska, E., and Duin, R. P.~W. (2010).
-\newblock Spherical embeddings for non-{E}uclidean dissimilarities.
-\newblock In {\em 2010 {IEEE} Computer Society Conference on Computer Vision and Pattern Recognition}, pp. 1903--1910, New York. IEEE.
-\newblock \href {http://dx.doi.org/10.1109/cvpr.2010.5539863} {\path{doi:10.1109/cvpr.2010.5539863}}.
 
 \bibitem[Wintner, 1933]{Winter1933}
 Wintner, A. (1933).
@@ -10342,7 +10342,7 @@ Yfantis, E.~A. and Borgman, L.~E. (1982).
 \bibitem[Yoshimura, 1978]{Yoshimura1978}
 Yoshimura, I. (1978).
 \newblock On a test of homogeneity hypothesis for directional data.
-\newblock {\em Sankhy\=a, Series A}, 40(3):310--312.
+\newblock {\em Sankhy{\=a}, Series A}, 40(3):310--312.
 
 \bibitem[You, 2025]{You2020}
 You, K. (2025).
@@ -10373,8 +10373,8 @@ Zar, J.~H. (2010).
 \newblock {\em Biostatistical Analysis}.
 \newblock Prentice Hall, Upper Saddle River.
 
-\bibitem[Zempl\'eni, 2019]{Zempleni2019}
-Zempl\'eni, A. (2019).
+\bibitem[Zempl{\'e}ni, 2019]{Zempleni2019}
+Zempl{\'e}ni, A. (2019).
 \newblock Estimating high quantiles based on dependent circular data.
 \newblock {\em Journal of Mathematical Sciences}, 237(6):865--874.
 \newblock \href {http://dx.doi.org/10.1007/s10958-019-04213-0} {\path{doi:10.1007/s10958-019-04213-0}}.
@@ -10417,7 +10417,7 @@ Zhang, Z., Klassen, E., and Srivastava, A. (2018b).
 \bibitem[Zhang et~al., 2019]{Zhang2019}
 Zhang, Z., Klassen, E., and Srivastava, A. (2019).
 \newblock Robust comparison of kernel densities on spherical domains.
-\newblock {\em Sankhy\=a, Series A}, 81(1):144--171.
+\newblock {\em Sankhy{\=a}, Series A}, 81(1):144--171.
 \newblock \href {http://dx.doi.org/10.1007/s13171-018-0131-0} {\path{doi:10.1007/s13171-018-0131-0}}.
 
 \bibitem[Zhao and Wu, 2001]{Zhao2001}
@@ -10444,7 +10444,7 @@ Zou, G., Hua, J., and Muzik, O. (2007).
 \newblock \href {http://dx.doi.org/10.1007/978-3-540-75757-3_45} {\path{doi:10.1007/978-3-540-75757-3_45}}.
 
 \bibitem[Zoubouloglou et~al., 2023]{Zoubouloglou2022}
-Zoubouloglou, P., Garc\'ia-Portugu\'es, E., and Marron, J.~S. (2023).
+Zoubouloglou, P., Garc{\'i}a-Portugu{\'e}s, E., and Marron, J.~S. (2023).
 \newblock Scaled torus principal component analysis.
 \newblock {\em Journal of Computational and Graphical Statistics}, 32(3):1024--1035.
 \newblock \href {http://dx.doi.org/10.1080/10618600.2022.2119985} {\path{doi:10.1080/10618600.2022.2119985}}.
