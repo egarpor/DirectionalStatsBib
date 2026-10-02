@@ -142,10 +142,10 @@ Ackermann, H. (1991).
 \newblock {\em Biometrical Journal}, 33(6):643--654.
 \newblock \href {http://dx.doi.org/10.1002/bimj.4710330602} {\path{doi:10.1002/bimj.4710330602}}.
 
-\bibitem[Adler et~al., 2020]{Adler2020}
-Adler, D., Murdoch, D., et~al. (2020).
+\bibitem[Adler et~al., 2026]{Adler2020}
+Adler, D., Murdoch, D., et~al. (2026).
 \newblock {\em {rgl}: {3D} Visualization Using {OpenGL}}.
-\newblock {R} package version 0.100.54.
+\newblock {R} package version 1.3.36.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.rgl} {\path{doi:10.32614/CRAN.package.rgl}}.
 
 \bibitem[Agiomyrgiannakis and Stylianou, 2009]{Agiomyrgiannakis2009}
@@ -166,10 +166,10 @@ Agostinelli, C. (2015).
 \newblock {R} package version 0.9-91.
 \newblock URL: \url{https://CRAN.R-project.org/package=wle}.
 
-\bibitem[Agostinelli and Lund, 2017]{Agostinelli2017}
-Agostinelli, C. and Lund, U. (2017).
+\bibitem[Agostinelli and Lund, 2025]{Agostinelli2017}
+Agostinelli, C. and Lund, U. (2025).
 \newblock {\em {R} package {circular}: Circular Statistics}.
-\newblock {R} package version 0.4-93.
+\newblock {R} package version 0.5-2.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.circular} {\path{doi:10.32614/CRAN.package.circular}}.
 
 \bibitem[Agostinelli and Romanazzi, 2013a]{Agostinelli2013}
@@ -641,7 +641,7 @@ Baragona, R. (2003).
 \bibitem[Baranyi et~al., 2016]{Baranyi2016}
 Baranyi, T., Gy\H{o}ri, L., and Ludm\'any, A. (2016).
 \newblock On-line tools for solar data compiled at the {D}ebrecen observatory and their extensions with the {G}reenwich sunspot data.
-\newblock {\em Solar Physics}, 291(9):3081--3102.
+\newblock {\em Solar Physics}, 291(9--10):3081--3102.
 \newblock \href {http://dx.doi.org/10.1007/s11207-016-0930-1} {\path{doi:10.1007/s11207-016-0930-1}}.
 
 \bibitem[Barbosa et~al., 2010]{Barbosa2010}
@@ -679,10 +679,10 @@ Barndorff-Nielsen, O.~E., Blaesild, P., Jensen, J.~L., and J{\o}rgensen, B. (198
 \newblock {\em Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences}, 379(1776):41--65.
 \newblock \href {http://dx.doi.org/10.1098/rspa.1982.0004} {\path{doi:10.1098/rspa.1982.0004}}.
 
-\bibitem[Barnett and Baker, 2020]{Barnett2020}
-Barnett, A. and Baker, P. (2020).
+\bibitem[Barnett and Baker, 2025]{Barnett2020}
+Barnett, A. and Baker, P. (2025).
 \newblock {\em {season}: Analysing Seasonal Data {R} Functions}.
-\newblock {R} package version 0.3.12.
+\newblock {R} package version 0.3.16.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.season} {\path{doi:10.32614/CRAN.package.season}}.
 
 \bibitem[Barnett and Lewis, 1994]{Barnett1994}
@@ -1189,10 +1189,10 @@ Bowers, J.~A., Morton, I.~D., and Mould, G.~I. (2000).
 \newblock {\em Applied Ocean Research}, 22(1):13--30.
 \newblock \href {http://dx.doi.org/10.1016/s0141-1187(99)00025-5} {\path{doi:10.1016/s0141-1187(99)00025-5}}.
 
-\bibitem[Bowman and Azzalini, 2018]{Bowman2018}
-Bowman, A. and Azzalini, A. (2018).
+\bibitem[Bowman and Azzalini, 2024]{Bowman2018}
+Bowman, A. and Azzalini, A. (2024).
 \newblock {\em {R} package {sm}: Nonparametric Smoothing Methods}.
-\newblock {R} package version 2.2-5.6.
+\newblock {R} package version 2.2-6.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.sm} {\path{doi:10.32614/CRAN.package.sm}}.
 
 \bibitem[Bowman, 1992]{Bowman1992}
@@ -1307,10 +1307,10 @@ Burr, E.~J. (1964).
 \newblock {\em Annals of Mathematical Statistics}, 35(3):1091--1098.
 \newblock \href {http://dx.doi.org/10.1214/aoms/1177703267} {\path{doi:10.1214/aoms/1177703267}}.
 
-\bibitem[Buttarazzi, 2020]{Buttarazzi2020}
-Buttarazzi, D. (2020).
+\bibitem[Buttarazzi, 2021]{Buttarazzi2020}
+Buttarazzi, D. (2021).
 \newblock {\em {bpDir}: Boxplots for Directional Data}.
-\newblock {R} package version 0.1.1.
+\newblock {R} package version 0.1.2.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.bpDir} {\path{doi:10.32614/CRAN.package.bpDir}}.
 
 \bibitem[Buttarazzi et~al., 2018]{Buttarazzi2018}
@@ -1459,10 +1459,10 @@ Cetingul, H.~E. and Vidal, R. (2009).
 \newblock In {\em 2009 {IEEE} Conference on Computer Vision and Pattern Recognition}, pp. 1896--1902, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.1109/cvpr.2009.5206806} {\path{doi:10.1109/cvpr.2009.5206806}}.
 
-\bibitem[Chakraborty and Wong, 2019]{Chakraborty2019}
-Chakraborty, S. and Wong, S. W.~K. (2019).
+\bibitem[Chakraborty and Wong, 2026]{Chakraborty2019}
+Chakraborty, S. and Wong, S. W.~K. (2026).
 \newblock {\em {BAMBI}: Bivariate Angular Mixture Models}.
-\newblock {R} package version 2.3.0.
+\newblock {R} package version 2.3.7.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.BAMBI} {\path{doi:10.32614/CRAN.package.BAMBI}}.
 
 \bibitem[Chan and He, 1993]{Chan1993}
@@ -1861,10 +1861,10 @@ Creer, K.~M., Irving, E., and Nairn, A. E.~M. (1959).
 \newblock {\em Geophysical Journal International}, 2(4):306--323.
 \newblock \href {http://dx.doi.org/10.1111/j.1365-246x.1959.tb05802.x} {\path{doi:10.1111/j.1365-246x.1959.tb05802.x}}.
 
-\bibitem[Cremers, 2020]{Cremers2020}
-Cremers, J. (2020).
+\bibitem[Cremers, 2024]{Cremers2020}
+Cremers, J. (2024).
 \newblock {\em {bpnreg}: {B}ayesian Projected Normal Regression Models for Circular Data}.
-\newblock {R} package version 1.0.3.
+\newblock {R} package version 2.0.3.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.bpnreg} {\path{doi:10.32614/CRAN.package.bpnreg}}.
 
 \bibitem[Cremers et~al., 2018a]{Cremers2018a}
@@ -2263,7 +2263,7 @@ Ding, Y., Markatou, M., and Saraceno, G. (2025).
 \bibitem[{DLMF}, 2026]{NIST:DLMF}
 {DLMF} (2026).
 \newblock {\it NIST Digital Library of Mathematical Functions}.
-\newblock http://dlmf.nist.gov/, Release 1.2.6 of 2026-03-15.
+\newblock https://dlmf.nist.gov/, Release 1.2.8 of 2026-09-15.
 \newblock F.~W.~J. Olver, A.~B. {Olde Daalhuis}, D.~W. Lozier, B.~I. Schneider, R.~F. Boisvert, C.~W. Clark, B.~R. Miller, B.~V. Saunders, H.~S. Cohl, and M.~A. McClain, eds.
 \newblock URL: \url{https://dlmf.nist.gov/}.
 
@@ -2343,10 +2343,10 @@ Dryden, I.~L. (2005).
 \newblock {\em The Annals of Statistics}, 33(4):1643--1665.
 \newblock \href {http://dx.doi.org/10.1214/009053605000000264} {\path{doi:10.1214/009053605000000264}}.
 
-\bibitem[Dryden, 2019]{Dryden2019}
-Dryden, I.~L. (2019).
+\bibitem[Dryden, 2025]{Dryden2019}
+Dryden, I.~L. (2025).
 \newblock {\em {shapes}: Statistical Shape Analysis}.
-\newblock {R} package version 1.2.5.
+\newblock {R} package version 1.2.8.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.shapes} {\path{doi:10.32614/CRAN.package.shapes}}.
 
 \bibitem[Dryden and Kent, 2015]{Dryden2015}
@@ -2645,7 +2645,7 @@ Faber, W.~R., Hussein, I.~I., Kent, J.~T., Bhattacharjee, S., and Jah, M. (2018)
 \bibitem[Faber et~al., 2017]{Faber2017}
 Faber, W.~R., Hussein, I.~I., Kent, J.~T., Bhattacharjee, S., and Jah, M.~K. (2017).
 \newblock {FBK} optical data association in a multi-hypothesis framework with maneuvers.
-\newblock In Ryan, S. (Ed.), {\em Proceedings of the Advanced Maui Optical and Space Surveillance ({AMOS}) Technologies Conference}, Maui. The Maui Economic Development Board.
+\newblock In Ryan, S. (Ed.), {\em Proceedings of the Advanced {M}aui Optical and Space Surveillance ({AMOS}) Technologies Conference}, Maui. The Maui Economic Development Board.
 
 \bibitem[Fallaize and Kypraios, 2016]{Fallaize2016}
 Fallaize, C.~J. and Kypraios, T. (2016).
@@ -2833,7 +2833,7 @@ Firle, S., Bommarco, R., Ekbom, B., and Natiello, M. (1998).
 \bibitem[Fisher, 1982a]{Fisher1982a}
 Fisher, N.~I. (1982a).
 \newblock Goodness-of-fit and outlier detection procedures for samples from {F}isher's distribution on the sphere.
-\newblock {\em Contemporary Mathematics}, 9:377--380.
+\newblock In Lidl, R. (Ed.), {\em Papers in Algebra, Analysis and Statistics}, volume~9 of {\em Contemp. Math.}, pp. 377--380. American Mathematical Society, Providence.
 \newblock \href {http://dx.doi.org/10.1090/conm/009/655998} {\path{doi:10.1090/conm/009/655998}}.
 
 \bibitem[Fisher, 1982b]{Fisher1982}
@@ -3198,16 +3198,16 @@ Garc\'ia-Portugu\'es, E. (2014).
 \newblock {\em Nonparametric Inference with Directional and Linear Data}.
 \newblock PhD thesis, University of Santiago de Compostela.
 
-\bibitem[Garc\'ia-Portugu\'es, 2020a]{Garcia-Portugues2020f}
-Garc\'ia-Portugu\'es, E. (2020a).
+\bibitem[Garc\'ia-Portugu\'es, 2026a]{Garcia-Portugues2020f}
+Garc\'ia-Portugu\'es, E. (2026a).
 \newblock {\em {DirStats}: Nonparametric Methods for Directional Data}.
-\newblock {R} package version 0.1.6.
+\newblock {R} package version 1.0.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.DirStats} {\path{doi:10.32614/CRAN.package.DirStats}}.
 
-\bibitem[Garc\'ia-Portugu\'es, 2020b]{Garcia-Portugues2020d}
-Garc\'ia-Portugu\'es, E. (2020b).
+\bibitem[Garc\'ia-Portugu\'es, 2026b]{Garcia-Portugues2020d}
+Garc\'ia-Portugu\'es, E. (2026b).
 \newblock {\em {sdetorus}: Statistical Tools for Toroidal Diffusions}.
-\newblock {R} package version 0.1.7.
+\newblock {R} package version 0.2.0.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.sdetorus} {\path{doi:10.32614/CRAN.package.sdetorus}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2014]{Garcia-Portugues2014}
@@ -3275,6 +3275,12 @@ Garc\'ia-Portugu\'es, E., Paindaveine, D., and Verdebout, T. (2026b).
 \newblock {\em {rotasym}: Tests for Rotational Symmetry on the Hypersphere}.
 \newblock {R} package version 1.3.1.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.rotasym} {\path{doi:10.32614/CRAN.package.rotasym}}.
+
+\bibitem[Garc\'ia-Portugu\'es and S{\o}rensen, 2026]{Garcia-Portugues2026}
+Garc\'ia-Portugu\'es, E. and S{\o}rensen, M. (2026).
+\newblock A family of toroidal diffusions with exact likelihood inference.
+\newblock {\em Biometrika}, 113(1):asaf050.
+\newblock \href {http://dx.doi.org/10.1093/biomet/asaf050} {\path{doi:10.1093/biomet/asaf050}}.
 
 \bibitem[Garc\'ia-Portugu\'es et~al., 2019]{Garcia-Portugues2019}
 Garc\'ia-Portugu\'es, E., S{\o}rensen, M., Mardia, K.~V., and Hamelryck, T. (2019).
@@ -3567,10 +3573,10 @@ Grancher, D., Bar-Hen, A., Paris, R., Lavigne, F., and Brunstein, D. (2012).
 \newblock Spatial interpolation of circular data: application to {T}sunami of {D}ecember 2004.
 \newblock {\em Advances and Applications in Statistics}, 30(1):19--29.
 
-\bibitem[Graul and Poppinga, 2018]{Graul2018}
-Graul, C. and Poppinga, C. (2018).
+\bibitem[Graul and Poppinga, 2024]{Graul2018}
+Graul, C. and Poppinga, C. (2024).
 \newblock {\em {bReeze}: Functions for Wind Resource Assessment}.
-\newblock {R} package version 0.4-3.
+\newblock {R} package version 0.4-4.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.bReeze} {\path{doi:10.32614/CRAN.package.bReeze}}.
 
 \bibitem[Gray and Odell, 1966]{Gray1966}
@@ -4091,7 +4097,7 @@ Hjort, N.~L. and Jones, M.~C. (1996).
 
 \bibitem[Ho, 1984]{Ho1984}
 Ho, S.~C. (1984).
-\newblock {\em Small Sample Inference for the Bingham Distribution}.
+\newblock {\em Small Sample Inference for the {B}ingham Distribution}.
 \newblock PhD thesis, University of Minnesota.
 
 \bibitem[Hodges, 1955]{Hodges1955}
@@ -4701,7 +4707,7 @@ J{\o}rgensen, B. (1987).
 \bibitem[Jumper et~al., 2020]{Jumper2020}
 Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Tunyasuvunakool, K., Ronneberger, O., Bates, R., \v{Z}\'idek, A., Bridgland, A., Meyer, C., Kohl, S. A.~A., Potapenko, A., Ballard, A.~J., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J., Back, T., Petersen, S., Reiman, D., Steinegger, M., Pacholska, M., Silver, D., Vinyals, O., Senior, A.~W., Kavukcuoglu, K., Kohli, P., and Hassabis, D. (2020).
 \newblock High accuracy protein structure prediction using deep learning.
-\newblock In {\em Fourteenth Critical Assessment of Techniques for Protein Structure Prediction (Abstract Book), 30 November-4 December}, pp. 22--24.
+\newblock In {\em Fourteenth Critical Assessment of Techniques for Protein Structure Prediction (Abstract Book), 30 {N}ovember-4 {D}ecember}, pp. 22--24.
 
 \bibitem[Jung et~al., 2012]{Jung2012}
 Jung, S., Dryden, I.~L., and Marron, J.~S. (2012).
@@ -5062,7 +5068,7 @@ Kent, J. (1978a).
 Kent, J.~T. (1975).
 \newblock Discussion of ``{S}tatistics of directional data''.
 \newblock {\em Journal of the Royal Statistical Society, Series B (Methodological)}, 37(3):377--378.
-\newblock \href {http://dx.doi.org/10.1111/j.2517-6161.1975.tb01550.x} {\path{doi:10.1111/j.2517-6161.1975.tb01550.x}}.
+\newblock \href {http://dx.doi.org/10.1111/j.2517-6161.1975.tb01551.x} {\path{doi:10.1111/j.2517-6161.1975.tb01551.x}}.
 
 \bibitem[Kent, 1977]{Kent1977}
 Kent, J.~T. (1977).
@@ -5115,7 +5121,7 @@ Kent, J.~T., Bhattacharjee, S., Faber, W.~R., and Hussein, I.~I. (2020).
 \bibitem[Kent et~al., 2017a]{Kent2017b}
 Kent, J.~T., Bhattacharjee, S., Hussein, I., and Jah, M.~K. (2017a).
 \newblock Geometric restructurization of the space object tracking problem for improved uncertainty representation.
-\newblock In Flohrer, T. and Schmitz, F. (Eds.), {\em Proceedings 7th European Conference on Space Debris, {D}armstadt, {G}ermany, 18--21 {A}pril 2017}. ESA Space Debris Office.
+\newblock In Flohrer, T. and Schmitz, F. (Eds.), {\em Proceedings 7th {E}uropean Conference on Space Debris, {D}armstadt, {G}ermany, 18--21 {A}pril 2017}. ESA Space Debris Office.
 
 \bibitem[Kent et~al., 2018a]{Kent2018a}
 Kent, J.~T., Bhattacharjee, S., Hussein, I.~I., Faber, W.~R., and Jah, M. (2018a).
@@ -5411,10 +5417,10 @@ Kranstauber, B., Kays, R., LaPoint, S.~D., Wikelski, M., and Safi, K. (2012).
 \newblock {\em Journal of Animal Ecology}, 81(4):738--746.
 \newblock \href {http://dx.doi.org/10.1111/j.1365-2656.2012.01955.x} {\path{doi:10.1111/j.1365-2656.2012.01955.x}}.
 
-\bibitem[Kranstauber et~al., 2020]{Kranstauber2020}
-Kranstauber, B., Smolla, M., and Scharf, A.~K. (2020).
+\bibitem[Kranstauber et~al., 2026]{Kranstauber2020}
+Kranstauber, B., Smolla, M., and Scharf, A.~K. (2026).
 \newblock {\em {move}: Visualizing and Analyzing Animal Track Data}.
-\newblock {R} package version 4.0.4.
+\newblock {R} package version 4.2.7.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.move} {\path{doi:10.32614/CRAN.package.move}}.
 
 \bibitem[Kreiss, 1987]{Kreiss1987}
@@ -5509,7 +5515,7 @@ Kurz, G. (2015).
 \bibitem[Kurz et~al., 2015]{Kurz2015a}
 Kurz, G., Dolgov, M., and Hanebeck, U.~D. (2015).
 \newblock Nonlinear stochastic model predictive control in the circular domain.
-\newblock In {\em 2015 American Control Conference ({ACC})}, pp. 1623--1628, New York. IEEE.
+\newblock In {\em 2015 {A}merican Control Conference ({ACC})}, pp. 1623--1628, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.1109/ACC.2015.7170965} {\path{doi:10.1109/ACC.2015.7170965}}.
 
 \bibitem[Kurz et~al., 2013]{Kurz2013}
@@ -5532,7 +5538,7 @@ Kurz, G., Gilitschenski, I., and Hanebeck, U.~D. (2014b).
 \bibitem[Kurz et~al., 2014c]{Kurz2014c}
 Kurz, G., Gilitschenski, I., and Hanebeck, U.~D. (2014c).
 \newblock Nonlinear measurement update for estimation of angular systems based on circular distributions.
-\newblock In {\em 2014 American Control Conference}, pp. 5694--5699, New York. IEEE.
+\newblock In {\em 2014 {A}merican Control Conference}, pp. 5694--5699, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.1109/ACC.2014.6858982} {\path{doi:10.1109/ACC.2014.6858982}}.
 
 \bibitem[Kurz et~al., 2016a]{Kurz2016a}
@@ -5870,7 +5876,7 @@ Leguey, I., Larra\~{n}aga, P., Bielza, C., and Kato, S. (2019b).
 
 \bibitem[Leguey~Vitoriano, 2018]{Leguey2018}
 Leguey~Vitoriano, I. (2018).
-\newblock {\em Directional-Linear Bayesian Networks and Applications in Neuroscience}.
+\newblock {\em Directional-Linear {B}ayesian Networks and Applications in Neuroscience}.
 \newblock PhD thesis, Universidad Polit\'ecnica de Madrid.
 
 \bibitem[Lehmacher and Lienert, 1980]{Lehmacher1980}
@@ -6026,7 +6032,7 @@ Li, C., Ma, J., Yang, P., and Li, Z. (2019a).
 \bibitem[Li et~al., 2019b]{Li2019a}
 Li, K., Frisch, D., Noack, B., and Hanebeck, U.~D. (2019b).
 \newblock Geometry-driven deterministic sampling for nonlinear {B}ingham filtering.
-\newblock In {\em 2019 18th European Control Conference ({ECC})}, pp. 381--387, New York. IEEE.
+\newblock In {\em 2019 18th {E}uropean Control Conference ({ECC})}, pp. 381--387, New York. IEEE.
 \newblock \href {http://dx.doi.org/10.23919/ECC.2019.8796102} {\path{doi:10.23919/ECC.2019.8796102}}.
 
 \bibitem[Li et~al., 2018a]{Li2018}
@@ -7123,7 +7129,7 @@ Moreno~Chavez, G., Castillo~Rivera, F., Sarocchi, D., Borselli, L., and Rodrigue
 
 \bibitem[Morphet, 2009]{Morphet2009}
 Morphet, W.~J. (2009).
-\newblock {\em Simulation, Kriging, and Visualization of Circular-Spatial Data}.
+\newblock {\em Simulation, {K}riging, and Visualization of Circular-Spatial Data}.
 \newblock PhD thesis, Utah State University.
 
 \bibitem[Morphet and Symanzik, 2010]{Morphet2010}
@@ -7170,7 +7176,7 @@ Mulder, K., Klugkist, I., van Renswoude, D., and Visser, I. (2020b).
 
 \bibitem[Mulder, 2019]{Mulder2019}
 Mulder, K.~T. (2019).
-\newblock {\em Bayesian Circular Statistics: von Mises Solutions for Practical Problems}.
+\newblock {\em Bayesian Circular Statistics: von {M}ises Solutions for Practical Problems}.
 \newblock PhD thesis, University of Utrecht.
 
 \bibitem[Mulder and Klugkist, 2021]{Mulder2021}
@@ -7487,7 +7493,7 @@ Pandolfo, G., Paindaveine, D., and Porzio, G.~C. (2018b).
 
 \bibitem[Papakonstantinou, 1979]{Papakonstantinou1979}
 Papakonstantinou, V. (1979).
-\newblock {\em Beitr\"age zur Zirkul\"aren Statistik}.
+\newblock {\em Beitr\"age zur Zirkul\"aren {S}tatistik}.
 \newblock PhD thesis, University of Zurich.
 
 \bibitem[Papakonstantinou, 1984]{Papakonstantinou1984}
@@ -8038,10 +8044,11 @@ Quill, R.~E. (2017).
 \newblock {\em Statistical Characteristics of Wind Fields Over Complex Terrain with Applications in Bushfire Modelling}.
 \newblock PhD thesis, University of New South Wales.
 
-\bibitem[{R Core Team}, 2020]{R2020}
-{R Core Team} (2020).
+\bibitem[{R Core Team}, 2026]{R2020}
+{R Core Team} (2026).
 \newblock {\em R: A Language and Environment for Statistical Computing}.
 \newblock {R} Foundation for Statistical Computing.
+\newblock Version 4.6.1.
 \newblock URL: \url{https://www.R-project.org/}.
 
 \bibitem[Rabbani et~al., 2019]{Rabbani2019}
@@ -8189,7 +8196,7 @@ Reisinger, J., Waters, A., Silverthorn, B., and Mooney, R.~J. (2010).
 
 \bibitem[Reverbel, 2026]{Reverbel2026}
 Reverbel, M. (2026).
-\newblock Addressing parity blindness of data-driven sobolev tests on the hypersphere.
+\newblock Addressing parity blindness of data-driven {S}obolev tests on the hypersphere.
 \newblock {\em Statistics \& Probability Letters}, 239:110893.
 \newblock \href {http://dx.doi.org/10.1016/j.spl.2026.110893} {\path{doi:10.1016/j.spl.2026.110893}}.
 
@@ -8312,10 +8319,10 @@ Roberts, P.~H. and Winch, D.~E. (1984).
 \newblock {\em Advances in Applied Probability}, 16(3):638--655.
 \newblock \href {http://dx.doi.org/10.2307/1427291} {\path{doi:10.2307/1427291}}.
 
-\bibitem[Robotham, 2013]{Robotham2013}
-Robotham, A. (2013).
+\bibitem[Robotham, 2022]{Robotham2013}
+Robotham, A. (2022).
 \newblock {\em {sphereplot}: Spherical Plotting}.
-\newblock {R} package version 1.5.
+\newblock {R} package version 1.5.1.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.sphereplot} {\path{doi:10.32614/CRAN.package.sphereplot}}.
 
 \bibitem[Rocchi and Perlini, 2002]{Rocchi2002}
@@ -8338,7 +8345,7 @@ Rodr\'iguez, C.~E., {N\'u\~{n}ez-Antonio}, G., and Escarela, G. (2020).
 
 \bibitem[Rodriguez-Lujan et~al., 2015]{RodriguezLujan2015}
 Rodriguez-Lujan, L., Bielza, C., and Larra\~{n}aga, P. (2015).
-\newblock Regularized multivariate von mises distribution.
+\newblock Regularized multivariate von {M}ises distribution.
 \newblock In Puerta, J.~M., G\'amez, J.~A., Dorronsoro, B., Barrenechea, E., Troncoso, A., Baruque, B., and Galar, M. (Eds.), {\em Advances in Artificial Intelligence}, volume 9422 of {\em Lecture Notes in Computer Science}, pp. 25--35, Cham. Springer.
 \newblock \href {http://dx.doi.org/10.1007/978-3-319-24598-0_3} {\path{doi:10.1007/978-3-319-24598-0_3}}.
 
@@ -9007,9 +9014,10 @@ Singh, H., Hnizdo, V., and Demchuk, E. (2002).
 \newblock {\em Biometrika}, 89(3):719--723.
 \newblock \href {http://dx.doi.org/10.1093/biomet/89.3.719} {\path{doi:10.1093/biomet/89.3.719}}.
 
-\bibitem[Sinz et~al., 2018]{Berens2018}
-Sinz, F., Berens, B., Kuemmerer, M., and Wallis, T. (2018).
+\bibitem[Sinz et~al., 2022]{Berens2018}
+Sinz, F., Berens, B., Kuemmerer, M., and Wallis, T. (2022).
 \newblock {\em {PyCircStat}: Circular Statistics with {P}ython}.
+\newblock {P}ython package version 0.0.2.
 \newblock URL: \url{https://github.com/circstat/pycircstat}.
 
 \bibitem[Sittel et~al., 2017]{Sittel2017}
@@ -9047,10 +9055,10 @@ Soderkvist, I. and Wedin, P. (1993).
 \newblock {\em Journal of Biomechanics}, 26:1473--1477.
 \newblock \href {http://dx.doi.org/10.1016/0021-9290(93)90098-y} {\path{doi:10.1016/0021-9290(93)90098-y}}.
 
-\bibitem[Soetaert, 2019]{Soetaert2019}
-Soetaert, K. (2019).
+\bibitem[Soetaert, 2025]{Soetaert2019}
+Soetaert, K. (2025).
 \newblock {\em {plot3D}: Plotting Multi-Dimensional Data}.
-\newblock {R} package version 1.3.
+\newblock {R} package version 1.4.2.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.plot3D} {\path{doi:10.32614/CRAN.package.plot3D}}.
 
 \bibitem[Solari and Angel~Losada, 2016]{Solari2016}
@@ -9486,10 +9494,10 @@ Taylor, C.~C. (2008).
 \newblock {\em Computational Statistics \& Data Analysis}, 52(7):3493--3500.
 \newblock \href {http://dx.doi.org/10.1016/j.csda.2007.11.003} {\path{doi:10.1016/j.csda.2007.11.003}}.
 
-\bibitem[Taylor et~al., 2018]{Taylor2018}
-Taylor, C.~C., Lafratta, G., and Fensore, S. (2018).
+\bibitem[Taylor et~al., 2023]{Taylor2018}
+Taylor, C.~C., Lafratta, G., and Fensore, S. (2023).
 \newblock {\em {nprotreg}: Nonparametric Rotations for Sphere-Sphere Regression}.
-\newblock {R} package version 1.0.1.
+\newblock {R} package version 1.1.1.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.nprotreg} {\path{doi:10.32614/CRAN.package.nprotreg}}.
 
 \bibitem[Taylor et~al., 2012]{Taylor2012}
@@ -9563,10 +9571,10 @@ Tsagris, M. and Alenazi, A. (2019).
 \newblock {\em Communications in Statistics: Case Studies, Data Analysis and Applications}, 5(4):467--491.
 \newblock \href {http://dx.doi.org/10.1080/23737484.2019.1684854} {\path{doi:10.1080/23737484.2019.1684854}}.
 
-\bibitem[Tsagris et~al., 2020]{Tsagris2020}
-Tsagris, M., Athineou, G., Sajib, A., Amson, E., and Waldstein, M.~J. (2020).
+\bibitem[Tsagris et~al., 2026]{Tsagris2020}
+Tsagris, M., Athineou, G., Sajib, A., Amson, E., and Waldstein, M.~J. (2026).
 \newblock {\em {Directional}: Directional Statistics}.
-\newblock {R} package version 4.4.
+\newblock {R} package version 7.8.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.Directional} {\path{doi:10.32614/CRAN.package.Directional}}.
 
 \bibitem[Tsai, 2009]{Tsai2009}
@@ -9873,7 +9881,7 @@ Watamori, Y. and Kakimizu, O. (1996).
 \bibitem[Waterman, 1963]{Waterman1963}
 Waterman, T.~H. (1963).
 \newblock The analysis of spatial orientation.
-\newblock In Autrum, H., B\"unning, E., Frisch, K.~V., Hadorn, E., K\"uhn, A., Mayr, E., Pirson, A., Straub, J., Stubbe, H., and Weidel, W. (Eds.), {\em Orientierung der Tiere / Animal Orientation}, volume~26 of {\em Ergebnisse der Biologie / Advances in Biology}, pp. 98--117. Springer, Berlin.
+\newblock In Autrum, H., B\"unning, E., Frisch, K.~V., Hadorn, E., K\"uhn, A., Mayr, E., Pirson, A., Straub, J., Stubbe, H., and Weidel, W. (Eds.), {\em Orientierung der {T}iere / Animal Orientation}, volume~26 of {\em Ergebnisse der Biologie / Advances in Biology}, pp. 98--117. Springer, Berlin.
 \newblock \href {http://dx.doi.org/10.1007/978-3-642-99872-0_11} {\path{doi:10.1007/978-3-642-99872-0_11}}.
 
 \bibitem[Watson, 1956a]{Watson1956b}
@@ -9931,7 +9939,7 @@ Watson, G.~S. (1969).
 
 \bibitem[Watson, 1970]{Watson1970}
 Watson, G.~S. (1970).
-\newblock Orientation statistics in the earth sciences.
+\newblock Orientation statistics in the {E}arth sciences.
 \newblock {\em Bulletin of the Geological Institute of the University of Uppsala}, 2(1):73--89.
 
 \bibitem[Watson, 1971]{Watson1971}
@@ -10253,17 +10261,17 @@ Xie, X. (2013).
 \newblock {R} package version 0.1-6.
 \newblock URL: \url{https://CRAN.R-project.org/package=sspline}.
 
-\bibitem[Xu and Wang, 2019]{Xu2019}
-Xu, D. and Wang, Y. (2019).
-\newblock {\em {cplots}: Plots for Circular Data}.
-\newblock {R} package version 0.4-0.
-\newblock \href {http://dx.doi.org/10.32614/CRAN.package.cplots} {\path{doi:10.32614/CRAN.package.cplots}}.
-
 \bibitem[Xu and Wang, 2020]{Xu2020}
 Xu, D. and Wang, Y. (2020).
 \newblock Area-proportional visualization for circular data.
 \newblock {\em Journal of Computational and Graphical Statistics}, 29(2):351--357.
 \newblock \href {http://dx.doi.org/10.1080/10618600.2019.1654881} {\path{doi:10.1080/10618600.2019.1654881}}.
+
+\bibitem[Xu and Wang, 2022]{Xu2019}
+Xu, D. and Wang, Y. (2022).
+\newblock {\em {cplots}: Plots for Circular Data}.
+\newblock {R} package version 0.5-0.
+\newblock \href {http://dx.doi.org/10.32614/CRAN.package.cplots} {\path{doi:10.32614/CRAN.package.cplots}}.
 
 \bibitem[Xu et~al., 2011]{Xu2011}
 Xu, H., Nichols, K., and Schoenberg, F.~P. (2011).
@@ -10336,10 +10344,10 @@ Yoshimura, I. (1978).
 \newblock On a test of homogeneity hypothesis for directional data.
 \newblock {\em Sankhy\=a, Series A}, 40(3):310--312.
 
-\bibitem[You, 2020]{You2020}
-You, K. (2020).
+\bibitem[You, 2025]{You2020}
+You, K. (2025).
 \newblock {\em {RiemBase}: Functions and {C}++ Header Files for Computation on Manifolds}.
-\newblock {R} package version 0.2.4.
+\newblock {R} package version 0.2.6.
 \newblock \href {http://dx.doi.org/10.32614/CRAN.package.RiemBase} {\path{doi:10.32614/CRAN.package.RiemBase}}.
 
 \bibitem[Yu and Zhang, 2013]{Yu2013}
